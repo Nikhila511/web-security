@@ -1,0 +1,239 @@
+/* Masthead
+---------------------------------------------------------------------- */
+
+.rand-class-1309 .rand-class-5880 >.rand-class-9497 span.rand-class-9268 {
+  color: #fff;
+  font-size: .75em;
+  line-height: .75em;
+  margin: .5em 1.250em;
+  padding-left: 1.250em;
+  text-align: right;
+  font-family: "Segoe UI", sans-serif;
+  font-weight: bold;
+}
+
+.rand-class-9056 {
+  float: right;
+  display: none;
+  margin-top: -1em;
+  margin-bottom: 0.5em;
+}
+
+.rand-class-9056 img.rand-class-8861 {
+  display: block;
+  /* commented it out per bug #988 max-width: 250px;*/
+}
+
+.rand-class-9056 .rand-class-5132 {
+  background-image: url("//www.lenovo.com/images/onewebimages/common/strip-separator.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  float: left;
+  padding: 30px 20px;
+}
+
+.rand-class-9056 .rand-class-9539 {
+  float: left;
+  min-height: 60px;
+  min-width: 200px;
+  position: relative;
+}
+
+.rand-class-9056 .rand-class-3285 {
+  float: right;
+  min-height: 60px;
+  min-width: 200px;
+  position: relative;
+}
+
+.rand-class-9056 .rand-class-1580 >.rand-class-1846 a.rand-class-5821,
+.rand-class-9056 .rand-class-3285 >.rand-class-5873 a.rand-class-3064 {
+  bottom: 0;
+  display: block;
+  position: absolute;
+}
+
+.rand-class-2913 {
+  background-color: #DC291E;
+  display: none;
+}
+
+.rand-class-2913 #floatingPopupDimmerLayer.rand-class-2689,
+.rand-class-2913 #floatingPopupWrapper.rand-class-7904,
+.rand-class-2913 .rand-class-3873,
+#floatingPopupWrapper.rand-class-2389 {
+  display: none;
+}
+
+.rand-class-2913 .rand-class-5236 {
+  display: none;
+  padding: 10px;
+  text-align: center;
+}
+
+.rand-class-2913 .rand-class-5573 h2.rand-class-4158,
+.rand-class-2913 .rand-class-2756 h3.rand-class-6627,
+.rand-class-2913 .rand-class-2362 h4.rand-class-1072,
+.rand-class-2913 .rand-class-4561 h5.rand-class-4555 {
+  margin: 0;
+}
+
+@media (min-width: 63.5em) {
+  .rand-class-9800 .rand-class-4071 {
+    float: left;
+    display: block;
+  }
+
+  .rand-class-8353 .rand-class-4989 {
+    display: block;
+    line-height: 1.75em;
+  }
+
+  .rand-class-8497 >.rand-class-9594 .rand-class-6902 {
+    line-height: 0.85em;
+  }
+}
+
+@media (min-width: 60em) {
+  .rand-class-3790 .rand-class-8023 {
+    float: none;
+  }
+}
+
+@media (min-width: 65em) {
+  .rand-class-7983 .rand-class-4525 {
+    float: right;
+  }
+
+  .rand-class-9056 {
+    display: block;
+  }
+}
+
+/*Custom styles for contact us dropdown*/
+
+.rand-class-2372 ol.rand-class-8793 >.rand-class-7174 li:first-child+li+li.rand-class-8285 .rand-class-3582 {
+  font-size: 1.1em;
+}
+
+.rand-class-7716 ol.rand-class-4300 >.rand-class-2214 li:first-child+li+li.rand-class-1587 .rand-class-5350 .rand-class-1135 {
+  color: #000;
+  font-size: 0.9em;
+}
+
+.rand-class-6552 ol.rand-class-9636 >.rand-class-5441 li:nth-child(3).rand-class-6481 >.rand-class-1180 ol.rand-class-3832 .rand-class-8480 {
+  font-size: 1.1em;
+}
+
+.rand-class-7593 ol.rand-class-4021 >.rand-class-8695 li:nth-child(3).rand-class-5986 >.rand-class-4295 ol.rand-class-9501 .rand-class-3426 {
+  color: #000;
+  font-size: 0.9em;
+}
+
+/*Bug fix for 886 to allow button to fit text */
+
+.rand-class-5834 {
+  width: 6.75em;
+}
+
+/*To Hide espots of canvas*/
+
+@media (max-width: 51em) {
+  li.rand-class-2699 {
+    display: none;
+  }
+}
+
+/*FP2063*/
+
+@media (max-width:51em) {
+  .rand-class-9056 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0.5em 0;
+  }
+
+  .rand-class-9056 .rand-class-5609,
+  .rand-class-9056 .rand-class-5528 {
+    display: none;
+  }
+
+  .rand-class-9056 .rand-class-3285 {
+    float: none;
+    display: inline-block;
+  }
+
+  .rand-class-9056 .rand-class-3285 img.rand-class-1605 {
+    margin-left: 4em;
+    height: 46px;
+  }
+}
+
+@media (min-width:51em) {
+  .rand-class-3530 .rand-class-2082 {
+    text-align: center;
+  }
+}
+
+@media (min-width:51em) and (max-width:66em) {
+  .rand-class-9056 .rand-class-3285 img.rand-class-1859 {
+    margin-left: 0;
+    height: auto;
+  }
+
+  #splitterPage.rand-class-8409 .rand-class-9056,
+  #brandPage.rand-class-9136 .rand-class-9056,
+  .rand-class-9056 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0.5em 0;
+  }
+
+  #splitterPage.rand-class-9438 .rand-class-9056 .rand-class-3285,
+  #splitterPage.rand-class-4538 .rand-class-8583 .rand-class-9056 .rand-class-7237,
+  #splitterPage.rand-class-2157 .rand-class-9669 .rand-class-9056 .rand-class-1958,
+  #brandPage.rand-class-3862 .rand-class-9056 .rand-class-3285,
+  #brandPage.rand-class-6805 .rand-class-9056 .rand-class-5940,
+  #brandPage.rand-class-3503 .rand-class-9056 .rand-class-6065,
+  .rand-class-9056 .rand-class-3285,
+  .rand-class-9056 .rand-class-8936,
+  .rand-class-9056 .rand-class-6695 {
+    display: inline-block;
+    float: none;
+  }
+
+  #splitterPage.rand-class-1583 .rand-class-9056 .rand-class-5186 a.rand-class-2409,
+  #brandPage.rand-class-4845 .rand-class-9056 .rand-class-5313 a.rand-class-5998,
+  .rand-class-9056 .rand-class-4956 a.rand-class-9723 {
+    top: 0;
+  }
+}
+
+/*FP2168 fix*/
+
+.rand-class-7396 li.rand-class-2355 .rand-class-8171 .rand-class-8765,
+.rand-class-6858 li.rand-class-1658 .rand-class-2889 .rand-class-9394,
+.rand-class-4780 .rand-class-5910 .rand-class-9586,
+.rand-class-7908 .rand-class-7208 .rand-class-5575 {
+  content: none!important;
+}
+
+.rand-class-2004 .rand-class-4993,
+.rand-class-6548 .rand-class-1441,
+.rand-class-1892 .rand-class-6512 {
+  text-align: left;
+}
+
+/*BZ1708 fix*/
+
+div#welcome-msg.rand-class-9654 {
+  float: left;
+  padding: 10px 0 0 0;
+}
+
+#mastheadPageTitleMessaging.rand-class-4946 div.rand-class-5852 a.rand-class-5769 {
+  float: right;
+  padding: 10px 0 0 0;
+}

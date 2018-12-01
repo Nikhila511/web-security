@@ -1,0 +1,265 @@
+var mboxCurrent = mboxFactories.get('default').get('target-global-mbox',0);mboxCurrent.setOffer(new mboxOfferAjax(''));mboxCurrent.getOffer().setOnLoad(function() {
+var ACCDNT = {};
+
+ACCDNT.mboxUpdate = (function (document, fDefine, fUpdate) {
+    "use strict";
+    
+    function build(oDefault) {
+        var oEl,
+            oOption = oDefault || {
+                sName: "acc-async",
+                sElement: "div",
+                sParams: ""
+            };
+    
+        oEl = document.createElement(oOption.sElement || "div");
+        oEl.id = oOption.sName;
+
+        document.body.appendChild(oEl);
+        fDefine(oOption.sName, oOption.sName);
+        fUpdate(oOption.sName, oOption.sParams);
+    }
+    
+    return {
+        build: build
+    };
+}(document, mboxDefine, mboxUpdate));
+
+
+(function (sPath, fUpdate) {
+    "use strict";
+    
+    var sCat,
+        sUrl = document.URL,
+        sMbox = "acc-cat-aff";
+
+    if (sPath === "/au/en/laptops/ideapad/ideapad-100/ideapad-100S-11IBY/p/88EM10S0639" ||
+        sPath === "/au/en/laptops/ideapad/ideapad-100/Lenovo-ideaPad-100-14IBY/p/88IP1000563" ||
+        sPath === "/au/en/laptops/ideapad/300-series/ideapad-300-14ISK/p/88IP3000624" ||
+        sPath === "/au/en/laptops/ideapad/300-series/ideapad-300-15ISK/p/88IP3000625" ||
+        sPath === "/au/en/laptops/ideapad/ideapad-500/Lenovo-ideapad-500-15ISK/p/88IP5000604" ||
+        sPath === "/au/en/laptops/ideapad/c/ideapad" ||
+        sPath === "/au/en/consumer-notebook/ideapad/100-series/c/88IP100" ||
+        sPath === "/au/en/laptops/ideapad/300-series/c/88IP300" ||
+        sPath === "/au/en/laptops/ideapad/ideapad-500/Lenovo-ideapad-500-15ISK/p/88IP5000604"||
+		sPath === "/au/en/consumer-notebook/emergin-bu/100s-series/ideapad-100S-11IBY/p/88EM10S0639"||
+		sPath === "/au/en/laptops/ideapad/300-series/c/ideapad300"||
+		sPath === "/au/en/laptops/ideapad/ideapad500/c/ideapad500"||
+		sPath === "/au/en/consumer-notebook/ideapad/ideapad-500/Lenovo-ideapad-500-15ISK/p/88IP5000604"||
+        sPath === "/au/en/laptops/ideapad/ideapad500/c/ideapad500"||
+        sPath === "/au/en/laptops/ideapad/ideapad500/IdeaPad-510-15%22-Intel/p/88IP5000722"||
+        sPath === "/au/en/laptops/ideapad/ideapad-700-series/c/ideapad700"||
+        sPath === "/au/en/laptops/ideapad/ideapad-700-series/IdeaPad-710S-13ISK/p/88IP70S0694"||
+        sPath === "/au/en/laptops/ideapad/300-series/IdeaPad-310-14ISK/p/88IP3000705"||
+        sPath === "/au/en/deals/current-offers/laptop-for-home-deals/Notebook-IP-310-14ISK-I3-4G-1TB-10H/p/80SL0061AU"||
+        sPath === "/au/en/deals/current-offers/laptop-for-home-deals/Notebook-IP-310-14ISK-I5-4G-1TB-10H/p/80SL0062AU"||
+        sPath === "/au/en/laptops/ideapad/300-series/IdeaPad-310-14ISK/p/80SL0065AU"||
+        sPath === "/au/en/deals/current-offers/laptop-for-home-deals/Notebook-IP-310-14ISK-I7-4G-4G-1TB-10P/p/80SL0066AU"
+       ) {
+        sCat = "affordable";
+    } else if (sPath === "/au/en/laptops/thinkpad/11e-and-chromebooks/c/11ECOMB" ||
+        sPath === "/au/en/laptops/thinkpad/11e-and-chromebooks/11e/p/22TP2TC150E" ||
+        sPath === "/au/en/laptops/thinkpad/11e-and-chromebooks/11e/p/22TP2TX151E" ||
+        sPath === "/au/en/education/gatekeeper/showpage" ||
+        sPath === "/au/en/students/"||
+        sPath === "/au/en/laptops/thinkpad/11e-and-chromebooks/11e-3rd-Gen/p/22TP2TX152E"
+       ) {
+        sCat = "education"
+    } else if (sPath === "/au/en/laptops/thinkpad/c/THINKPAD" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-x/c/ThinkPadX" ||
+        sPath === "/au/en/commercial-notebook/thinkpad-classic/thinkpad-t-series/c/22TP2TT" ||
+        sPath === "/au/en/laptops/thinkpad/w-series/W541/p/22TP2TWW541" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-l/c/22TP2TL" ||
+        sPath === "/au/en/desktops-and-all-in-ones/c/DESKTOPS" ||
+        sPath === "/au/en/desktops-and-all-in-ones/mini-computers/c/TINY" ||
+        sPath === "/au/en/desktops-and-all-in-ones/small-form-factor-pcs/c/SFF" ||
+        sPath === "/au/en/desktops-and-all-in-ones/computer-towers/c/COMPUTERTOWER" ||
+        sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/c/AIO" ||
+        sPath === "/au/en/workstations/" ||
+        sPath === "/au/en/workstations/thinkstation/p-series/" ||
+        sPath === "/au/en/systems/" ||
+        sPath === "/au/en/systems/servers/" ||
+        sPath === "/au/en/systems/storage/" ||
+        sPath === "/au/en/systems/networking/" ||
+        sPath === "/au/en/systems/solutions/" ||
+        sPath === "/au/en/systems/software/" ||
+        sPath === "/au/en/systems/services/" ||
+        sPath === "/au/en/deals/current-offers/laptops-for-work-deals/c/DEALS2#tab-LaptopsForWorkDeals" ||
+        sPath === "/au/en/deals/current-offers/desktop-deals/c/DEALS4" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-x/X250/p/22TP2TX2500" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T450/p/22TP2TT4500" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T540p/p/22TP2TT540P" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T550/p/22TP2TT5500" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T450s/p/22TP2TT450S" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T440p/p/22TP2TT440P" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T440/p/22TP2TD4400" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-l/L440/p/22TP2TLL440" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-l/L540/p/22TP2TLL540" ||
+        sPath === "/au/en/ultrabooks/c/ULTRABOOKS" ||
+        sPath === "/au/en/desktops-and-all-in-ones/mini-computers/ThinkCentre-M53/p/11TC1MTM530" ||
+        sPath === "/au/en/desktops-and-all-in-ones/mini-computers/10AY/p/11TC1TMM73010AY" ||
+        sPath === "/au/en/desktops-and-all-in-ones/mini-computers/ThinkCentre-M83-Tiny/p/11TC1MTM830" ||
+        sPath === "/au/en/desktops-and-all-in-ones/mini-computers/10AA/p/11TC1TMM93P10AA" ||
+        sPath === "/au/en/desktops-and-all-in-ones/small-form-factor-pcs/10AU/p/11TC1TEE73010AU" ||
+        sPath === "/au/en/desktops-and-all-in-ones/small-form-factor-pcs/10B5/p/11TC1TMM73010B5" ||
+        sPath === "/au/en/desktops-and-all-in-ones/small-form-factor-pcs/10AH/p/11TC1TMM83010AH" ||
+        sPath === "/au/en/desktops-and-all-in-ones/small-form-factor-pcs/10A9/p/11TC1TMM93P10A9" ||
+        sPath === "/au/en/desktops-and-all-in-ones/computer-towers/10AS/p/11TC1TEE73010AS" ||
+        sPath === "/au/en/desktops-and-all-in-ones/computer-towers/10B2/p/11TC1TMM73010B2" ||
+        sPath === "/au/en/desktops-and-all-in-ones/computer-towers/10AG/p/11TC1TMM83010AG" ||
+        sPath === "/au/en/desktops-and-all-in-ones/computer-towers/10A7/p/11TC1TMM93P10A7" ||
+        sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/Lenovo-A740/p/FF3KF3A0162" ||
+        sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/FF3KF3C0160/p/FF3KF3C0160" ||
+        sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/ThinkCentre-E73Z/p/11TC1TEE73Z" ||
+        sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/ThinkCentre-E93Z/p/11TC1TEE93Z" ||
+        sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/ThinkCentre-M93Z/p/11TC1TMM93Z" ||
+        sPath === "/au/en/business-store/gatekeeper/showpage?toggle=RegistrationGatekeeper" ||
+        sUrl === "https://www3.lenovo.com/au/en/business-store/gatekeeper/showpage?toggle=RegistrationGatekeeper" ||
+        sPath === "/au/en/small-business/" ||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/c/thinkpadt"||
+	sPath === "/au/en/laptops/thinkpad/w-series/c/thinkpadw"||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-x/X260/p/22TP2TX2600"||
+	sPath ==="/au/en/laptops/thinkpad/thinkpad-t-series/T460/p/22TP2TT4600"||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T560/p/22TP2TT5600"||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T460p/p/22TP2TT460P"||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T460s/p/22TP2TT460S" ||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-l/L450/p/22TP2TBL450"||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-l/L560/p/22TP2TBL560"||
+	sPath === "/au/en/desktops-and-all-in-ones/mini-computers/ThinkCentre-M700/p/11TC1MTM700" ||
+	sPath === "/au/en/desktops-and-all-in-ones/small-form-factor-pcs/10FY/p/11TC1MDM80010FY"||
+	sPath === "/au/en/desktops-and-all-in-ones/small-form-factor-pcs/10FH/p/11TC1MDM90010FH"||
+	sPath === "/au/en/desktops-and-all-in-ones/computer-towers/10FW/p/11TC1MDM80010FW" ||
+	sPath === "/au/en/desktops-and-all-in-ones/computer-towers/M900-TWR-10FD/p/11TC1MDM90010FD" ||
+	sPath === "/au/en/desktops-and-all-in-ones/computer-towers/10KM/p/11TC1MDM70010KM" ||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/Lenovo-A740/p/FF3KF3A0162"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/Lenovo-S200z/p/11LS1SZ200Z"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/ThinkCentre-X1/p/11TC1XZX100"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/ideacentre-AIO-700-24ISH/p/FFICF700227"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/ThinkCentre-M900z/p/11TC1MZ900Z"||
+	sPath === "/au/en/business-store/gatekeeper/showpage?toggle=RegistrationGatekeeper"||
+	sPath === "/au/en/small-business/"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/Lenovo-S400z/p/11LS1SZ400Z"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/Lenovo-S500z/p/11LS1SZ500Z"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/Lenovo-C20-00/p/FF3KF3C0224"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/Lenovo-C50-30/p/FF3KF3C0194"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/ideacentre-AIO-700-24ISH/p/FFICF700227"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/ThinkCentre-M900z/p/11TC1MZ900Z"||
+        sPath ==="/au/en/laptops/thinkpad/thinkpad-13-series/c/thinkpad13"||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-l/c/thinkpadl"||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-x/c/ThinkPadX"||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/c/thinkpadt"||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-t-series/T560/p/22TP2TT5600"||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-p-series/c/thinkpadp"||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-p-series/P70/p/22TP2WPWP70"||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-p-series/P50/p/22TP2WPWP50"
+        ) {
+        sCat = "smb";
+    } else if (sPath === "/au/en/laptops/thinkpad/thinkpad-edge/c/thinkpade" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-edge/E460/p/22TP2TEE460" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-edge/E560/p/22TP2TEE560" ||
+		sPath === "/au/en/commercial-notebook/thinkpad-classic/thinkpad-edge/E450-Sub-Series/p/22TP2TEE450"||
+		sPath === "/au/en/commercial-notebook/thinkpad-classic/thinkpad-edge/E550-Sub-Series/p/22TP2TEE550"||
+		sPath === "/au/en/commercial-notebook/thinkpad-classic/thinkpad-edge/E460/p/22TP2TEE460"||
+		sPath === "/au/en/commercial-notebook/thinkpad-classic/thinkpad-edge/E560/p/22TP2TEE560"
+        ) {
+        sCat = "edge";
+    } else if (sPath === "/au/en/deals/current-offers/tablet-deals/c/DEALS3" ||
+        sPath === "/au/en/tablets/c/TABLETS" ||
+        sPath === "/au/en/tablets/android-tablets/c/ANDROIDTABLETS" ||
+        sPath === "/au/en/tablets/windows-tablets/c/WINDOWSTABLETS" ||
+        sPath === "/au/en/tablets/android-tablets/Yoga-Tablet-3-Pro-X90F/p/ZZITZTBYT1F" ||
+        sPath === "/au/en/tablets/windows-tablets/YOGA-Tablet-2-1051/p/ZZITWTB0005" ||
+        sPath === "/au/en/tablets/windows-tablets/10/p/22TP2TP2A10" ||
+        sPath === "/au/en/tablets/android-tablets/Yoga-Tablet-3-8/p/ZZITZTBYT0F" ||
+        sPath === "/au/en/tablets/android-tablets/Yoga-Tablet-3-10/p/ZZITZTBYT2F" ||
+        sPath === "/au/en/tablets/android-tablets/Lenovo-YT3-X90F/p/ZZITZTBYT1F"||
+	sPath === "/au/en/tablets/windows-tablets/ThinkPad-X1-Tablet/p/22TP2CP0112"||
+	sPath === "/au/en/tablets/windows-tablets/ideapad-MIIX-700-12ISK/p/88IPMX70637"||
+	sPath === "/au/en/tablets/windows-tablets/Lenovo-Horizon-2-27/p/FF3KF3H0167"||
+	sPath === "/au/en/tablets/android-tablets/Lenovo-YT3-850F/p/ZZITZTBYT0F" ||
+	sPath === "/au/en/tablets/android-tablets/Lenovo-YT3-X50F/p/ZZITZTBYT2F" ||
+        sPath === "/au/en/tablets/windows-tablets/c/WINDOWSTABLETS"||
+        sPath === "/au/en/tablets/windows-tablets/Lenovo-IdeaPad-Miix-700/p/88IPMX70637"
+        ) {
+        sCat = "tablets";
+    } else if (sPath === "/au/en/laptops/yoga/lenovo-yoga/c/88LG80A" ||
+        sPath === "/au/en/laptops/yoga/lenovo-yoga/YOGA-3-14/p/88LG80A0477" ||
+        sPath === "/au/en/laptops/yoga/lenovo-yoga/Lenovo-Yoga-3-Pro/p/88LG80A0448" ||
+        sPath === "/au/en/laptops/yoga/-yoga-300/Lenovo-YOGA-300-11IBR/p/88YG3000595" ||
+        sPath === "/au/en/laptops/yoga/yoga-500/Lenovo-Yoga-500-14ISK/p/88YG5000648" ||
+        sPath === "/au/en/laptops/yoga/700-series/c/88YG700" ||
+        sPath === "/au/en/laptops/yoga/700-series/Lenovo-YOGA-700-14ISK/p/88YG7000615" ||
+        sPath === "/au/en/laptops/yoga/700-series/Lenovo-YOGA-700-11ISK/p/88YG7000616" ||
+        sPath === "/au/en/laptops/yoga/900-series/Lenovo-YOGA-900-13ISK/p/88YG9000571" ||
+        sPath === "/au/en/tablets/convertibles/c/CONVERTIBLES" ||
+        sPath === "/au/en/laptops/yoga/c/yoga" ||
+        sPath === "/au/en/yoga/" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-helix/Helix/p/22TP2CP0111" ||
+        sPath === "/au/en/commercial-notebook/thinkpad-classic/thinkpad-yoga/c/22TP2TS" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-yoga/S100/p/22TE2TSS100" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-yoga/ThinkPad-S3-Yoga-14/p/22TP2TSS300" ||
+        sPath === "/au/en/laptops/thinkpad/thinkpad-yoga/Yoga-260/p/22TP2TXY260"||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-yoga/c/thinkpadyoga"||
+	sPath === "/au/en/laptops/thinkpad/thinkpad-yoga/Yoga-460/p/22TP2TSS460"||
+	sPath === "/au/en/desktops-and-all-in-ones/all-in-one-pcs/YOGA-Home-900-27IBU/p/FFYHYH90230"||
+        sPath === "/au/en/laptops/yoga/yoga-500/c/yoga500"||
+        sPath === "/au/en/laptops/yoga/yoga-500/Lenovo-YOGA-510-14ISK/p/88YG5000682"||
+        sPath === "/au/en/laptops/yoga/700-series/c/yoga700"||
+        sPath === "/au/en/laptops/yoga/700-series/Lenovo-YOGA-710-14ISK/p/88YG7000724"||
+        sPath === "/au/en/laptops/yoga/yoga-900/c/yoga900"||
+        sPath === "/au/en/laptops/yoga/yoga-900/Lenovo-YOGA-900S-12ISK/p/88YG90S0572"||
+        sPath === "/au/en/laptops/yoga/yoga-300/c/yoga300"
+        ) {
+        sCat = "twoInOne";
+    } else if (sPath === "/au/en/laptops/ideapad/y700-series/Lenovo-ideapad-Y700-14ISK/p/88IPY700617" ||
+        sPath === "/au/en/laptops/ideapad/y700-series/Lenovo-ideapad-Y700-15ISK/p/88IPY700618" ||
+        sPath === "/au/en/laptops/ideapad/y700-series/Lenovo-ideapad-Y700-Touch-15ISK/p/88IPY700619" ||
+        sPath === "/au/en/laptops/ideapad/y700-series/Lenovo-ideapad-Y700-17ISK/p/88IPY700622" ||
+		sPath === "/au/en/consumer-notebook/ideapad/y700-series/Lenovo-ideapad-Y700-17ISK/p/88IPY700622"||
+		sPath === "/au/en/consumer-notebook/ideapad/y700-series/Lenovo-ideapad-Y700-Touch-15ISK/p/88IPY700619"||
+		sPath === "/au/en/consumer-notebook/ideapad/y700-series/Lenovo-ideapad-Y700-17ISK/p/88IPY700622"||
+        sPath === "/au/en/deals/current-offers/gaming-laptops/c/DEALS5" ||
+        sPath === "/au/en/laptops/ideapad/y700-series/c/ideapad700?menu-id=Y700_Gaming" ||
+        sPath === "/au/en/gaming/laptops/?menu-id=Gaming_PCs" ||
+        sPath === "/au/en/laptops/ideapad/y700-series/c/ideapad700#gaming" ||
+        sPath === "/au/en/laptops/lenovo/lenovo-y-series/Lenovo-Y70-70-Touch/p/88LG80Y0350?menu-id=Lenovo_Y70"||
+        sPath === "/au/en/laptops/lenovo/y-series/c/y-series"||
+        sPath === "/au/en/laptops/lenovo/y-series/Lenovo-Y50-70/p/88LG80Y0378"||
+        sPath === "/au/en/laptops/ideapad/y700-series/c/ideapady700"||
+        sPath === "/au/en/laptops/ideapad/y900-gaming/c/ideapady900"||
+        sPath === "/au/en/laptops/ideapad/y900-gaming/Lenovo-IdeaPad-Y900-17ISK/p/88IPY900623"
+        ) {
+        sCat = "gaming";
+    } else {
+        sCat = "";
+    }
+
+    if(sCat!="") 
+    {
+        fUpdate({
+            sName: sMbox,
+            sParams: "user.categoryId=" + sCat
+        });
+    }
+}(location.pathname, ACCDNT.mboxUpdate.build));
+
+    /*mboxHighlight+ (1of2) v1 ==> Response Plugin*/
+    window.ttMETA = (typeof(window.ttMETA) != 'undefined') ? window.ttMETA : [];
+    window.ttMETA.push({
+        'mbox': 'target-global-mbox',
+        'campaign': '',
+        'experience': '',
+        'offer': '',
+        'tnt_var': '::'
+
+    });
+    window.ttMBX = function(x) {
+        var mbxList = [];
+        for (i = 0; i < ttMETA.length; i++) {
+            if (ttMETA[i].mbox == x.getName()) {
+                mbxList.push(ttMETA[i])
+            }
+        }
+        return mbxList[x.getId()]
+    }
+});mboxCurrent.loaded();mboxFactories.get('default').get('target-global-mbox',0).cancelTimeout();mboxFactories.get('default').get('target-global-mbox',0).setOffer(new mboxOfferDefault()).show();

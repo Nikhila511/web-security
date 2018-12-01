@@ -1,0 +1,1516 @@
+.rand-class-4225,
+.rand-class-3379,
+#bodywrap:before.rand-class-2338,
+#bodywrap:after.rand-class-8173 {
+  background: none !important;
+}
+
+.rand-class-6833 .rand-class-4051 {
+  z-index: 998;
+}
+
+@media (min-width: 76.75em) {
+  .rand-class-7541 .rand-class-4051 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    left: 50%;
+    margin-left: -36.875em;
+  }
+}
+
+/* Bar 2 */
+
+.rand-class-5804 {
+  background: none;
+  box-shadow: none;
+  min-height: initial;
+}
+
+.rand-class-2504 {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Bar 3 */
+
+.rand-class-2648 {
+  box-shadow: none;
+  background-color: #e3e3e3;
+}
+
+.rand-class-2648 .rand-class-3093 {
+  display: none;
+}
+
+.rand-class-9056 .rand-class-8767 {
+  margin-right: 20px;
+}
+
+@media (min-width: 60em) {
+  .rand-class-2648 {
+    min-height: 125px;
+  }
+
+  .rand-class-3336 {
+    padding-left: 90px;
+    padding-top: 10px;
+  }
+}
+
+@media (min-width: 76.75em) {
+  .rand-class-5804 {
+    min-height: 200px;
+    padding-top: 75px;
+    margin-top: -200px;
+  }
+
+  header.rand-class-9287 .rand-class-5804 {
+    margin: 0;
+  }
+
+  .rand-class-2483 {
+    height: 50px;
+  }
+}
+
+/* Logo */
+
+.rand-class-8960 {
+  float: left;
+  height: 50px;
+  width: 65px;
+  position: absolute;
+  z-index: 11;
+  overflow: hidden;
+}
+
+.rand-class-2029 .rand-class-8094 {
+  background: #e22319;
+  height: 100%;
+  line-height: 0;
+  text-align: center;
+}
+
+.rand-class-9166 .rand-class-7806 a.rand-class-8626 {
+  display: block;
+  height: 100%;
+  text-indent: -9999px;
+  overflow: hidden;
+  background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-sm.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.rand-class-8592 .rand-class-7959 a.rand-class-7074 {
+  background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-sm.png);
+}
+
+/* General */
+
+.rand-class-5517 {
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.rand-class-7976 {
+  margin-left: 65px;
+}
+
+.rand-class-5804 {
+  height: 50px;
+  background: #fff;
+  position: relative;
+}
+
+.rand-class-6052 a.rand-class-3170 {
+  text-decoration: none;
+  color: #454545;
+}
+
+.rand-class-7817 .rand-class-1884,
+.rand-class-7923 .rand-class-6483,
+.rand-class-6472 .rand-class-6481 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rand-class-1677 .rand-class-7518 {
+  display: block !important;
+}
+
+.rand-class-5159 .rand-class-8402 {
+  float: left;
+}
+
+.rand-class-9687 .rand-class-5342,
+.rand-class-1114 .rand-class-1986 {
+  float: left;
+}
+
+.rand-class-4130 .rand-class-7164 {
+  float: right;
+  clear: right;
+}
+
+.rand-class-4731 .rand-class-4211 {
+  max-height: 0;
+  overflow: hidden;
+}
+
+.rand-class-1224 .rand-class-4716 >.rand-class-7685 .rand-class-7749 .rand-class-9345 {
+  max-height: 5000px;
+  transition: 3s;
+}
+
+/* Slide speed */
+
+.rand-class-7616 .rand-class-3427 .rand-class-8555,
+.rand-class-5974 .rand-class-7391 .rand-class-5803 {
+  display: block;
+}
+
+.rand-class-3761 .rand-class-4684 .rand-class-4834 {
+  display: none;
+}
+
+/* Main Menu */
+
+.rand-class-2267 .rand-class-6604 {
+  display: block;
+  line-height: 15px;
+  padding: 13px 0 12px 0;
+  margin-left: 15px;
+}
+
+.rand-class-4642 .rand-class-8711 {
+  content: " ";
+  background: url('//www.lenovo.com/images/masthead/rebrand/rb_menu.png') no-repeat top 0px left 0px;
+  width: 35px;
+  height: 25px;
+  float: left;
+  display: block;
+}
+
+.rand-class-9300 .rand-class-3099 span.rand-class-9461 {
+  display: none;
+}
+
+/* Common */
+
+.rand-class-3439 .rand-class-7323 .rand-class-9334 {
+  display: none;
+}
+
+.rand-class-8971 .rand-class-6808 {
+  float: right;
+  font-size: 12px;
+  margin: 13px 40px 12px 0;
+  line-height: 10px;
+  color: #a7a7a7;
+  display: none;
+}
+
+.rand-class-7542 .rand-class-4050 li.rand-class-6785 {
+  padding: 0 8px;
+}
+
+.rand-class-6210 .rand-class-4495 a.rand-class-4138 {
+  color: #a7a7a7;
+}
+
+.rand-class-4068 .rand-class-9273 .rand-class-2400 {
+  font-size: 10px;
+  color: #000;
+}
+
+/* product_menu */
+
+.rand-class-9340 .rand-class-6551 {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 900;
+}
+
+.rand-class-2298 .rand-class-5316 {
+  display: block;
+}
+
+.rand-class-4759 .rand-class-4416 {
+  float: none;
+}
+
+.rand-class-3047 .rand-class-1246 {
+  background: #f2f2f2;
+}
+
+.rand-class-9840 .rand-class-4009 {
+  background: #e7e7e7;
+}
+
+.rand-class-7361 .rand-class-9527 {
+  padding: 18px 10px 17px 10px;
+  line-height: 15px;
+  display: block;
+  text-transform: uppercase;
+}
+
+.rand-class-7395 .rand-class-6656 .rand-class-4043 .rand-class-7799 {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+.rand-class-7185 .rand-class-7257 .rand-class-2674 .rand-class-9156 >.rand-class-3459 li.rand-class-8899 {
+  display: block;
+  padding: 5px 15px;
+  border-top: 1px solid #bcbcbc;
+  background: #ddd;
+}
+
+.rand-class-3413 .rand-class-6613 .rand-class-2221 .rand-class-7179 .rand-class-4644 li:nth-child(odd).rand-class-9520 .rand-class-9008 {
+  background-color: #e5e5e5 !important;
+}
+
+.rand-class-1900 .rand-class-5879 .rand-class-3185 .rand-class-1436 .rand-class-6056 li:nth-child(even).rand-class-2560 .rand-class-5163 {
+  background-color: #eaeaea !important;
+}
+
+.rand-class-7780 .rand-class-9934 .rand-class-9125 .rand-class-2682 .rand-class-8055 li.rand-class-1524 .rand-class-7459 {
+  background-color: #fff !important;
+  transition-duration: 0.5s;
+}
+
+/* deals_menu */
+
+.rand-class-5367 .rand-class-9738 .rand-class-9726 .rand-class-8657 .rand-class-2486 >.rand-class-8587 li.rand-class-7433 {
+  display: none;
+}
+
+.rand-class-9369 .rand-class-5263 .rand-class-7306 .rand-class-7013 .rand-class-3798 .rand-class-7883 li.rand-class-2769 {
+  background: #fff !important;
+  transition-duration: 0.5s;
+}
+
+.rand-class-6136 .rand-class-2933 .rand-class-7434 .rand-class-5880 .rand-class-9030 >.rand-class-9661 li.rand-class-7661 .rand-class-7764 {
+  padding-bottom: 5px;
+  display: block;
+}
+
+.rand-class-6805 .rand-class-1290 .rand-class-5699 .rand-class-4499 .rand-class-7628 >.rand-class-4597 li.rand-class-5044 .rand-class-8065 {
+  margin: 0 -15px;
+}
+
+.rand-class-6987 .rand-class-4076 .rand-class-6548 .rand-class-7516 .rand-class-8663 >.rand-class-7672 li.rand-class-9195 .rand-class-5368 >.rand-class-9778 li.rand-class-5623 {
+  padding: 5px 15px;
+  border-top: 1px solid #bcbcbc;
+}
+
+/* support menu */
+
+.rand-class-1446 .rand-class-1359 .rand-class-6508 .rand-class-1666 .rand-class-2561 >.rand-class-3324 li.rand-class-3497 .rand-class-7653 {
+  margin: 5px 0 15px;
+}
+
+.rand-class-7068 .rand-class-3994 .rand-class-7765 .rand-class-6116 .rand-class-6600 >.rand-class-2936 li.rand-class-1682 .rand-class-4267 img.rand-class-8916 {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.rand-class-6497 .rand-class-4017 .rand-class-6878 .rand-class-4973 .rand-class-1389 >.rand-class-9236 li.rand-class-9536 .rand-class-2316 {
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.rand-class-4618 .rand-class-5923 .rand-class-3304 .rand-class-4902 .rand-class-6816 .rand-class-9898 >.rand-class-8984 li.rand-class-1782 .rand-class-2767 {
+  color: #009dd9;
+  font-size: 12px;
+  line-height: 15px;
+  margin-bottom: 3px;
+}
+
+.rand-class-9953 .rand-class-7954 .rand-class-7224 .rand-class-4262 .rand-class-3983 .rand-class-5761 .rand-class-8592 {
+  margin-bottom: 15px;
+}
+
+/* General Menu */
+
+.rand-class-7612 .rand-class-9622 {
+  line-height: 15px;
+  display: block;
+  height: 25px;
+  padding: 15px 7px 10px 7px;
+  webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+.rand-class-3036 .rand-class-2662 {
+  display: none;
+  line-height: 13px;
+  font-size: 12px;
+  padding: 4px 0 3px 25px;
+  color: #a7a7a7;
+}
+
+.rand-class-4023 .rand-class-5379 {
+  width: 20px;
+  height: 20px;
+  float: left;
+  display: block;
+}
+
+.rand-class-6012 .rand-class-5567 li>a:before.rand-class-8070 {
+  background-image: url('//www.lenovo.com/images/masthead/rebrand/rb_icons.png');
+  background-repeat: no-repeat;
+}
+
+.rand-class-3206 .rand-class-2897 .rand-class-4927 {
+  content: " ";
+  background-position: 0px 0px;
+}
+
+.rand-class-1315 .rand-class-7131 .rand-class-4670 {
+  content: " ";
+  background-position: 0px -20px;
+}
+
+.rand-class-6631 .rand-class-7826 .rand-class-9801 {
+  content: " ";
+  background-position: 0px -60px;
+}
+
+.rand-class-8263 .rand-class-6070 .rand-class-4141 {
+  content: " ";
+  background-position: 0px -80px;
+}
+
+.rand-class-4426 .rand-class-9824 .rand-class-5288 {
+  content: " ";
+  background-position: 0px -100px;
+}
+
+.rand-class-1096 .rand-class-2594 .rand-class-4260 {
+  content: " ";
+  background-position: 0px -120px;
+}
+
+.rand-class-7725 .rand-class-3145 .rand-class-5959 {
+  content: " ";
+  background-position: 0px -140px;
+}
+
+.rand-class-4255 .rand-class-6593 .rand-class-1539 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  background: #f2f2f2;
+  z-index: 900;
+}
+
+.rand-class-7380 .rand-class-7699 .rand-class-8872 .rand-class-1714 >.rand-class-2141 li.rand-class-4417 {
+  display: block;
+  padding: 5px 15px;
+  border-top: 1px solid #bcbcbc;
+  background: #ddd;
+}
+
+.rand-class-4237 .rand-class-8631 .rand-class-8044 .rand-class-8159 {
+  background: #f6f6f6;
+  outline: none;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+
+.rand-class-3427 .rand-class-9260 .rand-class-4698 .rand-class-5934 {
+  outline: none;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  padding: 0px;
+  display: block;
+  width: 100px;
+  height: 35px;
+  box-shadow: none;
+  border: none;
+  font-size: 0.8rem;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.rand-class-2110 .rand-class-4739 .rand-class-5986 .rand-class-1771 .rand-class-8500 >.rand-class-4198 li.rand-class-9507 {
+  padding: 0;
+}
+
+.rand-class-4546 .rand-class-9568 .rand-class-6826 .rand-class-3698 .rand-class-2893 >.rand-class-8039 li.rand-class-8438 {
+  padding: 0;
+}
+
+.rand-class-9296 .rand-class-2637 .rand-class-2966 a>span.rand-class-6976 {
+  display: none;
+  background: #ff6b00;
+  border-radius: 15px;
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  position: absolute;
+  margin-top: 11px;
+  right: 0px;
+  color: #fff;
+  font-size: 10px;
+  padding: 0;
+  line-height: 15px;
+}
+
+.rand-class-3301 .rand-class-3221 .rand-class-8392 .rand-class-6196 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rand-class-4418 .rand-class-3039 .rand-class-2402 #rollovercart.rand-class-9171 {
+  background: #f2f2f2;
+  padding-top: 10px;
+}
+
+.rand-class-5799 .rand-class-1272 .rand-class-8328 #rollovercart.rand-class-6146 #rollovercartContents.rand-class-6900 #rollovercartContentsItems.rand-class-7498 >.rand-class-2463 li.rand-class-9019 >.rand-class-8923 a.rand-class-3599 .rand-class-2512 {
+  top: -7px;
+}
+
+.rand-class-2556 .rand-class-9671 .rand-class-1116 #rollovercart.rand-class-5897 #rollovercartFooter.rand-class-4079 #rollovercartViewCart.rand-class-3299 {
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Media Queries */
+
+@media (min-width: 33.875em) {
+  /* Fluid Width */
+
+  .rand-class-2167 .rand-class-5515 .rand-class-3574 .rand-class-9876 {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    padding: 15px;
+    overflow: auto;
+  }
+
+  .rand-class-6235 .rand-class-3992 .rand-class-4694 .rand-class-9707 >.rand-class-5306 li.rand-class-5749 {
+    display: table-cell;
+    padding: 0;
+    border: none;
+    background: none;
+    vertical-align: top;
+  }
+
+  /* Marker */
+
+  .rand-class-3215 .rand-class-6626 .rand-class-7453 {
+    border-bottom: 8px solid #ff6b00;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 901;
+  }
+
+  .rand-class-3133 .rand-class-5632 .rand-class-3969 {
+    content: "";
+    display: block;
+    border: 8px solid transparent;
+    border-top-color: #ff6b00;
+    position: absolute;
+    bottom: -24px;
+    left: 50%;
+    margin-left: -8px;
+    z-index: 1000;
+  }
+
+  .rand-class-4766 .rand-class-3469 .rand-class-1009,
+  .rand-class-6709 .rand-class-7058 .rand-class-3157 {
+    display: none;
+  }
+
+  .rand-class-2801 .rand-class-4297 {
+    display: none;
+  }
+
+  .rand-class-3213 .rand-class-9248 {
+    display: block !important;
+    margin-left: 10px;
+    position: static;
+  }
+
+  .rand-class-6776 .rand-class-2475 {
+    background: none !important;
+    float: left;
+    margin: 0 5px;
+  }
+
+  .rand-class-1582 .rand-class-6098 {
+    padding: 18px 10px 17px 10px;
+    position: relative;
+  }
+
+  .rand-class-7957 .rand-class-7471 .rand-class-2447 {
+    border-bottom: 8px solid #6bc04b;
+  }
+
+  .rand-class-9138 .rand-class-7673 .rand-class-3073 {
+    border-top-color: #6bc04b;
+  }
+
+  .rand-class-8669 .rand-class-5098 .rand-class-2820 {
+    border-bottom: 8px solid #ea6bb0;
+  }
+
+  .rand-class-2530 .rand-class-8725 .rand-class-2159 {
+    border-top-color: #ea6bb0;
+  }
+
+  .rand-class-9938 .rand-class-4782 .rand-class-7423 {
+    display: block;
+  }
+
+  .rand-class-3661 .rand-class-3448 .rand-class-6076 {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #f2f2f2;
+    z-index: 900;
+  }
+
+  .rand-class-1931 .rand-class-4032 .rand-class-1508 .rand-class-5893 .rand-class-3191 .rand-class-3586 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 13px;
+    display: block;
+    height: 250px;
+    padding: 10px 0;
+    border-left: 1px solid #f2f2f2;
+    position: relative;
+  }
+
+  .rand-class-6388 .rand-class-5595 .rand-class-6312 .rand-class-5772 .rand-class-6436 .rand-class-9155 {
+    content: " ";
+    border-left: 1px solid #cfcfcf;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+
+  .rand-class-7864 .rand-class-9703 .rand-class-2346 .rand-class-9604 .rand-class-8782 li:first-child.rand-class-1162 .rand-class-1917 {
+    border: none;
+  }
+
+  .rand-class-7000 .rand-class-8495 .rand-class-6256 .rand-class-4422 .rand-class-7040 .rand-class-6684 .rand-class-2424 {
+    color: #009dd9;
+    line-height: 15px;
+  }
+
+  .rand-class-4645 .rand-class-2859 .rand-class-4959 .rand-class-4304 .rand-class-8185 {
+    display: block;
+  }
+
+  .rand-class-1627 .rand-class-2262 .rand-class-7597 .rand-class-9463 .rand-class-5008 >.rand-class-7140 li.rand-class-9915 {
+    display: block;
+    float: left;
+  }
+
+  /* five item */
+
+  .rand-class-8458 .rand-class-9024 .rand-class-1407 .rand-class-5598 .rand-class-3719 >.rand-class-2338 li:first-child:nth-last-child(5).rand-class-1821,
+  .rand-class-4802 .rand-class-2372 .rand-class-1476 .rand-class-7474 .rand-class-9539 >.rand-class-8120 li:first-child:nth-last-child(5).rand-class-2326 ~.rand-class-5005 li.rand-class-8817 {
+    width: 20%;
+  }
+
+  /* six item */
+
+  .rand-class-6293 .rand-class-6192 .rand-class-6620 .rand-class-4528 .rand-class-2230 >.rand-class-7103 li:first-child:nth-last-child(6).rand-class-9396,
+  .rand-class-8037 .rand-class-8499 .rand-class-6745 .rand-class-4650 .rand-class-8369 >.rand-class-8443 li:first-child:nth-last-child(6).rand-class-6572 ~.rand-class-6586 li.rand-class-9545 {
+    width: 33.3333%;
+  }
+
+  /* seven items */
+
+  .rand-class-7513 .rand-class-6141 .rand-class-1252 .rand-class-8729 .rand-class-2835 >.rand-class-5547 li:first-child:nth-last-child(7).rand-class-4808,
+  .rand-class-9832 .rand-class-8234 .rand-class-8168 .rand-class-6109 .rand-class-9971 >.rand-class-9994 li:first-child:nth-last-child(7).rand-class-2224 ~.rand-class-6285 li.rand-class-5646 {
+    width: 25%;
+  }
+
+  /* eight items */
+
+  .rand-class-3625 .rand-class-6561 .rand-class-1329 .rand-class-4602 .rand-class-6951 >.rand-class-4011 li:first-child:nth-last-child(8).rand-class-3489,
+  .rand-class-9271 .rand-class-4871 .rand-class-2274 .rand-class-6219 .rand-class-9137 >.rand-class-3490 li:first-child:nth-last-child(8).rand-class-9678 ~.rand-class-6474 li.rand-class-9137 {
+    width: 25%;
+  }
+
+  /* nine items */
+
+  .rand-class-4793 .rand-class-5545 .rand-class-8602 .rand-class-8447 .rand-class-2929 >.rand-class-9965 li:first-child:nth-last-child(9).rand-class-1763,
+  .rand-class-2171 .rand-class-3066 .rand-class-3326 .rand-class-4710 .rand-class-8496 >.rand-class-9973 li:first-child:nth-last-child(9).rand-class-9921 ~.rand-class-5463 li.rand-class-8627 {
+    width: 33.3333%;
+  }
+
+  .rand-class-8873 .rand-class-8993 .rand-class-9171 .rand-class-4857 .rand-class-6862 {
+    display: block;
+  }
+
+  .rand-class-9778 .rand-class-3217 .rand-class-8739 .rand-class-2559 .rand-class-2416 >.rand-class-8310 li.rand-class-1375 {
+    display: block;
+    float: left;
+    width: 100%;
+  }
+
+  .rand-class-9864 .rand-class-5519 .rand-class-3489 .rand-class-9242 .rand-class-8017 {
+    padding: 10px 15px;
+    border-top: none;
+    background: #ffffff;
+    background: -moz-linear-gradient(top,  #ffffff 4%, #dfe0df 31%, #f6f6f6 66%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(4%,#ffffff), color-stop(31%,#dfe0df), color-stop(66%,#f6f6f6));
+    background: -webkit-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+    background: -o-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+    background: -ms-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+    background: linear-gradient(to bottom,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 );
+  }
+
+  .rand-class-6056 .rand-class-2101 .rand-class-3557 .rand-class-8056 .rand-class-7068 .rand-class-6297 {
+    filter: none;
+  }
+
+  .rand-class-6725 .rand-class-7573 .rand-class-9545 .rand-class-5301 {
+    color: #009dd9;
+    font-size: 13px;
+  }
+
+  .rand-class-3648 .rand-class-9731 .rand-class-5118 .rand-class-6288 .rand-class-1847 {
+    font-size: 15px;
+    text-transform: uppercase;
+  }
+
+  .rand-class-7670 .rand-class-6012 .rand-class-7270 .rand-class-7142 .rand-class-5199 {
+    font-size: 12px;
+  }
+
+  .rand-class-9940 .rand-class-5774 .rand-class-9796 .rand-class-4941 .rand-class-7254 >.rand-class-1886 li.rand-class-1511 .rand-class-6820 {
+    padding-bottom: 0px;
+    display: block;
+  }
+
+  .rand-class-8221 .rand-class-1635 .rand-class-8758 .rand-class-9575 .rand-class-6102 >.rand-class-6208 li.rand-class-7593 .rand-class-2072 .rand-class-6784 {
+    margin: 0;
+  }
+
+  .rand-class-7270 .rand-class-4160 .rand-class-8387 .rand-class-6655 .rand-class-6423 >.rand-class-6548 li.rand-class-9871 .rand-class-3849 .rand-class-9794 >.rand-class-3332 li.rand-class-4497 {
+    padding: 0;
+    border-top: none;
+  }
+
+  .rand-class-8495 .rand-class-1789 .rand-class-5209 .rand-class-1487 .rand-class-1165 >.rand-class-8550 li.rand-class-2480 {
+    border-left: 2px solid #f2f2f2;
+    overflow: hidden;
+    position: relative;
+    display: table-cell;
+    max-height: 240px;
+  }
+
+  .rand-class-8686 .rand-class-6197 .rand-class-5793 .rand-class-5007 .rand-class-9695 >.rand-class-9713 li.rand-class-9303 img.rand-class-8639 {
+    float: left;
+    max-width: 230px;
+    padding-right: 15px;
+  }
+
+  .rand-class-8017 .rand-class-2751 .rand-class-6250 .rand-class-8700 .rand-class-9290 >.rand-class-5336 li.rand-class-3293 .rand-class-5251 {
+    padding-top: 50px;
+  }
+
+  .rand-class-4019 .rand-class-7199 .rand-class-4117 .rand-class-2211 .rand-class-7881 >.rand-class-2850 li.rand-class-4392 .rand-class-8927 h3.rand-class-3626 {
+    font-size: 13px;
+  }
+
+  .rand-class-3708 .rand-class-3057 .rand-class-5975 .rand-class-4411 .rand-class-5551 >.rand-class-9233 li.rand-class-5674 .rand-class-9171 span.rand-class-7797 {
+    font-size: 12px;
+    color: #fe8600;
+  }
+
+  .rand-class-4509 .rand-class-1919 .rand-class-2410 .rand-class-9630 .rand-class-3630 >.rand-class-1658 li.rand-class-3198 .rand-class-3829 p.rand-class-7847 {
+    margin: 0;
+    font-size: 12px;
+    color: #000;
+    line-height: 16px;
+  }
+
+  .rand-class-5132 .rand-class-9012 .rand-class-7018 .rand-class-4797 .rand-class-4099 {
+    display: block;
+  }
+
+  .rand-class-5233 .rand-class-6674 .rand-class-6904 .rand-class-5139 .rand-class-4217 >.rand-class-4835 li.rand-class-5011 {
+    display: block;
+    float: left;
+    width: 100%;
+  }
+
+  .rand-class-8397 .rand-class-6432 .rand-class-1723 .rand-class-1619 .rand-class-6736 >.rand-class-7173 li.rand-class-8232 {
+    padding: 10px 15px;
+    border-left: 2px solid #f2f2f2;
+    background: #ffffff;
+    background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f6f6f6));
+    background: -webkit-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+    background: -o-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+    background: -ms-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+    background: linear-gradient(to bottom, #ffffff 0%,#f6f6f6 100%);
+  }
+
+  .rand-class-6703 .rand-class-5525 {
+    position: relative;
+    padding: 15px 7px 10px 7px;
+  }
+}
+
+@media (min-width: 51em) {
+  .rand-class-8101 .rand-class-3775 {
+    margin: 0 7px;
+  }
+
+  .rand-class-9148 .rand-class-4010 .rand-class-1036 .rand-class-5924 .rand-class-1203 {
+    display: table;
+  }
+
+  .rand-class-6899 .rand-class-8575 .rand-class-9609 .rand-class-8673 .rand-class-5620 >.rand-class-2402 li.rand-class-2496 {
+    display: table-cell;
+    float: none;
+  }
+
+  /* five item */
+
+  .rand-class-6985 .rand-class-4467 .rand-class-2933 .rand-class-5353 .rand-class-1817 >.rand-class-4258 li:first-child:nth-last-child(5).rand-class-3287,
+  .rand-class-7102 .rand-class-3413 .rand-class-8639 .rand-class-7417 .rand-class-6444 >.rand-class-6251 li:first-child:nth-last-child(5).rand-class-4539 ~.rand-class-7825 li.rand-class-8638 {
+    width: auto;
+  }
+
+  /* six item */
+
+  .rand-class-4172 .rand-class-4383 .rand-class-8620 .rand-class-8754 .rand-class-1493 >.rand-class-1475 li:first-child:nth-last-child(6).rand-class-6780,
+  .rand-class-9691 .rand-class-2130 .rand-class-9590 .rand-class-2491 .rand-class-3092 >.rand-class-9353 li:first-child:nth-last-child(6).rand-class-8497 ~.rand-class-8187 li.rand-class-4514 {
+    width: auto;
+  }
+
+  /* seven items */
+
+  .rand-class-2969 .rand-class-3913 .rand-class-3193 .rand-class-6184 .rand-class-7759 >.rand-class-3908 li:first-child:nth-last-child(7).rand-class-6416,
+  .rand-class-5837 .rand-class-4402 .rand-class-2477 .rand-class-7508 .rand-class-3560 >.rand-class-3117 li:first-child:nth-last-child(7).rand-class-3695 ~.rand-class-6070 li.rand-class-8013 {
+    width: auto;
+  }
+
+  /* eight items */
+
+  .rand-class-7529 .rand-class-8697 .rand-class-1632 .rand-class-3588 .rand-class-6122 >.rand-class-8906 li:first-child:nth-last-child(8).rand-class-2767,
+  .rand-class-8149 .rand-class-8368 .rand-class-8179 .rand-class-1471 .rand-class-4255 >.rand-class-2306 li:first-child:nth-last-child(8).rand-class-4254 ~.rand-class-5224 li.rand-class-9951 {
+    width: auto;
+  }
+
+  /* nine items */
+
+  .rand-class-4419 .rand-class-8257 .rand-class-2591 .rand-class-2436 .rand-class-8285 >.rand-class-2986 li:first-child:nth-last-child(9).rand-class-3407,
+  .rand-class-1813 .rand-class-4300 .rand-class-2351 .rand-class-2007 .rand-class-5720 >.rand-class-3455 li:first-child:nth-last-child(9).rand-class-1577 ~.rand-class-8812 li.rand-class-4791 {
+    width: auto;
+  }
+
+  .rand-class-2352 .rand-class-2280 .rand-class-4210 .rand-class-9530 .rand-class-2170 >.rand-class-6593 li.rand-class-3864 {
+    float: left;
+    min-height: 250px;
+  }
+
+  /* one item */
+
+  .rand-class-8218 .rand-class-1452 .rand-class-1530 .rand-class-3806 .rand-class-1617 >.rand-class-7588 li:first-child:nth-last-child(1).rand-class-3315 {
+    width: 100%;
+  }
+
+  /* two items */
+
+  .rand-class-7080 .rand-class-8246 .rand-class-3435 .rand-class-4904 .rand-class-2904 >.rand-class-3527 li:first-child:nth-last-child(2).rand-class-8754,
+  .rand-class-9862 .rand-class-8845 .rand-class-3010 .rand-class-9235 .rand-class-4654 >.rand-class-1102 li:first-child:nth-last-child(2).rand-class-1042 ~.rand-class-6432 li.rand-class-5996 {
+    width: 50%;
+  }
+
+  /* three items */
+
+  .rand-class-6603 .rand-class-9485 .rand-class-3439 .rand-class-7595 .rand-class-7049 >.rand-class-1807 li:first-child:nth-last-child(3).rand-class-7213,
+  .rand-class-6303 .rand-class-1649 .rand-class-7884 .rand-class-5454 .rand-class-1691 >.rand-class-7633 li:first-child:nth-last-child(3).rand-class-3066 ~.rand-class-9887 li.rand-class-9591 {
+    width: 33.3333%;
+  }
+
+  /* four items */
+
+  .rand-class-5317 .rand-class-4577 .rand-class-9436 .rand-class-8889 .rand-class-2567 >.rand-class-2522 li:first-child:nth-last-child(4).rand-class-5308,
+  .rand-class-5568 .rand-class-7931 .rand-class-1494 .rand-class-7996 .rand-class-1316 >.rand-class-9756 li:first-child:nth-last-child(4).rand-class-8032 ~.rand-class-6402 li.rand-class-8450 {
+    width: 25%;
+  }
+
+  .rand-class-7271 .rand-class-9332 .rand-class-9281 .rand-class-8499 .rand-class-8686 >.rand-class-7068 li.rand-class-1959 {
+    max-height: none;
+  }
+
+  .rand-class-8663 .rand-class-2032 .rand-class-7939 .rand-class-3677 .rand-class-8372 >.rand-class-5662 li.rand-class-7718 img.rand-class-1174 {
+    padding: 0;
+    float: none;
+    max-width: 240px;
+    width: 100%;
+  }
+
+  .rand-class-7713 .rand-class-6302 .rand-class-1654 .rand-class-5575 .rand-class-3542 >.rand-class-2912 li.rand-class-2456 .rand-class-5232 {
+    padding-top: 0;
+  }
+
+  .rand-class-1396 .rand-class-7142 .rand-class-1949 .rand-class-1862 .rand-class-1609 {
+    display: table;
+  }
+
+  .rand-class-8109 .rand-class-4676 .rand-class-5346 .rand-class-1740 .rand-class-4235 >.rand-class-7294 li.rand-class-2561 {
+    display: table-cell;
+    float: none;
+    width: auto;
+  }
+
+  .rand-class-7928 .rand-class-8842 {
+    padding-right: 40px;
+    position: relative;
+  }
+
+  .rand-class-4025 .rand-class-9868 {
+    padding: 15px 7px 10px 7px;
+  }
+
+  .rand-class-1895 .rand-class-4536 {
+    display: block;
+  }
+
+  .rand-class-1516 .rand-class-4831 .rand-class-9282 .rand-class-5717 {
+    margin-top: 10px;
+  }
+
+  .rand-class-9940 .rand-class-6427 .rand-class-4072 .rand-class-9062 >.rand-class-4998 li.rand-class-8723 {
+    border: none;
+    background: #f2f2f2;
+  }
+
+  .rand-class-7491 .rand-class-7369 .rand-class-9973 .rand-class-9191 a.rand-class-7297 {
+    color: #009dd9;
+    font-size: 12px;
+  }
+
+  .rand-class-3935 .rand-class-4445 .rand-class-1051 a>span.rand-class-7590 {
+    display: block;
+  }
+
+  .rand-class-5310 .rand-class-2334 .rand-class-4078 .rand-class-4069 .rand-class-5424 {
+    margin-top: 0px;
+  }
+
+  .rand-class-1438 .rand-class-9639 .rand-class-4601 .rand-class-1098 .rand-class-9139 {
+    margin-top: 0px;
+  }
+
+  .rand-class-6222 .rand-class-2097 {
+    padding: 15px 7px 10px 7px;
+  }
+
+  .rand-class-4024 .rand-class-7420 {
+    margin-right: 5px;
+  }
+
+  .rand-class-5719 .rand-class-3112,
+  .rand-class-6908 .rand-class-7690 .rand-class-5587 .rand-class-9761 {
+    display: block;
+    float: left;
+    padding: 0;
+  }
+
+  .rand-class-6444 .rand-class-5978 {
+    display: none;
+  }
+
+  .rand-class-7291 .rand-class-6525 .rand-class-7511 .rand-class-8243 {
+    position: static;
+  }
+
+  .rand-class-2192 .rand-class-5119 .rand-class-3863 .rand-class-9701 .rand-class-2701 {
+    width: 100px;
+    height: 20px;
+    padding: 0;
+    font-size: 12px;
+    background: none;
+    outline: none;
+  }
+
+  .rand-class-1376 .rand-class-4939 .rand-class-6162 .rand-class-2051 .rand-class-5697 {
+    padding: 0;
+    line-height: 1;
+  }
+
+  .rand-class-5575 .rand-class-3854 .rand-class-8577 .rand-class-5331 .rand-class-4119 {
+    display: none;
+  }
+}
+
+@media (min-width: 60em) {
+  .rand-class-3317 {
+    height: 75px;
+  }
+
+  /* logo */
+
+  .rand-class-1830 {
+    height: 200px;
+    width: 65px;
+  }
+
+  .rand-class-1959 {
+    margin-left: 65px;
+  }
+
+  .rand-class-1376 .rand-class-1399 a.rand-class-9758 {
+    background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-clear.png);
+    /* background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-clear.svg);*/
+  }
+
+  .rand-class-9389 .rand-class-5856 {
+    display: block;
+  }
+
+  .rand-class-6303 .rand-class-2853 .rand-class-1444 .rand-class-6902 {
+    padding-right: 5px;
+  }
+
+  .rand-class-3605 .rand-class-3094 {
+    padding: 30px 10px;
+  }
+
+  .rand-class-3826 .rand-class-9401 {
+    padding: 0px 6px 15px;
+  }
+
+  .rand-class-8116 .rand-class-7270 {
+    padding: 0px 6px 15px;
+  }
+
+  .rand-class-7435 .rand-class-2320 .rand-class-4907,
+  .rand-class-1235 .rand-class-3816 .rand-class-7166 {
+    display: none;
+  }
+
+  /* Debug */
+
+  .rand-class-9578 .rand-class-2425 .rand-class-6526 {
+    position: absolute;
+    display: block;
+  }
+
+  .rand-class-2917 .rand-class-7763 .rand-class-3716 {
+    left: -240px;
+  }
+
+  .rand-class-9627 .rand-class-1063 .rand-class-4870 {
+    left: -110px;
+  }
+
+  .rand-class-9682 .rand-class-1181 {
+    padding: 4px 0 3px 0;
+  }
+
+  .rand-class-4250 .rand-class-6944 .rand-class-7136 .rand-class-3639 {
+    width: 200px;
+  }
+
+  .rand-class-4039 .rand-class-2392 .rand-class-8570 .rand-class-6889 {
+    width: 200px;
+    margin: 0;
+    padding: 10px 0 0 0;
+  }
+
+  .rand-class-7538 .rand-class-6524 .rand-class-2976 .rand-class-5918 li.rand-class-8485 {
+    font-size: 12px;
+    padding: 5px 7px;
+  }
+
+  .rand-class-8922 .rand-class-4045 .rand-class-1638 .rand-class-4013 li.rand-class-6742 a.rand-class-7036 {
+    color: #009dd9;
+  }
+
+  .rand-class-8896 .rand-class-6078 .rand-class-1946 {
+    display: none;
+  }
+}
+
+@media (min-width: 60em) and (max-width: 76.75em) {
+  .rand-class-7461 .rand-class-2642 a.rand-class-3709,
+  .rand-class-4531 .rand-class-7215 a.rand-class-8506 {
+    background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-clear.png);
+    /* background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-clear.svg);*/
+  }
+}
+
+@media (min-width: 76.75em) {
+  /* Scrolled */
+
+  .rand-class-8513 {
+    height: 50px;
+  }
+
+  .rand-class-7814 .rand-class-5983 {
+    padding: 13px 0 12px 0;
+  }
+
+  .rand-class-4663 .rand-class-2189 {
+    padding: 18px 10px 17px 10px;
+  }
+
+  .rand-class-7265 .rand-class-3207 {
+    padding: 15px 7px 10px 7px;
+  }
+
+  .rand-class-5364 .rand-class-4867 {
+    padding: 15px 7px 10px 7px;
+  }
+
+  .rand-class-7013 .rand-class-7608 {
+    display: none;
+  }
+
+  .rand-class-7935 .rand-class-3010 {
+    margin-top: 0px;
+  }
+
+  .rand-class-2781 .rand-class-5875,
+  .rand-class-1476 .rand-class-3307 {
+    padding: 0 7px 15px;
+  }
+}
+
+.rand-class-3704 .rand-class-6342 {
+  padding: 0 2px;
+}
+
+.rand-class-5422 .rand-class-8434 a.rand-class-4900 {
+  font-size: 12px;
+  display: block;
+  padding: 2px 2px;
+}
+
+/* IE8 */
+
+.rand-class-7154 .rand-class-4628 {
+  height: 75px;
+}
+
+/* logo */
+
+.rand-class-8032 .rand-class-2752 {
+  height: 200px;
+  width: 65px;
+}
+
+.rand-class-9465 .rand-class-2396 {
+  margin-left: 65px;
+}
+
+.rand-class-1149 .rand-class-8969 .rand-class-2144 a.rand-class-4792 {
+  background: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.lenovo.com/images/masthead/rebrand/logo-clear.png', sizingMethod='scale');
+}
+
+/* Debug */
+
+.rand-class-3687 .rand-class-2598 .rand-class-1801 .rand-class-3874 {
+  position: absolute;
+  display: block;
+}
+
+.rand-class-7808 .rand-class-4926 .rand-class-8774 .rand-class-8268 {
+  left: -240px;
+}
+
+.rand-class-6943 .rand-class-8423 .rand-class-2569 .rand-class-4169 {
+  left: -110px;
+}
+
+.rand-class-4297 .rand-class-2735 .rand-class-5566 {
+  padding: 4px 0 3px 0;
+}
+
+.rand-class-4211 .rand-class-7887 .rand-class-7874 .rand-class-4877 .rand-class-9391 {
+  width: 200px;
+}
+
+.rand-class-2259 .rand-class-6085 .rand-class-2876 .rand-class-4617 .rand-class-8037 {
+  width: 200px;
+  margin: 0;
+  padding: 10px 0 0 0;
+}
+
+.rand-class-7561 .rand-class-8679 .rand-class-6023 .rand-class-3526 .rand-class-7000 li.rand-class-8979 {
+  font-size: 12px;
+  padding: 5px 7px;
+}
+
+.rand-class-5764 .rand-class-2907 .rand-class-9796 .rand-class-1056 .rand-class-4249 li.rand-class-3916 a.rand-class-4449 {
+  color: #009dd9;
+}
+
+.rand-class-9862 .rand-class-9882 .rand-class-8904 .rand-class-8030 {
+  display: none;
+}
+
+/* Fluid Width */
+
+.rand-class-3787 .rand-class-3066 .rand-class-8640 .rand-class-2679 .rand-class-2387 {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  padding: 15px;
+  overflow: auto;
+}
+
+.rand-class-8783 .rand-class-3598 .rand-class-3268 .rand-class-7228 .rand-class-7755 >.rand-class-3243 li.rand-class-3802 {
+  display: table-cell;
+  padding: 0;
+  border: none;
+  background: none;
+  vertical-align: top;
+}
+
+/* Marker */
+
+.rand-class-8790 .rand-class-2577 .rand-class-7160 .rand-class-1229 {
+  border-bottom: 8px solid #ff6b00;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 901;
+}
+
+.rand-class-7227 .rand-class-8542 .rand-class-4298 .rand-class-3309 {
+  content: "";
+  display: block;
+  border: 8px solid transparent;
+  border-top-color: #ff6b00;
+  position: absolute;
+  bottom: -24px;
+  left: 50%;
+  margin-left: -8px;
+  z-index: 1000;
+}
+
+.rand-class-6245 .rand-class-4026 .rand-class-6613 .rand-class-8640,
+.rand-class-2322 .rand-class-2709 .rand-class-2834 .rand-class-7134 {
+  display: none;
+}
+
+.rand-class-6085 .rand-class-7504 .rand-class-9624 {
+  display: none;
+}
+
+.rand-class-4848 .rand-class-7591 .rand-class-2658 .rand-class-1980 .rand-class-5393 .rand-class-6916 li.rand-class-9341 .rand-class-7533 {
+  background-color: #e5e5e5 !important;
+}
+
+.rand-class-7872 .rand-class-3943 .rand-class-6943 {
+  display: block !important;
+  margin-left: 10px;
+  position: static;
+}
+
+.rand-class-7047 .rand-class-6826 .rand-class-6794 {
+  background: none !important;
+  float: left;
+  margin: 0 5px;
+}
+
+.rand-class-9914 .rand-class-4048 .rand-class-8843 {
+  padding: 18px 10px 17px 10px;
+  position: relative;
+}
+
+.rand-class-4457 .rand-class-2370 .rand-class-1417 .rand-class-1386 {
+  border-bottom: 8px solid #6bc04b;
+}
+
+.rand-class-2624 .rand-class-7856 .rand-class-1094 .rand-class-8161 {
+  border-top-color: #6bc04b;
+}
+
+.rand-class-1460 .rand-class-8016 .rand-class-3768 .rand-class-7091 {
+  border-bottom: 8px solid #ea6bb0;
+}
+
+.rand-class-1831 .rand-class-9734 .rand-class-1174 .rand-class-7843 {
+  border-top-color: #ea6bb0;
+}
+
+.rand-class-2275 .rand-class-3232 .rand-class-4258 .rand-class-6864 {
+  display: block;
+}
+
+.rand-class-9210 .rand-class-7076 .rand-class-3995 .rand-class-2975 {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #f2f2f2;
+  z-index: 900;
+}
+
+.rand-class-5504 .rand-class-3662 .rand-class-7443 .rand-class-4319 .rand-class-5585 .rand-class-5765 .rand-class-4029 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 13px;
+  display: block;
+  height: 250px;
+  padding: 10px 0;
+  border-left: 1px solid #f2f2f2;
+  position: relative;
+}
+
+.rand-class-6732 .rand-class-5647 .rand-class-5472 .rand-class-1220 .rand-class-1110 .rand-class-3191 .rand-class-5687 {
+  content: " ";
+  border-left: 1px solid #cfcfcf;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.rand-class-2138 .rand-class-9200 .rand-class-9883 .rand-class-5744 .rand-class-3106 .rand-class-5707 li:first-child.rand-class-5702 .rand-class-9459 {
+  border: none;
+}
+
+.rand-class-2710 .rand-class-7231 .rand-class-7937 .rand-class-1463 .rand-class-5155 .rand-class-6456 .rand-class-4230 .rand-class-9117 {
+  color: #009dd9;
+  line-height: 15px;
+}
+
+.rand-class-6854 .rand-class-7651 .rand-class-2787 .rand-class-8883 .rand-class-1500 .rand-class-2476 .rand-class-8850 .rand-class-4055 {
+  padding: 10px 15px;
+  border-top: none;
+  background: #ffffff;
+  background: -moz-linear-gradient(top,  #ffffff 4%, #dfe0df 31%, #f6f6f6 66%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(4%,#ffffff), color-stop(31%,#dfe0df), color-stop(66%,#f6f6f6));
+  background: -webkit-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+  background: -o-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+  background: -ms-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+  background: linear-gradient(to bottom,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 );
+}
+
+.rand-class-9250 .rand-class-4884 .rand-class-8266 .rand-class-2848 .rand-class-5651 .rand-class-1490 .rand-class-2704 {
+  color: #009dd9;
+  font-size: 13px;
+}
+
+.rand-class-1197 .rand-class-6551 .rand-class-4421 .rand-class-1509 .rand-class-2672 .rand-class-4974 .rand-class-1654 .rand-class-9305 {
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.rand-class-5300 .rand-class-2838 .rand-class-6934 .rand-class-1114 .rand-class-1425 .rand-class-5180 .rand-class-8671 .rand-class-2206 {
+  font-size: 12px;
+}
+
+.rand-class-8796 .rand-class-8616 .rand-class-4455 .rand-class-2011 .rand-class-1015 .rand-class-6998 .rand-class-4634 .rand-class-9965 >.rand-class-7524 li.rand-class-5224 .rand-class-5897 {
+  padding-bottom: 0px;
+  display: block;
+}
+
+.rand-class-2708 .rand-class-4156 .rand-class-4639 .rand-class-6193 .rand-class-8283 .rand-class-1845 .rand-class-6713 .rand-class-1741 >.rand-class-4325 li.rand-class-9710 .rand-class-8269 .rand-class-2533 {
+  margin: 0;
+}
+
+.rand-class-9345 .rand-class-1237 .rand-class-8895 .rand-class-2509 .rand-class-8973 .rand-class-9442 .rand-class-2446 .rand-class-1225 >.rand-class-6532 li.rand-class-1686 .rand-class-8163 .rand-class-4490 >.rand-class-5395 li.rand-class-1722 {
+  padding: 0;
+  border-top: none;
+}
+
+.rand-class-1064 .rand-class-6381 .rand-class-3470 .rand-class-3133 .rand-class-7923 .rand-class-1384 .rand-class-6034 .rand-class-8510 >.rand-class-5148 li.rand-class-4953 {
+  border-left: 2px solid #f2f2f2;
+  overflow: hidden;
+  position: relative;
+  display: table-cell;
+  max-height: 240px;
+}
+
+.rand-class-4833 .rand-class-9858 .rand-class-3502 .rand-class-8688 .rand-class-8812 .rand-class-7367 .rand-class-2079 .rand-class-7153 >.rand-class-5469 li.rand-class-3921 img.rand-class-7554 {
+  float: left;
+  max-width: 230px;
+  padding-right: 15px;
+}
+
+.rand-class-8801 .rand-class-3798 .rand-class-1197 .rand-class-4338 .rand-class-4123 .rand-class-4746 .rand-class-3312 .rand-class-3419 >.rand-class-6861 li.rand-class-9062 .rand-class-2860 {
+  padding-top: 50px;
+}
+
+.rand-class-4646 .rand-class-2484 .rand-class-9902 .rand-class-2612 .rand-class-4649 .rand-class-2658 .rand-class-2847 .rand-class-1169 >.rand-class-8231 li.rand-class-2183 .rand-class-8610 h3.rand-class-1172 {
+  font-size: 13px;
+}
+
+.rand-class-5542 .rand-class-3787 .rand-class-8898 .rand-class-4973 .rand-class-3638 .rand-class-7737 .rand-class-3161 .rand-class-5047 >.rand-class-6456 li.rand-class-7541 .rand-class-5631 span.rand-class-4707 {
+  font-size: 12px;
+  color: #fe8600;
+}
+
+.rand-class-1397 .rand-class-6601 .rand-class-3244 .rand-class-7558 .rand-class-4230 .rand-class-6592 .rand-class-9584 .rand-class-2077 >.rand-class-7937 li.rand-class-1371 .rand-class-5668 p.rand-class-3850 {
+  margin: 0;
+  font-size: 12px;
+  color: #000;
+  line-height: 16px;
+}
+
+.rand-class-7086 .rand-class-7253 .rand-class-9622 .rand-class-7026 .rand-class-2524 .rand-class-2651 {
+  display: table;
+}
+
+.rand-class-4301 .rand-class-8257 .rand-class-3014 .rand-class-3469 .rand-class-5169 .rand-class-3647 .rand-class-3023 >.rand-class-8576 li.rand-class-3835 {
+  display: table-cell;
+  float: none;
+  width: auto;
+}
+
+.rand-class-1140 .rand-class-9675 .rand-class-4263 .rand-class-3294 .rand-class-9773 .rand-class-8516 .rand-class-5340 .rand-class-1096 >.rand-class-2234 li.rand-class-1543 {
+  padding: 10px 15px;
+  border-left: 2px solid #f2f2f2;
+  background: #ffffff;
+  background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f6f6f6));
+  background: -webkit-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+  background: -o-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+  background: -ms-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+  background: linear-gradient(to bottom, #ffffff 0%,#f6f6f6 100%);
+}
+
+.rand-class-9073 .rand-class-4568 .rand-class-8579 .rand-class-8258,
+.rand-class-6284 .rand-class-9044 .rand-class-2497 .rand-class-1004 {
+  display: none;
+}
+
+.rand-class-4412 .rand-class-7221 .rand-class-4071 {
+  padding-right: 40px;
+  position: relative;
+}
+
+.rand-class-6300 .rand-class-2336 .rand-class-4392 {
+  padding: 15px 7px 10px 7px;
+  position: relative;
+}
+
+.rand-class-1480 .rand-class-8980 .rand-class-6934 {
+  display: block;
+}
+
+.rand-class-3592 .rand-class-2097 .rand-class-5545 .rand-class-8566 .rand-class-9153 {
+  margin-top: 10px;
+}
+
+.rand-class-7924 .rand-class-1515 .rand-class-4389 .rand-class-9061 .rand-class-7607 >.rand-class-3228 li.rand-class-6263 {
+  border: none;
+  background: #f2f2f2;
+}
+
+.rand-class-3080 .rand-class-1398 .rand-class-4160 .rand-class-1264 .rand-class-3523 a.rand-class-8325 {
+  color: #009dd9;
+  font-size: 12px;
+}
+
+.rand-class-1067 .rand-class-9526 .rand-class-7633 .rand-class-7780 a>span.rand-class-9031 {
+  display: block;
+}
+
+.rand-class-4597 .rand-class-8154 .rand-class-4301 .rand-class-7885 .rand-class-9702 .rand-class-3696 {
+  margin-top: 0px;
+}
+
+.rand-class-8917 .rand-class-7028 .rand-class-3173 .rand-class-5658 .rand-class-9448 .rand-class-9797 {
+  margin-top: 0px;
+}
+
+.rand-class-5890 .rand-class-5199 .rand-class-4483 {
+  padding: 15px 7px 10px 7px;
+}
+
+.rand-class-6379 .rand-class-4589 .rand-class-5800 {
+  margin-right: 5px;
+}
+
+.rand-class-1753 .rand-class-9127 .rand-class-7126,
+.rand-class-8661 .rand-class-3700 .rand-class-2924 .rand-class-3248 .rand-class-6133 {
+  display: block;
+  float: left;
+  padding: 0;
+}
+
+.rand-class-3513 .rand-class-5444 .rand-class-5042 {
+  display: none;
+}
+
+.rand-class-3073 .rand-class-5003 .rand-class-3157 .rand-class-9626 .rand-class-3178 {
+  position: static;
+}
+
+.rand-class-1706 .rand-class-7547 .rand-class-7657 .rand-class-4175 .rand-class-7123 .rand-class-6469 {
+  width: 100px;
+  height: 20px;
+  padding: 0;
+  font-size: 12px;
+  background: none;
+  outline: none;
+}
+
+.rand-class-9952 .rand-class-4320 .rand-class-6679 .rand-class-4384 .rand-class-3664 .rand-class-8996 {
+  padding: 0;
+  line-height: 1;
+}
+
+.rand-class-1335 .rand-class-3390 .rand-class-9697 .rand-class-7423 .rand-class-4203 .rand-class-4119 {
+  display: none;
+}
+
+.rand-class-5449 .rand-class-9820 .rand-class-2454 {
+  display: block;
+}
+
+.rand-class-2185 .rand-class-9222 .rand-class-6711 {
+  padding: 30px 10px;
+}
+
+.rand-class-7443 .rand-class-8722 .rand-class-2713 {
+  padding: 0px 6px 15px;
+}
+
+.rand-class-9303 .rand-class-5574 .rand-class-6184 {
+  padding: 0px 6px 15px;
+}
+
+.rand-class-4498 .rand-class-1812 .rand-class-3218 .rand-class-1950,
+.rand-class-5294 .rand-class-7335 .rand-class-7353 .rand-class-2631 {
+  display: none;
+}
+
+/* Bug Fix - 1912 */
+
+#ItemEOLMessage.rand-class-2109 {
+  padding-top: 18px;
+  line-height: 16px;
+}

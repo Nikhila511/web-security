@@ -1,0 +1,218 @@
+/* Apply the border to the right side */
+
+#oracleChat.rand-class-6354 {
+  position: absolute;
+  z-index: 10000;
+  top: 50px;
+}
+
+.rand-class-5861 img.rand-class-1110 {
+  vertical-align: top;
+  /* height: 59px; */
+  /* width: 134px; */
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.rand-class-4418 {
+  display: none !important;
+  height: 40px;
+  border-bottom: #036 0px solid;
+}
+
+.rand-class-7768 {
+  display: none !important;
+  color: #036;
+  font-size: .875em;
+  font-weight: bold;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.rand-class-5521 {
+  float: right;
+  height: 145px;
+  left: 20px !important;
+  margin: 20px;
+  padding: 0;
+  position: absolute;
+  top: 73px !important;
+  width: 290px;
+}
+
+.rand-class-3870 {
+  color: #555555 !important;
+  font-family: Helvetica !important;
+  font-size: 15px !important;
+  left: 25px !important;
+  position: absolute !important;
+  top: 12px !important;
+  width: 130px !important;
+  z-index: 1000!important;
+}
+
+.rand-class-8778 {
+  /*  float: right;margin: 20px; */
+  left: 40px !important;
+  padding: 0;
+  position: absolute;
+  top: 82px !important;
+  width: 290px;
+  height: 145px;
+  z-index: 5;
+}
+
+.rand-class-2990 {
+  margin: 5px 0px 5px 2px;
+  vertical-align: middle;
+}
+
+.rand-class-1030 {
+  margin: 0px 0px 0px 7px;
+  vertical-align: middle;
+}
+
+.rand-class-1836 {
+  top: 0pt;
+  position: relative;
+  border: 0px solid #888;
+  overflow: hidden;
+}
+
+.rand-class-5644 .rand-class-9323 .rand-class-2410 .rand-class-2531 button.rand-class-4404 {
+  color: #fff;
+  /* text-shadow: 1px 1px #000; */
+  min-width: 134px;
+  min-height: 35px;
+  /* border: solid 1px #206485; */
+  position: absolute;
+  top: 245px;
+  background: #3e8ddd;
+  /* Old browsers */
+  /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+  /* background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzRjYjBkZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijk5JSIgc3RvcC1jb2xvcj0iIzAyNjI4ZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=); */
+  background: -moz-linear-gradient(top,  #4cb0df 0%, #02628e 99%);
+  /* FF3.6+ */
+  /* background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4cb0df), color-stop(99%,#02628e)); */
+  /* Chrome,Safari4+ */
+  /* background: -webkit-linear-gradient(top,  #4cb0df 0%,#02628e 99%); */
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #4cb0df 0%,#02628e 99%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #4cb0df 0%,#02628e 99%);
+  /* IE10+ */
+  /* background: linear-gradient(to bottom,  #4cb0df 0%,#02628e 99%); */
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4cb0df', endColorstr='#02628e',GradientType=0 );
+  /* IE6-8 */
+  font-family: Helvetica;
+  font-size: 13px;
+}
+
+#rn_DialogButton_rn_Dialog_0_0.rand-class-1964 .rand-class-2356 button.rand-class-6475 {
+  left: 40px;
+}
+
+#rn_DialogButton_rn_Dialog_0_1.rand-class-6071 .rand-class-6292 button.rand-class-5292 {
+  left: 186px;
+}
+
+.rand-class-7258 .rand-class-9125,
+.rand-class-2769 {
+  /* background-image:url('/euf/assets/images/lenovo/bg-grey-swirls.gif'); */
+  /*https://lenovo.widget.custhelp.com*/
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-position: 0px 0px;
+  background-color: #6abf4a;
+  border: 5px #cfcfcf solid !important;
+  height: 346px;
+  width: 375px;
+  box-sizing: content-box;
+  font-family: Helvetica Neue;
+}
+
+.rand-class-5561 .rand-class-5488 .rand-class-9945,
+.rand-class-6717 .rand-class-6168 .rand-class-7825 {
+  background: none !important;
+}
+
+.rand-class-1016 .rand-class-2629 .rand-class-4636 {
+  padding: 5px 5px 5px 5px;
+  font-size: .75em;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.rand-class-2138,
+.rand-class-5909 {
+  position: relative;
+}
+
+.rand-class-7486 {
+  /*position:absolute;*/
+  /*needed if dialog is modal*/
+}
+
+.rand-class-5207 {
+  font-family: Helvetica;
+  background: none !important;
+  border: none !important;
+  color: #fff !important;
+  font-size: 21px !important;
+  letter-spacing: 0px;
+  width: 290px;
+  position: absolute;
+  top: 38px !important;
+  left: 40px !important;
+  padding: 0 2px !important;
+  margin: 0 !important;
+  font-weight: normal !important;
+}
+
+.rand-class-5921 {
+  border: none !important;
+}
+
+.rand-class-5395 .rand-class-8598 .rand-class-4338 {
+  width: 305px;
+  z-index: -9998;
+  filter: alpha(opacity=20);
+}
+
+.rand-class-1319 {
+  display: none;
+}
+
+.rand-class-9887 .rand-class-3788 {
+  background-color: #000000;
+  opacity: 0.25;
+  filter: alpha(opacity=20);
+}
+
+.rand-class-9075 a.rand-class-2377 {
+  background: url("/euf/assets/images/lenovo/close-X.gif");
+  /* no-repeat fixed 0 0 !important; https://lenovo.custhelp.com//euf/assets/images/lenovo/close-X.gif*/
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-position: 0px 0px;
+  position: absolute !important;
+  top: -5px !important;
+  right: -5px !important;
+  width: 42px !important;
+  height: 43px !important;
+  color: #cfcfcf;
+}
+
+.rand-class-3275 .rand-class-3141 {
+  position: absolute;
+  left: 0px !important;
+  bottom: 0px !important;
+  height: 24px !important;
+  width: 100% !important;
+  background: #efefef !important;
+  color: #9c3022;
+  font-size: 15px;
+  border: solid 1px #bfbfbf !important;
+  padding-left: 30px !important;
+  padding-bottom: 30px !important;
+}

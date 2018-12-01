@@ -1,0 +1,217 @@
+/**
+ * BxSlider v4.0 - Fully loaded, responsive content slider
+ */
+
+/** RESET AND LAYOUT
+===================================*/
+
+.rand-class-5641 {
+  position: relative;
+  margin: 0 auto;
+  padding: 0;
+  *zoom: 1;
+}
+
+.rand-class-5425 img.rand-class-3822 {
+  max-width: 90%;
+  display: block;
+}
+
+/** THEME
+===================================*/
+
+.rand-class-2208 .rand-class-2137 {
+  left: -5px;
+  background: #fff;
+  min-height: 150px !important;
+}
+
+.rand-class-8565 .rand-class-3528,
+.rand-class-4052 .rand-class-6805 {
+  position: absolute;
+  bottom: -30px;
+  width: 100%;
+}
+
+/* LOADER */
+
+.rand-class-7078 .rand-class-6014 {
+  min-height: 50px;
+  /*background: url(images/bx_loader.gif) center center no-repeat #fff;*/
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2000;
+}
+
+/* PAGER */
+
+.rand-class-2843 .rand-class-8102 {
+  text-align: center;
+  font-size: .85em;
+  font-family: Arial;
+  font-weight: bold;
+  color: #666;
+  padding-top: 20px;
+}
+
+.rand-class-2553 .rand-class-5780 .rand-class-6013,
+.rand-class-8913 .rand-class-4253 .rand-class-9728 {
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+}
+
+.rand-class-5568 .rand-class-8842 a.rand-class-8699 {
+  background: #666;
+  text-indent: -9999px;
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  outline: 0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.rand-class-3176 .rand-class-3311 a:hover.rand-class-9016,
+.rand-class-9966 .rand-class-8319 a.rand-class-3574 {
+  background: #000;
+}
+
+/* DIRECTION CONTROLS (NEXT / PREV) */
+
+.rand-class-9120 .rand-class-7284 {
+  left: 10px;
+  background: url(images/controls.png) no-repeat 0 -32px;
+}
+
+.rand-class-3296 .rand-class-7088 {
+  right: 10px;
+  background: url(images/controls.png) no-repeat -43px -32px;
+}
+
+.rand-class-1347 .rand-class-9672 {
+  background-position: 0 0;
+}
+
+.rand-class-6455 .rand-class-7075 {
+  background-position: -43px 0;
+}
+
+.rand-class-5018 .rand-class-9087 a.rand-class-1892 {
+  position: absolute;
+  top: 50%;
+  margin-top: -16px;
+  outline: 0;
+  width: 32px;
+  height: 32px;
+  text-indent: -9999px;
+  z-index: 9999;
+}
+
+.rand-class-6493 .rand-class-8034 a.rand-class-9869 {
+  display: none;
+}
+
+/* AUTO CONTROLS (START / STOP) */
+
+.rand-class-8558 .rand-class-8243 {
+  text-align: center;
+}
+
+.rand-class-9551 .rand-class-2037 .rand-class-1045 {
+  display: block;
+  text-indent: -9999px;
+  width: 10px;
+  height: 11px;
+  outline: 0;
+  background: url(images/controls.png) -86px -11px no-repeat;
+  margin: 0 3px;
+}
+
+.rand-class-6508 .rand-class-9142 .rand-class-9967,
+.rand-class-9135 .rand-class-4674 .rand-class-4901 {
+  background-position: -86px 0;
+}
+
+.rand-class-7869 .rand-class-7348 .rand-class-1103 {
+  display: block;
+  text-indent: -9999px;
+  width: 9px;
+  height: 11px;
+  outline: 0;
+  background: url(images/controls.png) -86px -44px no-repeat;
+  margin: 0 3px;
+}
+
+.rand-class-5211 .rand-class-2074 .rand-class-2888,
+.rand-class-8964 .rand-class-4829 .rand-class-6121 {
+  background-position: -86px -33px;
+}
+
+/* PAGER WITH AUTO-CONTROLS HYBRID LAYOUT */
+
+.rand-class-9381 .rand-class-4216 .rand-class-9156 {
+  text-align: left;
+  width: 80%;
+}
+
+.rand-class-9730 .rand-class-4334 .rand-class-1741 {
+  right: 0;
+  width: 35px;
+}
+
+/* IMAGE CAPTIONS */
+
+.rand-class-2415 .rand-class-1169 {
+  position: absolute;
+  top: 10px;
+  left: 200px;
+  width: 40%;
+}
+
+.rand-class-1873 .rand-class-7871 span.rand-class-2452 {
+  color: #666;
+  font-family: Arial;
+  display: table-cell;
+  font-size: 18px;
+  line-height: 18px;
+  padding: 10px;
+  height: 110px;
+}
+
+/*Styles for small screens*/
+
+@media (max-width: 38em) {
+  .rand-class-6386 {
+    display: none;
+  }
+}
+
+@media (max-width: 40em) {
+  .rand-class-3645 .rand-class-3269 {
+    width: 55%;
+  }
+}
+
+@media (max-width: 50em) {
+  .rand-class-8224 .rand-class-6666 {
+    width: 55%;
+  }
+}
+
+@media (max-width: 60em) {
+  .rand-class-5452 .rand-class-9268 {
+    width: 60%;
+  }
+}
+
+@media (max-width: 70em) {
+  .rand-class-1517 .rand-class-5895 {
+    width: 60%;
+  }
+}
