@@ -1,18 +1,18 @@
 /*Splitter page offcanvas right espots*/
 
-.rand-class-4212 >.rand-class-9965 ul.rand-class-4520,
-.rand-class-4706 >.rand-class-5648 ul.rand-class-9728 li.rand-class-7262 ul.rand-class-5982 {
+.rand-class-1107 .espots-group,
+.rand-class-1107 .espots-group {
   padding: 0;
   list-style: none;
   margin: 0;
 }
 
-.rand-class-7921 >.rand-class-3432 ul.rand-class-6449 .rand-class-2683 >.rand-class-1069 li.rand-class-9526 >.rand-class-4839 ul.rand-class-9904 .rand-class-8015 >.rand-class-3405 li.rand-class-2944 {
+.rand-class-1107 .espots-group .rand-class-1107 .rand-class-1107 {
   margin: 0 0 0.7em 0;
 }
 
 @media (min-width: 65em) {
-  .rand-class-7957 >.rand-class-2038 ul.rand-class-2612 {
+  .rand-class-1107 .espots-group {
     width: 12em;
     top: 400px;
     right: 1em;
@@ -21,22 +21,22 @@
     z-index: 1;
   }
 
-  .rand-class-8820 >.rand-class-1790 ul.rand-class-9500 .rand-class-6804 li.rand-class-4654 {
+  .rand-class-1107 .espots-group .rand-class-1107 {
     display: block;
   }
 
-  .rand-class-1717 >.rand-class-3890 ul.rand-class-6183 li.rand-class-1111 .rand-class-7663 {
+  .rand-class-1107 .espots-group .rand-class-1107 .splitter-offCanvas-bar_3-right-innerWrapper {
     position: static;
   }
 }
 
-.rand-class-9551 {
+.rand-class-1107 .subseries-promo-bar {
   font-size: 0.9rem;
   padding: 0px 20px;
   line-height: 2em;
 }
 
-.rand-class-8509 >.rand-class-5985 div.rand-class-9324 {
+.rand-class-1107 .subseries-promo-bar {
   background: none;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -49,13 +49,13 @@
 
 /*CSS for non templated espots module : Can be removed later */
 
-#eSpots.rand-class-1221 {
+ {
   float: left;
   width: 12.5em;
   margin: 0 0.7em;
 }
 
-.rand-class-3273 {
+.rand-class-1107 .e-spot {
   border: 10px solid white;
   border-color: rgba(255,255,255,0.75);
   background-color: #cdd5d8;
@@ -67,24 +67,24 @@
   margin: 7% 0;
 }
 
-.rand-class-5417 >.rand-class-4278 img.rand-class-4728,
-.rand-class-1985 >.rand-class-4099 img.rand-class-5149 {
+.rand-class-1107 .e-spot,
+.rand-class-1107 .espotLink {
   position: absolute;
 }
 
-.rand-class-1971 img.rand-class-9672 {
+.rand-class-1107 .e-spot {
   max-width: 100%;
   height: auto;
   position: absolute;
 }
 
-.rand-class-5627 .rand-class-6902 h3.rand-class-6879 {
+.rand-class-1107 .e-spot .rand-class-1107 .rand-class-5778 {
   font-size: 1.125em;
   text-transform: uppercase;
   color: #0078a6;
 }
 
-.rand-class-4246 .rand-class-6902 {
+.rand-class-1107 .e-spot .rand-class-1107 .rand-class-5778 {
   overflow: hidden;
   min-height: 90px;
   max-height: 386px;
@@ -92,7 +92,7 @@
   background: #cdd5d8;
 }
 
-.rand-class-7095 h3.rand-class-7198 {
+.rand-class-1107 .e-spot {
   margin-left: 80px;
   padding-top: 10px;
   font-size: 18px;
@@ -102,7 +102,7 @@
   color: #0078A6;
 }
 
-.rand-class-5069 .rand-class-2107 {
+.rand-class-1107 .e-spot .rand-class-1107 .sub-title {
   margin-left: 80px;
   font-weight: bold;
   padding-top: 4px;
@@ -113,7 +113,7 @@
   word-wrap: break-word;
 }
 
-.rand-class-1911 .rand-class-6902 p.rand-class-3963 {
+.rand-class-1107 .e-spot .rand-class-1107 .rand-class-5778 {
   margin: 0 0 0 80px;
   padding: 0 5px 5px 0;
   font-size: 12px;
@@ -121,7 +121,7 @@
   color: #555;
 }
 
-.rand-class-5469 .rand-class-1144 {
+.rand-class-1107 .e-spot .rand-class-1107 .ShopNow {
   height: 26px;
   padding-left: 80px;
   line-height: 26px;
@@ -134,19 +134,19 @@
   color: white;
 }
 
-.rand-class-7554 .rand-class-4951,
-.rand-class-5525 .rand-class-2209 a.rand-class-8268 {
+.rand-class-1107 .e-spot .rand-class-1107 .ShopNow,
+.rand-class-1107 .e-spot .rand-class-1107 .ShopNow {
   color: #fff;
 }
 
-.rand-class-4374 p.rand-class-4075 {
+.rand-class-1107 .sign_up {
   margin: 0;
   font-family: arial;
   font-size: 12px;
   color: #fff;
 }
 
-.rand-class-9622 .rand-class-4056 {
+.rand-class-1107 .sign_up .rand-class-1107 .ipt_box {
   border: 1px solid #cecece;
   height: 15px;
   margin: 5px 0 0;
@@ -154,30 +154,30 @@
   width: 99%;
 }
 
-.rand-class-5519 .rand-class-1460 {
+.rand-class-1107 .sign_up .rand-class-1107 .btn {
   margin-top: 5px;
   text-align: right;
 }
 
-.rand-class-5346 #eSpots.rand-class-3826 {
+.rand-class-1107 .productList {
   width: 100%;
   padding: 20px 0 20px 20px;
   background: #efefef;
   margin: 0;
 }
 
-.rand-class-4510 #eSpots.rand-class-6486 .rand-class-5176 {
+.rand-class-1107 .productList .rand-class-1107 .e-spot {
   float: left;
   width: 94%;
   margin: 0 0 0.8em 0;
 }
 
-.rand-class-3150 #eSpots.rand-class-2053 .rand-class-8699 {
+.rand-class-1107 .productList .rand-class-1107 .e-spot:last-child {
   margin: 0;
 }
 
 @media (min-width:51em) {
-  .rand-class-6838 #eSpots.rand-class-6257 .rand-class-4437 {
+  .rand-class-1107 .productList .rand-class-1107 .e-spot {
     width: 32%;
     margin: 0 0.8em 0 0;
   }

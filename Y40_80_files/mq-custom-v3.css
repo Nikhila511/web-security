@@ -1,0 +1,335 @@
+@import url('/ISS_Static/WW/css/themes/owv3/modules/faceted-browse.css');
+
+@import url('/ISS_Static/WW/css/themes/owv3/modules/subseries-tabs.css');
+
+@import url('/ISS_Static/WW/css/themes/owv3/modules/gallery-v2.css');
+
+@import url('/ISS_Static/WW/css/themes/owv3/modules/espotsandimages_module.css');
+
+@import url('/ISS_Static/WW/css/themes/owv3/modules/search.css');
+
+ {
+  font: 1em/1.75 Helvetica, Arial, sans-serif;
+  background: #efefef;
+  position: relative;
+  color: #555;
+  -webkit-text-size-adjust: none;
+}
+
+.rand-class-1107 .bar_2-calledOut-link> .rand-class-5778,
+.rand-class-1107 .rand-class-9372,
+.rand-class-1107 .nestedMenu-heading> .rand-class-5778,
+.rand-class-1107 .searchInput-button,
+.rand-class-1107 .espot-title,
+.rand-class-1107 .hero-text,
+.rand-class-1107 .mediaGallery-mediaList-heading,
+.rand-class-1107 .tabbedBrowse-features-featureHeading {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.rand-class-1107 .accessoriesLanding-seeMoreLink,
+.rand-class-1107 .accessoriesLanding-title,
+.rand-class-1107 .bar_2-calledOut-link> .rand-class-5778,
+.rand-class-1107 .rand-class-9372,
+.rand-class-1107 .espot-title,
+.rand-class-1107 .extraOptions-title,
+.rand-class-1107 .hero-text,
+.rand-class-1107 .horizontalAd-title,
+.rand-class-1107 .mediaGallery-mediaList-heading,
+.rand-class-1107 .nestedMenu-heading> .rand-class-5778,
+.rand-class-1107 .productGrid-seeMoreLink,
+.rand-class-1107 .productGrid-title,
+.rand-class-1107 .ribbonHeading,
+.rand-class-1107 .searchInput-button,
+.rand-class-1107 .tabbedBrowse-features-featureHeading,
+.rand-class-1107 .whichPc-headline,
+.rand-class-1107 .whichPc-hero-title {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.rand-class-1107 .rand-class-7804 {
+  background-color: #e3e3e3;
+  color: black;
+}
+
+.rand-class-1107 .rand-class-4146 {
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 11.2px;
+  font-size: 0.7rem;
+}
+
+.rand-class-1107 .rand-class-8683,
+.rand-class-1107 .button-standard-alt,
+.rand-class-1107 .rand-class-5123,
+.rand-class-1107 .button-called-out-alt,
+.rand-class-1107 .button-called-out-alt:hover,
+.rand-class-1107 .button-called-out-positive,
+.rand-class-1107 .button-flat {
+  display: inline-block;
+  padding: 0.5em 0.8em;
+  font-size: 12.8px;
+  font-size: 0.8rem;
+  font-weight: normal;
+  text-transform: capitalize;
+  border: none;
+  cursor: pointer;
+  margin: 0;
+  line-height: 1.5em;
+  background-image: none;
+  text-shadow: none;
+}
+
+button:hover.rand-class-8683 button:hover.searchFilter-button {
+  background-image: none;
+}
+
+a:hover.rand-class-8683 a:hover.rand-class-1597 {
+  background-image: none;
+}
+
+button:hover.baseButton button:hover.rand-class-5123 {
+  background-image: none;
+}
+
+a:hover.seriesListings-footer-button a:hover.rand-class-5123 a:hover.rand-class-1597,
+a:hover.rand-class-5123 a:hover.rand-class-1597 a:hover.facetedResults-cta,
+a:hover.button-standard-alt a:hover.tabbedBrowse-productListing-footer-button-first a:hover.rand-class-1597,
+a:hover.button-standard-alt a:hover.tabbedBrowse-accessories-button a:hover.rand-class-1597 {
+  background-image: none;
+}
+
+ {
+  background-image: none;
+}
+
+.rand-class-1107 .sidebarNav-heading {
+  font-weight: normal;
+}
+
+.rand-class-1107 .compareTable-title,
+.rand-class-1107 .categoryDescription-heading,
+.rand-class-1107 .columnSlider-heading,
+.rand-class-1107 .skipLinks-link,
+.rand-class-1107 .bar_1-link> .rand-class-5778,
+.rand-class-1107 .callBox,
+.rand-class-1107 .title-primaryBrand,
+.rand-class-1107 .seriesPreview-title,
+.rand-class-1107 .seriesListings-title,
+.rand-class-1107 .tabbedBrowse-productListing-title,
+.rand-class-1107 .facetedResults-title,
+.rand-class-1107 .checkoutForm-fieldsetGroup-title,
+.rand-class-1107 .hero-productDescription-heading,
+.rand-class-1107 .separator-heading,
+.rand-class-1107 .additionalInfoOverlay-title,
+.rand-class-1107 .rand-class-1974 .rand-class-1107 .countrySelector {
+  font-family: Helvetica,Arial,sans-serif;
+  font-weight: normal;
+}
+
+h1.seriesPreview-title,
+.rand-class-1107 .title-primaryBrand,
+.rand-class-1107 .seriesPreview-title,
+.rand-class-1107 .seriesListings-title,
+.rand-class-1107 .tabbedBrowse-productListing-title,
+.rand-class-1107 .facetedResults-title,
+.rand-class-1107 .checkoutForm-fieldsetGroup-title {
+  color: #FF6A00;
+}
+
+.rand-class-1107 .brandListings-title {
+  font-family: Helvetica,Arial,sans-serif !important;
+  color: #FF6A00 !important;
+  line-height: 1.1;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.rand-class-1107 .brandListings-header {
+  color: #FF6A00 !important;
+}
+
+.rand-class-1107 .image-label .rand-class-1107 .content {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+.rand-class-1107 .compareTable-title,
+.rand-class-1107 .accessoriesListing-title,
+.rand-class-1107 .additionalInfoOverlay-title,
+.rand-class-1107 .bar_1-link> .rand-class-5778,
+.rand-class-1107 .brandHeader-title,
+.rand-class-1107 .callBox,
+.rand-class-1107 .categoryDescription-heading,
+.rand-class-1107 .checkoutForm-fieldsetGroup-title,
+.rand-class-1107 .columnSlider-heading,
+.rand-class-1107 .compareModal-title,
+.rand-class-1107 .dealsListing-tagline,
+.rand-class-1107 .facetedResults-title,
+.rand-class-1107 .hero-productDescription-heading,
+.rand-class-1107 .rand-class-1974 .rand-class-1107 .countrySelector,
+.rand-class-1107 .separator-heading,
+.rand-class-1107 .seriesListings-title,
+.rand-class-1107 .seriesPreview-title,
+.rand-class-1107 .skipLinks-link,
+.rand-class-1107 .tabbedBrowse-productListing-title,
+.rand-class-1107 .title-primaryBrand,
+.rand-class-1107 .whichPc-form-question-count,
+.rand-class-1107 .accessoriesLanding-seeMoreLink,
+.rand-class-1107 .accessoriesLanding-title,
+.rand-class-1107 .bar_2-calledOut-link> .rand-class-5778,
+.rand-class-1107 .rand-class-9372,
+.rand-class-1107 .espot-title,
+.rand-class-1107 .extraOptions-title,
+.rand-class-1107 .hero-text,
+.rand-class-1107 .horizontalAd-title,
+.rand-class-1107 .mediaGallery-mediaList-heading,
+.rand-class-1107 .nestedMenu-heading> .rand-class-5778,
+.rand-class-1107 .productGrid-seeMoreLink,
+.rand-class-1107 .productGrid-title,
+.rand-class-1107 .ribbonHeading,
+.rand-class-1107 .searchInput-button,
+.rand-class-1107 .tabbedBrowse-features-featureHeading,
+.rand-class-1107 .whichPc-headline,
+.rand-class-1107 .whichPc-hero-title {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+.rand-class-1107 .subseries-promo-bar {
+  background-image: none;
+  background-color: #4AC0E0;
+}
+
+.rand-class-1107 .rand-class-7804,
+.rand-class-1107 .offCanvas-content {
+  box-shadow: none !important;
+}
+
+.rand-class-1107 .rand-class-9372 {
+  text-shadow: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .recommmendAccessory,
+.rand-class-1107 .linkList-item,
+.rand-class-1107 .compareTable-heading,
+.rand-class-1107 .no-js .rand-class-1107 .compareTable-rowHeading .compareTable-addRemoveItems,
+.rand-class-1107 .scrolling .rand-class-1107 .compareTable-addRemoveItems,
+.rand-class-1107 .rand-class-8142,
+.rand-class-1107 .expandableHeading-onlySmall,
+.rand-class-1107 .configuratorItem-summary {
+  background-image: none;
+  background-color: #e7e7e7;
+}
+
+a.button a.learn,
+a.button a.darkgray {
+  background-image: none !important;
+  text-shadow: none !important;
+  border: none !important;
+}
+
+.rand-class-1107 .tabbedBrowse-accessories {
+  background-image: none;
+  border-bottom: 1px solid #ddd;
+}
+
+button.pricingSummary-button button.rand-class-5123 button.rand-class-1597 button.nextStep {
+  background-image: none;
+  text-shadow: none;
+}
+
+button.pricingSummary-button button.rand-class-5123 button.rand-class-1597 {
+  background-image: none;
+}
+
+/* cart */
+
+ {
+  background-image: none;
+}
+
+a:hover.cart-checkoutButtons-checkout a:hover.button-called-out-positive a:hover.fs1 {
+  background-image: none;
+  background-color: #64A81B;
+}
+
+ {
+  margin: 10px 0 0 0;
+  background-color: #D9DAD9;
+}
+
+ {
+  background-image: none;
+}
+
+/* social */
+
+span.at4-icon span.aticon-facebook,
+span.at4-icon span.aticon-twitter,
+span.at4-icon span.aticon-pinterest_share,
+span.at4-icon span.aticon-google_plusone_share {
+  background-color: #949494 !important;
+}
+
+span:hover.at4-icon span:hover.aticon-facebook {
+  background-color: #305891 !important;
+}
+
+span:hover.at4-icon span:hover.aticon-twitter {
+  background-color: #2CA8D2 !important;
+}
+
+span:hover.at4-icon span:hover.aticon-pinterest_share {
+  background-color: #C82828 !important;
+}
+
+span:hover.at4-icon span:hover.aticon-google_plusone_share {
+  background-color: #CE4D39 !important;
+}
+
+/* compare button */
+
+a.button-ribbon-small {
+  background-image: none;
+  background-color: #a8190b;
+  text-shadow: none;
+}
+
+/*accessories section */
+
+a:hover.accessoriesListing-footer-button a:hover.rand-class-5123 a:hover.rand-class-1597 {
+  background-image: none;
+}
+
+a:hover.rand-class-5123 a:hover.rand-class-1597 {
+  background-image: none;
+}
+
+/*email signup pop up*/
+
+ {
+  background-image: none !important;
+  border: none !important;
+  text-shadow: none !important;
+}
+
+.rand-class-1107 .tabbedBrowse-accessories-item-container {
+  border-bottom: none !important;
+}
+
+button.rand-class-5123 button.signInForm-submitButton,
+a.rand-class-5123 a.signInModule-createAccount-button {
+  background-image: none;
+  text-shadow: none;
+}
+
+@media all and (max-width:55em) {
+  h1.columnSlider-heading,
+  .rand-class-1107 .rand-class-9065 .rand-class-1107 .columnSlider-heading {
+    color: #009dd0 !important;
+  }
+}
+
+@media (min-width: 66em) {
+  .rand-class-1107 .rand-class-9372 .rand-class-1107 .mastheadPageTitleLong {
+    line-height: 1em;
+  }
+}

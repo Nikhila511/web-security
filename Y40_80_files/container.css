@@ -1,0 +1,308 @@
+/*
+Copyright (c) 2009, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.7.0
+*/
+
+.rand-class-1107 .yui-overlay,
+.rand-class-1107 .yui-panel-container {
+  visibility: hidden;
+  position: absolute;
+  z-index: 2;
+}
+
+.rand-class-1107 .yui-panel {
+  position: relative;
+}
+
+.rand-class-1107 .yui-panel-container {
+  margin: 0;
+}
+
+.rand-class-1107 .mask {
+  z-index: 1;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.rand-class-1107 .mask .block-scrollbars {
+  overflow: auto;
+}
+
+.rand-class-1107 .masked,
+.rand-class-1107 .drag,
+.rand-class-1107 .hide-select {
+  _visibility: hidden;
+}
+
+.rand-class-1107 .yui-panel-container {
+  _visibility: inherit;
+}
+
+.rand-class-1107 .hide-scrollbars,
+.rand-class-1107 .hide-scrollbars {
+  overflow: hidden;
+}
+
+.rand-class-1107 .hide-scrollbars {
+  display: none;
+}
+
+.rand-class-1107 .show-scrollbars {
+  overflow: auto;
+}
+
+.rand-class-1107 .yui-panel-container .show-scrollbars,
+.rand-class-1107 .yui-tt .show-scrollbars {
+  overflow: visible;
+}
+
+.rand-class-1107 .yui-panel-container .show-scrollbars .rand-class-1107 .underlay,
+.rand-class-1107 .yui-tt .show-scrollbars .rand-class-1107 .yui-tt-shadow {
+  overflow: auto;
+}
+
+.rand-class-1107 .yui-panel-container .shadow .rand-class-1107 .underlay .yui-force-redraw {
+  padding-bottom: 1px;
+}
+
+.rand-class-1107 .yui-effect-fade .rand-class-1107 .underlay,
+.rand-class-1107 .yui-effect-fade .rand-class-1107 .yui-tt-shadow {
+  display: none;
+}
+
+.rand-class-1107 .yui-tt-shadow {
+  position: absolute;
+}
+
+.rand-class-1107 .yui-override-padding {
+  padding: 0!important;
+}
+
+.rand-class-1107 .yui-panel-container .rand-class-1107 .container-close {
+  overflow: hidden;
+  text-indent: -10000em;
+  text-decoration: none;
+}
+
+.rand-class-1107 .yui-overlay .yui-force-redraw,
+.rand-class-1107 .yui-panel-container .yui-force-redraw {
+  margin-bottom: 1px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .mask {
+  background-color: #000;
+  opacity: .25;
+  filter: alpha(opacity=25);
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel-container {
+  padding: 0 1px;
+  *padding: 2px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel {
+  position: relative;
+  left: 0;
+  top: 0;
+  border-style: solid;
+  border-width: 1px 0;
+  border-color: #808080;
+  z-index: 1;
+  *border-width: 1px;
+  *zoom: 1;
+  _zoom: normal;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .hd,
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .bd,
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .ft {
+  border-style: solid;
+  border-width: 0 1px;
+  border-color: #808080;
+  margin: 0 -1px;
+  *margin: 0;
+  *border: 0;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .hd {
+  border-bottom: solid 1px #ccc;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .bd,
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .ft {
+  background-color: #F2F2F2;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .hd {
+  padding: 0 10px;
+  font-size: 93%;
+  line-height: 2;
+  *line-height: 1.9;
+  font-weight: bold;
+  color: #000;
+  background: url(../../../../assets/skins/sam/sprite.png) repeat-x 0 -200px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .bd {
+  padding: 10px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .ft {
+  border-top: solid 1px #808080;
+  padding: 5px 10px;
+  font-size: 77%;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .container-close {
+  position: absolute;
+  top: 5px;
+  right: 6px;
+  width: 25px;
+  height: 15px;
+  background: url(../../../../assets/skins/sam/sprite.png) no-repeat 0 -300px;
+  cursor: pointer;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel-container .rand-class-1107 .underlay {
+  right: -1px;
+  left: -1px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel-container .matte {
+  padding: 9px 10px;
+  background-color: #fff;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel-container .shadow {
+  _padding: 2px 4px 0 2px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel-container .shadow .rand-class-1107 .underlay {
+  position: absolute;
+  top: 2px;
+  left: -3px;
+  right: -3px;
+  bottom: -3px;
+  *top: 4px;
+  *left: -1px;
+  *right: -1px;
+  *bottom: -1px;
+  _top: 0;
+  _left: 0;
+  _right: 0;
+  _bottom: 0;
+  _margin-top: 3px;
+  _margin-left: -1px;
+  background-color: #000;
+  opacity: .12;
+  filter: alpha(opacity=12);
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft {
+  border-top: none;
+  padding: 0 10px 10px 10px;
+  font-size: 100%;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft .rand-class-1107 .button-group {
+  display: block;
+  text-align: right;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft button.default {
+  font-weight: bold;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft span.default {
+  border-color: #304369;
+  background-position: 0 -1400px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft span.default .rand-class-1107 .first-child {
+  border-color: #304369;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft span.default {
+  color: #fff;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft span.yui-button-disabled {
+  background-position: 0 -1500px;
+  border-color: #ccc;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft span.yui-button-disabled .rand-class-1107 .first-child {
+  border-color: #ccc;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft span.yui-button-disabled {
+  color: #a6a6a6;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-simple-dialog .rand-class-1107 .bd .rand-class-1107 .yui-icon {
+  background: url(../../../../assets/skins/sam/sprite.png) no-repeat 0 0;
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+  float: left;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-simple-dialog .rand-class-1107 .bd span.blckicon {
+  background-position: 0 -1100px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-simple-dialog .rand-class-1107 .bd span.alrticon {
+  background-position: 0 -1050px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-simple-dialog .rand-class-1107 .bd span.hlpicon {
+  background-position: 0 -1150px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-simple-dialog .rand-class-1107 .bd span.infoicon {
+  background-position: 0 -1200px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-simple-dialog .rand-class-1107 .bd span.warnicon {
+  background-position: 0 -1900px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-simple-dialog .rand-class-1107 .bd span.tipicon {
+  background-position: 0 -1250px;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-tt .rand-class-1107 .bd {
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  color: #000;
+  padding: 2px 5px;
+  border-color: #D4C237 #A6982B #A6982B #A6982B;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #FFEE69;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-tt .show-scrollbars .rand-class-1107 .bd {
+  overflow: auto;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-tt-shadow {
+  top: 2px;
+  right: -3px;
+  left: -3px;
+  bottom: -3px;
+  background-color: #000;
+}
+
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-tt-shadow-visible {
+  opacity: .12;
+  filter: alpha(opacity=12);
+}

@@ -19,8 +19,8 @@
   font-style: normal;
 }
 
-a[data-dismiss]:after.rand-class-6472,
-a[data-close]:after.rand-class-1057 {
+,
+ {
   font-family: sans-serif, "lnvmodal";
   content: attr(data-close);
   speak: none;
@@ -35,36 +35,36 @@ a[data-close]:after.rand-class-1057 {
 
 /* common */
 
-html.rand-class-3545 {
+ {
   overflow-y: scroll;
 }
 
-.rand-class-9545 {
+.rand-class-1107 .has-modal {
   overflow: hidden;
 }
 
-.rand-class-4269 >.rand-class-3195 body.rand-class-4316 {
+.rand-class-1107 .has-modal {
   height: 100%;
   overflow-y: scroll;
 }
 
 @media screen and (max-width: 30em) {
-  .rand-class-4696 {
+  .rand-class-1107 .has-modal {
     height: 100%;
   }
 
-  .rand-class-6468 >.rand-class-3056 body.rand-class-9443 {
+  .rand-class-1107 .has-modal {
     overflow: hidden;
     height: 100%;
   }
 }
 
-.rand-class-9725 >.rand-class-9394 h2:empty.rand-class-4433,
-.rand-class-1621 {
+.rand-class-1107 .lnvmodal-header,
+.rand-class-1107 .lnvmodal-footer:empty {
   display: none !important;
 }
 
-.rand-class-4408 iframe.rand-class-1779 {
+.rand-class-1107 .lnvmodal-content {
   border: none;
   height: 100%;
   height: 100vh;
@@ -74,7 +74,7 @@ html.rand-class-3545 {
 
 /* loader */
 
-.rand-class-7659 {
+.rand-class-1107 .lnvmodal-loader {
   cursor: wait;
   display: none;
   left: 0;
@@ -84,7 +84,7 @@ html.rand-class-3545 {
   z-index: 10005;
 }
 
-.rand-class-6370 {
+.rand-class-1107 .lnvmodal-loader:before {
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP4//9/KgAJYQNjxr4BSQAAAABJRU5ErkJggg==") repeat;
   content: "";
   font-size: 0;
@@ -98,7 +98,7 @@ html.rand-class-3545 {
   z-index: 10;
 }
 
-.rand-class-8768 >.rand-class-7247 p.rand-class-9221 {
+.rand-class-1107 .lnvmodal-loader {
   color: #ffffff;
   display: inline-block;
   font-family: sans-serif;
@@ -116,7 +116,7 @@ html.rand-class-3545 {
   z-index: 20;
 }
 
-.rand-class-1153 >.rand-class-2292 p.rand-class-8501 >.rand-class-6957 span.rand-class-3310 {
+.rand-class-1107 .lnvmodal-loader {
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAEUlEQVQoz2NgeEYAjioYSQoAzOTmAXhPhyoAAAAASUVORK5CYII=");
   display: inline-block;
   padding: 0.25em 0.75em;
@@ -133,7 +133,7 @@ html.rand-class-3545 {
   transform: translateZ(0);
 }
 
-.rand-class-3658 >.rand-class-6345 aside.rand-class-2460 {
+.rand-class-1107 .lnvmodal-loader {
   position: fixed;
   top: 50%;
   left: 50%;
@@ -155,7 +155,7 @@ html.rand-class-3545 {
   transform: translateZ(0);
 }
 
-.rand-class-3349 >.rand-class-6675 aside.rand-class-6702 >.rand-class-9106 div.rand-class-5460 {
+.rand-class-1107 .lnvmodal-loader {
   background: transparent url("//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/fancybox_loading.gif") no-repeat center center;
   height: 48px;
   overflow: hidden;
@@ -165,13 +165,13 @@ html.rand-class-3545 {
 
 /* overlay */
 
-.rand-class-6200 {
+.rand-class-1107 .lnvmodal-overlay {
   position: absolute;
   left: 0;
   top: 0;
 }
 
-.rand-class-9231 .rand-class-7457 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main {
   position: fixed;
   top: 0;
   left: 0;
@@ -192,8 +192,8 @@ html.rand-class-3545 {
   transform: translate3d(0, 100%, 0);
 }
 
-.rand-class-8632 .rand-class-1890,
-.rand-class-2334 .rand-class-3672 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main:target,
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-active .lnvmodal-main {
   -webkit-transform: translate(0, 0);
   -moz-transform: translate(0, 0);
   -o-transform: translate(0, 0);
@@ -204,13 +204,13 @@ html.rand-class-3545 {
   opacity: 1;
 }
 
-.rand-class-1063 .rand-class-4227,
-.rand-class-2180 .rand-class-6703,
-.rand-class-6477 .rand-class-5085 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-active .lnvmodal-main,
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main:target,
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-active .lnvmodal-main {
   display: block\9;
 }
 
-.rand-class-1751 .rand-class-1887 .rand-class-3335 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
   position: absolute;
   top: 1.5em;
   z-index: 20;
@@ -222,18 +222,18 @@ html.rand-class-3545 {
 }
 
 @media \0screen\,screen\9 {
-  .rand-class-2514 .rand-class-8405 .rand-class-1900 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
     background: transparent;
     height: 100%;
   }
 }
 
-.rand-class-9600 .rand-class-7466 .rand-class-2293 >.rand-class-9085 img.rand-class-4855 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
   width: auto;
   max-width: 100%;
 }
 
-.rand-class-3282 .rand-class-3065 .rand-class-1853 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-content {
   max-height: 400px;
   max-height: 80vh;
   overflow-x: hidden;
@@ -241,23 +241,23 @@ html.rand-class-3545 {
 }
 
 @media \0screen\,screen\9 {
-  .rand-class-1815 .rand-class-7096 .rand-class-1529 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-content {
     overflow: visible;
   }
 }
 
-.rand-class-2811 .rand-class-5067 .rand-class-2936 >.rand-class-2705 *.rand-class-8102 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-content {
   max-width: 100%;
 }
 
-.rand-class-1288 .rand-class-3911 .rand-class-3882 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-footer {
   border-top: 1px solid white;
   padding: 0 1.2em 18px;
   background: #f0f0f0;
   border-radius: 2px;
 }
 
-.rand-class-8769 .rand-class-6869 .rand-class-1011 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close {
   display: block;
   height: 1px;
   clip: rect(0 0 0 0);
@@ -265,7 +265,7 @@ html.rand-class-3545 {
   overflow: hidden;
 }
 
-.rand-class-4342 .rand-class-2426 .rand-class-7860 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:before {
   content: "";
   position: absolute;
   top: 0;
@@ -275,7 +275,7 @@ html.rand-class-3545 {
   z-index: 10;
 }
 
-.rand-class-5072 .rand-class-5644 .rand-class-3791 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
   position: absolute;
   top: 1em;
   /*25px;*/
@@ -286,7 +286,7 @@ html.rand-class-3545 {
 }
 
 @media screen and (max-width: 45em) {
-  .rand-class-9879 .rand-class-1422 .rand-class-8781 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
     width: auto;
     left: 0;
     /*20px;*/
@@ -297,14 +297,14 @@ html.rand-class-3545 {
     max-width: none;
   }
 
-  .rand-class-5602 .rand-class-2876 .rand-class-8400 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close {
     left: auto;
     right: auto;
     /*33px;*/
     margin-left: 0;
   }
 
-  .rand-class-2782 .rand-class-8498 .rand-class-9064 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
     /*margin-left: 40%;*/
     top: 1em;
     right: 1em;
@@ -314,7 +314,7 @@ html.rand-class-3545 {
 }
 
 @media screen and (max-width: 30em) {
-  .rand-class-9104 .rand-class-1828 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main {
     -webkit-transform: translate(0, 400px);
     -webkit-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
@@ -327,8 +327,8 @@ html.rand-class-3545 {
     bottom: auto;
   }
 
-  .rand-class-4202 .rand-class-9261,
-  .rand-class-9150 .rand-class-4306 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main:target,
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-active .lnvmodal-main {
     -webkit-transition: -webkit-transform .25s ease-in-out;
     -moz-transition: -moz-transform .25s ease-in-out;
     -o-transition: -o-transform .25s ease-in-out;
@@ -337,7 +337,7 @@ html.rand-class-3545 {
     height: 100%;
   }
 
-  .rand-class-9370 .rand-class-7039 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main:before {
     content: "";
     position: fixed;
     top: 0;
@@ -346,7 +346,7 @@ html.rand-class-3545 {
     z-index: 30;
   }
 
-  .rand-class-4288 .rand-class-2213 .rand-class-7186 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -357,7 +357,7 @@ html.rand-class-3545 {
     overflow: auto;
   }
 
-  .rand-class-5723 .rand-class-7433 .rand-class-2378 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-content {
     max-height: none;
     -ms-word-break: break-all;
     word-break: break-word;
@@ -366,15 +366,15 @@ html.rand-class-3545 {
     hyphens: auto;
   }
 
-  .rand-class-9398 .rand-class-6459 .rand-class-9331 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close {
     right: auto;
   }
 
-  .rand-class-5099 .rand-class-5525 .rand-class-4508 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:before {
     display: none;
   }
 
-  .rand-class-5383 .rand-class-7364 .rand-class-4454 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
     top: 5px;
     right: 5px;
     left: auto;
@@ -384,20 +384,20 @@ html.rand-class-3545 {
 }
 
 @media screen and (max-height: 46em) and (min-width: 30em) {
-  .rand-class-7219 .rand-class-8423 .rand-class-7129 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-content {
     max-height: 340px;
     max-height: 50vh;
   }
 }
 
 @media screen and (max-height: 36em) and (min-width: 30em) {
-  .rand-class-6003 .rand-class-4493 .rand-class-8908 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-content {
     max-height: 265px;
     max-height: 40vh;
   }
 }
 
-.rand-class-4115 .rand-class-2440 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-stacked .lnvmodal-main {
   -webkit-transform: translate(0, 0) scale(1, 1);
   -moz-transform: translate(0, 0) scale(1, 1);
   -o-transform: translate(0, 0) scale(1, 1);
@@ -406,30 +406,30 @@ html.rand-class-3545 {
   opacity: 1;
 }
 
-.rand-class-1326 .rand-class-2275 .rand-class-1373 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-stacked .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
   -webkit-animation: scaleDown .7s ease both;
   -moz-animation: scaleDown .7s ease both;
   animation: scaleDown .7s ease both;
 }
 
-.rand-class-1776 .rand-class-2352 .rand-class-1114 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-stacked .lnvmodal-main .rand-class-1107 .lnvmodal-close {
   opacity: 0;
 }
 
 @media screen and (max-width: 30em) {
-  .rand-class-1842 .rand-class-9390 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-stacked .lnvmodal-main {
     -webkit-animation: scaleDown .7s ease both;
     -moz-animation: scaleDown .7s ease both;
     animation: scaleDown .7s ease both;
   }
 
-  .rand-class-6268 .rand-class-4578 .rand-class-1209 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-stacked .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
     -webkit-animation: none;
     -moz-animation: none;
     animation: none;
   }
 
-  .rand-class-6294 .rand-class-4843 .rand-class-1581 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .is-stacked .lnvmodal-main .rand-class-1107 .lnvmodal-close {
     opacity: 1;
   }
 }
@@ -456,7 +456,7 @@ html.rand-class-3545 {
 }
 
 @media screen and (min-width: 30em) {
-  .rand-class-7696 .rand-class-1960 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main {
     -webkit-transition: opacity 0.4s ease-in-out;
     -o-transition: opacity 0.4s ease-in-out;
     transition: opacity 0.4s ease-in-out;
@@ -465,12 +465,12 @@ html.rand-class-3545 {
 
 /* theme */
 
-.rand-class-8789 .rand-class-2491 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main {
   color: #222222;
   line-height: 1.3;
 }
 
-.rand-class-9782 .rand-class-7441 .rand-class-8517 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
   border-radius: 2px;
   background: white;
   -webkit-box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
@@ -478,36 +478,36 @@ html.rand-class-3545 {
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
 }
 
-.rand-class-3282 .rand-class-7411 .rand-class-9761 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-header {
   border-bottom: 1px solid #dddddd;
   padding: 0 1.2em;
 }
 
-.rand-class-4258 .rand-class-6441 .rand-class-2855 >.rand-class-6003 h2.rand-class-1568 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-header {
   margin: 0.5em 0;
 }
 
-.rand-class-7395 .rand-class-9441 .rand-class-9078 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-content {
   border-bottom: 1px solid #dddddd;
   padding: .2em .5em;
 }
 
-.rand-class-2197 .rand-class-3612 .rand-class-5565 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-footer {
   border-top: 1px solid white;
   padding: 5px 1em;
   background: #f0f0f0;
   border-radius: 2px;
 }
 
-.rand-class-8679 .rand-class-2204 .rand-class-4578 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close {
   text-indent: -100px;
 }
 
-.rand-class-3124 .rand-class-3223 .rand-class-8870 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:before {
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAEUlEQVQoz2NgeEYAjioYSQoAzOTmAXhPhyoAAAAASUVORK5CYII=");
 }
 
-.rand-class-1349 .rand-class-1010 .rand-class-2819 {
+.rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
   background: #ffffff;
   /*#f0f0f0;*/
   /*border: 3px ridge #ffffff;*/
@@ -524,7 +524,7 @@ html.rand-class-3545 {
 }
 
 @media screen and (max-width: 45em) {
-  .rand-class-1807 .rand-class-8487 .rand-class-2966 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
     content: attr(data-dismiss);
     font-size: 1em;
     text-align: center;
@@ -532,7 +532,7 @@ html.rand-class-3545 {
 }
 
 @media screen and (max-width: 30em) {
-  .rand-class-4500 .rand-class-8417 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main:before {
     background-color: #27aae2;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#27aae2), to(#1c9cd3));
     background-image: -webkit-linear-gradient(top, #27aae2, #1c9cd3);
@@ -545,17 +545,17 @@ html.rand-class-3545 {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
   }
 
-  .rand-class-9467 .rand-class-6451 .rand-class-5852 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
     padding-top: 3em;
     -webkit-box-shadow: none;
     box-shadow: none;
   }
 
-  .rand-class-8484 .rand-class-5263 .rand-class-9072 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close {
     text-decoration: none;
   }
 
-  .rand-class-9443 .rand-class-4471 .rand-class-5159 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
     content: attr(data-close);
     font-size: 1em;
     padding: 0.5em 1em;
@@ -564,13 +564,13 @@ html.rand-class-3545 {
 
 /* slider */
 
-.rand-class-3266 {
+.rand-class-1107 .lnvmodal-slider {
   position: absolute;
   left: 0;
   top: 0;
 }
 
-.rand-class-5222 {
+.rand-class-1107 .lnvmodal-slider:after {
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAEUlEQVQoz2NgeEYAjioYSQoAzOTmAXhPhyoAAAAASUVORK5CYII=");
   content: "";
   display: block;
@@ -580,7 +580,7 @@ html.rand-class-3545 {
   z-index: 9998;
 }
 
-.rand-class-4839 .rand-class-2258 {
+.rand-class-1107 .lnvmodal-slider .rand-class-1107 .lnvmodal-main {
   position: fixed;
   top: -75em;
   top: -100vh;
@@ -601,11 +601,11 @@ html.rand-class-3545 {
   transition: top 0.6s ease-in-out;
 }
 
-.rand-class-9089 .rand-class-6066 {
+.rand-class-1107 .lnvmodal-slider .rand-class-1107 .is-active .lnvmodal-main {
   top: 0;
 }
 
-.rand-class-3455 .rand-class-2409 .rand-class-8254 {
+.rand-class-1107 .lnvmodal-slider .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-inner {
   position: relative;
   z-index: 20;
   max-height: 16em;
@@ -617,7 +617,7 @@ html.rand-class-3545 {
   box-sizing: border-box;
 }
 
-.rand-class-5782 .rand-class-8335 .rand-class-5118 {
+.rand-class-1107 .lnvmodal-slider .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-content {
   max-height: none;
   -ms-word-break: break-all;
   word-break: break-word;
@@ -626,7 +626,7 @@ html.rand-class-3545 {
   hyphens: auto;
 }
 
-.rand-class-1664 .rand-class-4181 .rand-class-7542 {
+.rand-class-1107 .lnvmodal-slider .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close {
   display: block;
   height: 1px;
   clip: rect(0 0 0 0);
@@ -634,7 +634,7 @@ html.rand-class-3545 {
   overflow: hidden;
 }
 
-.rand-class-6069 .rand-class-6538 .rand-class-3477 {
+.rand-class-1107 .lnvmodal-slider .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
   background: #f8f8f8;
   border-radius: 2px;
   content: attr(data-close);
@@ -652,7 +652,7 @@ html.rand-class-3545 {
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
 }
 
-.rand-class-5304 .rand-class-3566 .rand-class-2255 {
+.rand-class-1107 .lnvmodal-slider .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
   bottom: auto;
   left: auto;
   right: 0.75em;
@@ -660,11 +660,11 @@ html.rand-class-3545 {
 }
 
 @media (max-width: 50em) {
-  .rand-class-5566 .rand-class-3460 {
+  .rand-class-1107 .lnvmodal-slider .rand-class-1107 .lnvmodal-main {
     padding-bottom: 3em;
   }
 
-  .rand-class-8758 .rand-class-5901 .rand-class-5414 {
+  .rand-class-1107 .lnvmodal-slider .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-close:after {
     content: attr(data-dismiss);
     font-size: 1em;
     bottom: 0.75em;
@@ -677,11 +677,11 @@ html.rand-class-3545 {
 /* video modal */
 
 @media (min-height: 30em) {
-  .rand-class-6421 .rand-class-4414 .rand-class-1423 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-video {
     max-height: none;
   }
 
-  .rand-class-8767 .rand-class-8863 .rand-class-4822 iframe.rand-class-7223 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-video {
     height: auto;
     max-height: 360px;
     max-width: 640px;
@@ -694,11 +694,11 @@ html.rand-class-3545 {
 /* gallery modal */
 
 @media (min-height: 30em) {
-  .rand-class-8571 .rand-class-1229 .rand-class-7942 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-gallery {
     max-height: none;
   }
 
-  .rand-class-9006 .rand-class-9627 .rand-class-7376 iframe.rand-class-9130 {
+  .rand-class-1107 .lnvmodal-overlay .rand-class-1107 .lnvmodal-main .rand-class-1107 .lnvmodal-gallery {
     max-height: none;
     max-width: 72em;
     min-height: 48em;

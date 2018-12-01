@@ -1,9 +1,9 @@
 /*CSS for removing bullets for text items in compare table*/
 
-.rand-class-8967 ul.rand-class-2036 {
+.rand-class-1107 .compareTable-textItem {
   padding: 0;
 }
 
-.rand-class-9690 ul.rand-class-6794 li.rand-class-7013 {
+.rand-class-1107 .compareTable-textItem {
   list-style: none;
 }

@@ -1,0 +1,244 @@
+ {
+  width: 700px;
+  height: 480px;
+  display: none;
+}
+
+ {
+  margin-left: 10px;
+  width: 680px;
+  padding-top: 10px;
+}
+
+.rand-class-1107 .e-spot {
+  width: 194px;
+  margin: 10px 0 0;
+  padding: 10px;
+}
+
+.rand-class-1107 .e-spot {
+  position: absolute;
+  width: 70px;
+  height: 116px;
+}
+
+.rand-class-1107 .grid_5 {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+ {
+  display: none;
+}
+
+ {
+  display: none;
+}
+
+ {
+  width: 700px;
+  position: relative;
+  margin: 0px auto;
+  text-align: left;
+}
+
+ {
+  width: 690px;
+  float: left;
+  border-bottom: thin solid #cecfce;
+  border-left: thin solid #cecfce;
+  border-right: thin solid #cecfce;
+  border-top: thin solid #cecfce;
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.rand-class-1107 .GreyBKGRD-header {
+  height: 40px;
+  width: 690px;
+  background-color: #efefef;
+  border-bottom: thin solid #cecfce;
+  border-right: thin solid #cecfce;
+}
+
+ {
+  background: transparent;
+  color: #555555;
+  font-weight: bold;
+  font-size: 14px;
+  margin: 0 0 0 10px;
+  padding: 10px 0 0 0;
+  position: relative;
+  top: -5px;
+  text-transform: uppercase;
+}
+
+ {
+  background: transparent;
+  color: #555555;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px 0 5px 0;
+  text-transform: uppercase;
+}
+
+ {
+  color: #dc291e;
+}
+
+ {
+  margin: 10px 50px 15px 10px;
+  float: left;
+  width: 270px;
+}
+
+ {
+  padding: 14px 0px 0px 0px;
+}
+
+ {
+  padding: 15px 0px 0px 0px;
+}
+
+ {
+  width: 230px;
+  margin-top: 3px;
+}
+
+ {
+  padding-top: 10px;
+}
+
+ {
+  width: 230px;
+  margin-top: 3px;
+}
+
+ {
+  float: left;
+  padding: 10px 40px 0px 0px;
+}
+
+ {
+  float: left;
+  clear: both;
+  padding: 10px 40px 0px 0px;
+}
+
+ {
+  float: left;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  top: 13px;
+}
+
+.rand-class-1107 .SignInText {
+  font-family: verdana,arial,sans-serif;
+  font-size: 11px;
+}
+
+ {
+  float: right;
+  width: 280px;
+  margin-right: 10px;
+}
+
+ {
+  padding: 9px 0px 0px 0px;
+}
+
+ {
+  float: left;
+  clear: both;
+  padding-top: 10px;
+}
+
+.rand-class-1107 .SignInText {
+  font-family: verdana,arial,sans-serif;
+  font-size: 11px;
+}
+
+.rand-class-1107 .e-spot {
+  background: transparent;
+  box-shadow: none;
+}
+
+ {
+  display: none;
+}
+
+ {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+ {
+  padding-top: 10px;
+}
+
+ {
+  margin-left: 80px;
+}
+
+ {
+  font-weight: bold;
+  float: right;
+  display: inline-block;
+  text-align: center;
+  width: 250px;
+  margin-top: 20px;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #dc291e;
+}
+
+/* #fancybox-content { border-top-width:0px !important; } */
+
+#fancybox-content.wishlistOverlay {
+  border-top-width: 0px !important;
+  width: 46em !important;
+  background: #fff !important;
+}
+
+#fancybox-content.wishlistOverlay {
+  text-align: left !important;
+}
+
+#fancybox-close.wishlistClose {
+  right: -55px !important;
+}
+
+/* changes by Lara */
+
+ {
+  color: #555555;
+  font-size: 14px;
+  font-weight: bold;
+  margin: -22px 0 0 370px;
+  /* 330px */
+  width: 270px;
+  /* 330px */
+  padding: 0 0 0 0;
+  text-transform: uppercase;
+}
+
+ {
+  position: relative;
+  left: -30px;
+}
+
+ {
+  position: relative;
+  top: 16px;
+  font-family: verdana,arial,sans-serif;
+  font-size: 11px;
+}
+
+ {
+  position: relative;
+  top: 15px;
+}

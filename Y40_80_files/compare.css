@@ -1,17 +1,17 @@
 /* minimum styles for overlay (if using jQuery Tools) */
 
-.rand-class-5354 {
+.rand-class-1107 .cmp-overlay {
   display: none;
   background: #fff;
   z-index: 200;
 }
 
-.rand-class-3564 .rand-class-1899 {
+.rand-class-1107 .cmp-overlay .rand-class-1107 .inner {
   height: 100%;
   overflow: auto;
 }
 
-.rand-class-4482 .rand-class-6327 {
+.rand-class-1107 .cmp-overlay .rand-class-1107 .close {
   background-image: url("/SEUILibrary/hightech-portal/images/icons/black-close.png");
   position: absolute;
   right: -13px;
@@ -23,21 +23,21 @@
 
 /* styles for demo only */
 
-.rand-class-7675 {
+.rand-class-1107 .cmp-overlay {
   padding: 15px;
 }
 
-.rand-class-6738 .rand-class-9552 {
+.rand-class-1107 .cmp-overlay .rand-class-1107 .inner {
   margin: 0px !important;
   overflow: auto;
 }
 
-.rand-class-8097 .rand-class-2934 p.rand-class-5552 {
+.rand-class-1107 .cmp-overlay .rand-class-1107 .inner {
   text-align: left;
   background: #fff;
 }
 
-.rand-class-3290 {
+.rand-class-1107 .cmp-overlay .loading {
   height: 50px;
   width: 50px;
   background-image: url("/SEUILibrary/hightech-portal/images/ajax-loader.gif");
@@ -47,37 +47,37 @@
 
 /* minimum slider styles */
 
-#compareSlider.rand-class-1379 {
+ {
   position: fixed;
   z-index: 98;
 }
 
-#compareSlider.rand-class-5533 {
+#compareSlider.rand-class-4870 {
   overflow: hidden;
 }
 
-.rand-class-3473 {
+.rand-class-1107 .notready {
   display: none;
 }
 
-#compareSlider.rand-class-2653 #sliderTab.rand-class-7632 {
+ {
   cursor: pointer;
 }
 
-#compareSlider.rand-class-8898 #sliderContent.rand-class-4887 {
+ {
   position: relative;
 }
 
 /* demo styling */
 
-#compareSlider.rand-class-5628 {
+ {
   position: fixed;
   right: -200px;
   top: 0;
   z-index: 98;
 }
 
-#compareSlider.rand-class-6104 #sliderTab.rand-class-7423 {
+ {
   z-index: 99;
   background: #000000;
   float: left;
@@ -87,7 +87,7 @@
   background-repeat: no-repeat;
 }
 
-#compareSlider.rand-class-7600 #sliderContent.rand-class-8525 {
+ {
   background-color: #efefef;
   border: 1px solid #cecfce;
   border-right: 0;
@@ -97,11 +97,11 @@
   width: 200px;
 }
 
-#compareSlider.rand-class-5533 {
+#compareSlider.rand-class-4870 {
   height: 300px;
 }
 
-#compareSlider.rand-class-5533 #sliderTab.rand-class-5331 {
+#compareSlider.rand-class-4870 {
   z-index: 99;
   float: left;
   width: 39px;
@@ -110,11 +110,11 @@
   background-repeat: no-repeat;
 }
 
-#compareSlider.rand-class-9402 {
+#compareSlider.rand-class-1922 {
   clear: both;
 }
 
-#compareSlider.rand-class-9704 #title.rand-class-2268 {
+ {
   color: #ffffff;
   display: inline-block;
   float: left;
@@ -144,13 +144,13 @@
   -ms-filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
 
-.rand-class-7318 {
+.rand-class-1107 .compareLoader {
   background-image: url("/SEUILibrary/hightech-portal/images/ajax-loader.gif");
   background-position: center center;
   background-repeat: no-repeat;
 }
 
-#sliderWrapper.rand-class-1178 {
+ {
   padding: 10px;
   text-align: left;
   height: 100%;
@@ -158,21 +158,21 @@
   overflow: auto;
 }
 
-#sliderCount.rand-class-9830 {
+ {
   margin-left: 5px;
   margin-bottom: 5px;
 }
 
-#sliderCount.rand-class-4224 span.rand-class-8513 {
+ {
   margin-left: 1px;
 }
 
-.rand-class-6126 {
+.rand-class-1107 .sliderList {
   position: relative;
   vertical-align: top;
 }
 
-.rand-class-1979 {
+.rand-class-1107 .sliderListImg {
   display: inline-block;
   position: absolute;
   right: 10px;
@@ -182,7 +182,7 @@
   /* needed to overwrite legacy styles */
 }
 
-.rand-class-1469 {
+.rand-class-1107 .sliderListElement {
   display: inline-block;
   position: relative;
   left: 5px;
@@ -192,20 +192,20 @@
   line-height: 18px;
 }
 
-.rand-class-9221 {
+.rand-class-1107 .sliderDivider {
   margin-top: 10px;
   height: 9px;
   vertical-align: middle;
 }
 
-.rand-class-8342 {
+.rand-class-1107 .sliderDividerInner {
   vertical-align: middle;
   height: 1px;
   width: 100%;
   background: #dedede;
 }
 
-.rand-class-1792 {
+.rand-class-1107 .sliderAction {
   margin-top: 0px;
   width: 100%;
   border-top: 1 px solid #dedede;
@@ -213,12 +213,12 @@
   padding-top: 0px;
 }
 
-.rand-class-8269 {
+.rand-class-1107 .sliderActionInner {
   margin-top: 10px;
   padding-left: 20px;
 }
 
-.rand-class-5524 {
+.rand-class-1107 .sliderActionClear {
   clear: both;
   margin-top: 10px;
   padding-top: 10px;
@@ -226,21 +226,21 @@
   font-size: 0.9em;
 }
 
-.rand-class-9217 >.rand-class-9651 a.rand-class-7910 {
+.rand-class-1107 .sliderActionClear {
   padding-right: 10px;
 }
 
-.rand-class-5728 {
+.rand-class-1107 .compare {
   width: 100%;
   background-color: #ffffff;
 }
 
-.rand-class-4881 #cmpoverlaytableheader.rand-class-2574 {
+.rand-class-1107 .compare {
   background: #ffffff;
   z-index: 300;
 }
 
-.rand-class-2470 .rand-class-7422 {
+.rand-class-1107 .compare .rand-class-1107 .comparetitle {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   font-size: 24px;
@@ -249,21 +249,21 @@
   padding-bottom: 10px;
 }
 
-.rand-class-1714 table.rand-class-8199 {
+.rand-class-1107 .compare {
   border: 0px;
 }
 
-.rand-class-2588 a.rand-class-2690 {
+.rand-class-1107 .compare {
   color: #009dd9;
   text-decoration: none;
 }
 
-.rand-class-9267 a:hover.rand-class-8449 {
+.rand-class-1107 .compare {
   color: #009dd9;
   text-decoration: underline;
 }
 
-.rand-class-9758 .rand-class-9787 {
+.rand-class-1107 .compare .rand-class-1107 .compareLeftCol {
   width: 120px;
   margin: 0px;
   color: #000;
@@ -275,53 +275,53 @@
   font-size: 12px;
 }
 
-.rand-class-6774 .rand-class-8766 {
+.rand-class-1107 .compare .rand-class-1107 .col {
   border-right: 1px solid #cecfce;
   border-bottom: solid #cecfce 1px;
 }
 
-.rand-class-3154 .rand-class-6734 {
+.rand-class-1107 .compare .rand-class-1107 .topcol {
   border-right: 1px solid #cecfce;
   border-bottom: solid #cecfce 1px;
 }
 
-.rand-class-8076 .rand-class-3875 .rand-class-1064 {
+.rand-class-1107 .compare .rand-class-1107 .topcol .rand-class-1107 .row {
   float: left;
   width: 225px;
 }
 
-.rand-class-4391 .rand-class-9560 {
+.rand-class-1107 .compare .rand-class-1107 .colwidth {
   width: 250px;
 }
 
-.rand-class-4830 .rand-class-8481 {
+.rand-class-1107 .compare .rand-class-1107 .acccol {
   vertical-align: top;
   border-right: 1px solid #cecfce;
   border-bottom: solid #cecfce 1px;
 }
 
-.rand-class-4695 .rand-class-5182 {
+.rand-class-1107 .compare .rand-class-1107 .centercol {
   text-align: center;
   vertical-align: middle;
 }
 
-.rand-class-1429 .rand-class-5958 {
+.rand-class-1107 .compare .rand-class-1107 .topmostrow {
   border-top: solid 1px #cecfce;
   vertical-align: top;
 }
 
-.rand-class-2934 .rand-class-7354 {
+.rand-class-1107 .compare .rand-class-1107 .heightWrapper {
   height: auto;
 }
 
-.rand-class-9815 .rand-class-9874 {
+.rand-class-1107 .compare .rand-class-1107 .removecmp {
   text-align: right;
   min-height: 20px;
   background-color: transparent;
   padding: 0;
 }
 
-.rand-class-4700 .rand-class-7306 .rand-class-7943 {
+.rand-class-1107 .compare .rand-class-1107 .removecmp .rand-class-1107 .removeinner {
   width: auto;
   display: inline-block;
   padding: 10px 10px 0 0;
@@ -329,97 +329,97 @@
   border-bottom: none;
 }
 
-.rand-class-1169 .rand-class-2157 {
+.rand-class-1107 .compare .rand-class-1107 .toprow {
   font-weight: bold;
   font-size: 14px;
   border-top: solid 1px #cecfce;
 }
 
-.rand-class-3204 .rand-class-1467 {
+.rand-class-1107 .compare .rand-class-1107 .itemdesc {
   margin: 0;
   font-weight: bold;
   text-align: left;
 }
 
-.rand-class-4520 .rand-class-6558 {
+.rand-class-1107 .compare .rand-class-1107 .row {
   margin: 10px 10px;
 }
 
-.rand-class-2565 .rand-class-9629 {
+.rand-class-1107 .compare .rand-class-1107 .col1 {
   font-size: 12px;
   text-transform: capitalize;
   width: 120px;
 }
 
-.rand-class-7390 .rand-class-6682 {
+.rand-class-1107 .compare .rand-class-1107 .col2 {
   font-size: 12px;
   width: 250px;
 }
 
-.rand-class-5237 .rand-class-8854 {
+.rand-class-1107 .compare .rand-class-1107 .row1 {
   background-color: #efefef;
   vertical-align: top;
 }
 
-.rand-class-8677 #LastRow.rand-class-4917 {
+.rand-class-1107 .compare {
   border-right: 1px solid #cecfce;
   border-top: solid #cecfce 1px;
   border-bottom: solid #cecfce 1px;
   height: 30px;
 }
 
-.rand-class-6293 .rand-class-4608 {
+.rand-class-1107 .compare .rand-class-1107 .price {
   text-align: center;
 }
 
-.rand-class-9255 .rand-class-8000 .rand-class-2572 {
+.rand-class-1107 .compare .rand-class-1107 .price .rand-class-1107 .imgdiv {
   width: 100%;
   text-align: center;
 }
 
-.rand-class-3617 .rand-class-7837 .rand-class-4294 {
+.rand-class-1107 .compare .rand-class-1107 .price .rand-class-1107 .FreeShipping {
   margin-top: 30px;
   clear: both;
   text-align: center;
 }
 
-.rand-class-1636 .rand-class-5173 {
+.rand-class-1107 .compare .rand-class-1107 .PriceBlock {
   width: 200px;
   text-align: left;
   margin-left: auto;
   margin-right: auto;
 }
 
-.rand-class-7350 .rand-class-3181 .rand-class-9715 {
+.rand-class-1107 .compare .rand-class-1107 .PriceBlock .rand-class-1107 .imgdiv {
   padding: 10px 5px;
 }
 
-.rand-class-4346 .rand-class-1760 {
+.rand-class-1107 .compare .rand-class-1107 .clear {
   clear: both;
 }
 
-.rand-class-8185 .rand-class-5341 {
+.rand-class-1107 .compare .rand-class-1107 .customize {
   margin-top: 10px;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
-.rand-class-9382 .rand-class-5873 {
+.rand-class-1107 .compare .rand-class-1107 .avail {
   clear: both;
   padding-top: 10px;
 }
 
-.rand-class-1824 .rand-class-4644 {
+.rand-class-1107 .compare .rand-class-1107 .wish {
   clear: both;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
-.rand-class-1170 .rand-class-4514 {
+.rand-class-1107 .compare .rand-class-1107 .cmpoffers {
   margin-top: 10px;
 }
 
-.rand-class-4562 .rand-class-5770 {
+.rand-class-1107 .compare .rand-class-1107 .add_more {
   background: none;
   clear: both;
   padding-bottom: 10px;
@@ -428,7 +428,7 @@
   padding-top: 3em;
 }
 
-.rand-class-8720 .rand-class-5537 a.rand-class-8822 {
+.rand-class-1107 .compare .rand-class-1107 .add_more a.button {
   float: left;
   height: auto;
   right: 0px;
@@ -439,12 +439,12 @@
 
 /*Bug fix for 1894 */
 
-.rand-class-4610 .rand-class-7729 a.rand-class-5305 >.rand-class-5742 span.rand-class-7528 {
+.rand-class-1107 .compare .rand-class-1107 .add_more a.button {
   font-size: 12px;
   padding: 5px 10px;
 }
 
-.rand-class-2817 {
+.rand-class-1107 .removeButton1 {
   height: 20px;
   display: inline-block;
   border: solid 1px #cecfce;
@@ -453,7 +453,7 @@
   left: 299px;
 }
 
-.rand-class-8081 {
+.rand-class-1107 .removeButton2 {
   height: 20px;
   display: inline-block;
   border: solid 1px #cecfce;
@@ -461,22 +461,22 @@
   text-align: center;
 }
 
-.rand-class-5920 {
+.rand-class-1107 .removeButton3 {
   display: inline-block;
   border: solid 1px #cecfce;
   width: 70px;
   text-align: center;
 }
 
-.rand-class-7074 {
+.rand-class-1107 .accfeaturelabel {
   display: inline-block;
 }
 
-.rand-class-6331 {
+.rand-class-1107 .accfeaturevalue {
   display: inline-block;
 }
 
-.rand-class-1203 {
+.rand-class-1107 .comparecheckbox {
   display: inline-block;
   margin-bottom: 5px;
   line-height: 16px;
@@ -484,15 +484,15 @@
   vertical-align: middle;
 }
 
-.rand-class-1223 input.rand-class-8465 {
+.rand-class-1107 .comparecheckbox {
   vertical-align: middle;
 }
 
-.rand-class-2428 {
+.rand-class-1107 .cbxhide {
   display: none;
 }
 
-.rand-class-1116 {
+.rand-class-1107 .cbxshow {
   margin-top: 4px;
   display: inline-block;
   *display: inline;
@@ -503,7 +503,7 @@
   margin-left: 5px;
 }
 
-.rand-class-7548 {
+.rand-class-1107 .expanded {
   cursor: pointer;
   height: 31px;
   width: 16px;
@@ -513,7 +513,7 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-4967 {
+.rand-class-1107 .collapsed {
   cursor: pointer;
   height: 11px;
   width: 16px;
@@ -523,7 +523,7 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-1636 {
+.rand-class-1107 .togglepadder {
   display: none;
   height: 11px;
   width: 16px;
@@ -532,7 +532,7 @@
   border: 1px solid red;
 }
 
-.rand-class-3210 >.rand-class-2675 a.rand-class-1159 {
+.rand-class-1107 .sliderActionInner a.button a.learn {
   display: block;
   border: 1px solid #206485;
   color: #fff;
@@ -545,7 +545,7 @@
   text-shadow: 1px 1px 1px #111111;
 }
 
-.rand-class-5450 >.rand-class-7852 a.rand-class-7322 >.rand-class-4589 span.rand-class-4565 {
+.rand-class-1107 .sliderActionInner a.button {
   display: block;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
@@ -558,18 +558,18 @@
   text-transform: uppercase;
 }
 
-.rand-class-7940 .rand-class-2303 {
+.rand-class-1107 .PriceBlock .rand-class-1107 .pricingSummary-details {
   width: auto;
 }
 
-.rand-class-1096 .rand-class-9754 {
+.rand-class-1107 .PriceBlock .rand-class-1107 .pricingSummary-secondary-details {
   width: auto;
   border: none;
 }
 
 @media (max-width:60em) {
-  #compareSlider.rand-class-9815,
-  .rand-class-6985 {
+  ,
+  .rand-class-1107 .comparecheckbox {
     display: none;
   }
 }

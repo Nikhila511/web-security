@@ -7,7 +7,7 @@ UMD: disabled
 The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved. Unauthorized use is prohibited. This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. 6606581, 6421724, 6785717 B1 and other patents pending. http://www.opinionlab.com
 */
 
-#oo_feedback_fl_spacer.rand-class-7028 {
+ {
   display: block;
   height: 1px;
   position: absolute;
@@ -15,7 +15,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   width: 100px;
 }
 
-.rand-class-2563 {
+.rand-class-1107 .oo_feedback_float {
   width: 100px;
   height: 50px;
   overflow: hidden;
@@ -34,7 +34,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   -webkit-transition: -webkit-transform 0.3s ease;
 }
 
-.rand-class-9029 .rand-class-9442 {
+.rand-class-1107 .oo_feedback_float .rand-class-1107 .screen_reader {
   color: transparent;
   display: block;
   position: relative;
@@ -44,7 +44,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   overflow: hidden;
 }
 
-.rand-class-5092 .rand-class-8923 {
+.rand-class-1107 .oo_feedback_float .rand-class-1107 .olUp {
   width: 100%;
   height: 100%;
   background: url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_float_icon.gif") center 10px no-repeat;
@@ -60,11 +60,11 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   -o-transition: opacity .5s;
 }
 
-.rand-class-7196 .rand-class-7628 img.rand-class-3549 {
+.rand-class-1107 .oo_feedback_float .rand-class-1107 .olUp {
   margin-bottom: 5px;
 }
 
-.rand-class-5070 .rand-class-4263 {
+.rand-class-1107 .oo_feedback_float .rand-class-1107 .oo_transparent {
   display: block;
   background: white;
   position: absolute;
@@ -80,22 +80,22 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   -webkit-border-radius: 8px;
 }
 
-.rand-class-9245 .rand-class-8431 {
+.rand-class-1107 .oo_feedback_float:hover .rand-class-1107 .oo_transparent {
   opacity: 1.0;
   filter: alpha(opacity=100);
 }
 
-.rand-class-1440 .rand-class-9295 {
+.rand-class-1107 .oo_feedback_float:hover .rand-class-1107 .olUp {
   display: block;
   opacity: 0;
   filter: alpha(opacity=0);
 }
 
-.rand-class-5415 .rand-class-8090 {
+.rand-class-1107 .oo_feedback_float .rand-class-1107 .fbText {
   display: block;
 }
 
-.rand-class-2844 .rand-class-9915 {
+.rand-class-1107 .oo_feedback_float .rand-class-1107 .olOver {
   display: block;
   height: 100%;
   width: 100%;
@@ -112,18 +112,18 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   -o-transition: opacity .5s;
 }
 
-.rand-class-4479 .rand-class-9915 span.rand-class-2732 {
+.rand-class-1107 .oo_feedback_float .rand-class-1107 .olOver {
   display: block;
   padding: 10px 5px;
 }
 
-.rand-class-9102 .rand-class-8630 {
+.rand-class-1107 .oo_feedback_float:hover .rand-class-1107 .olOver {
   opacity: 1.0;
   filter: alpha(opacity=100);
   top: 0;
 }
 
-.rand-class-2061 {
+.rand-class-1107 .oo_cc_wrapper {
   left: 0;
   padding: 0;
   position: fixed;
@@ -133,7 +133,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   z-index: 999999;
 }
 
-.rand-class-2067 .rand-class-8613 {
+.rand-class-1107 .oo_cc_wrapper .rand-class-1107 .screen_reader {
   color: transparent;
   display: block;
   position: relative;
@@ -143,7 +143,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   overflow: hidden;
 }
 
-.rand-class-4524 span.rand-class-2044 {
+.rand-class-1107 .oo_cc_wrapper {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -152,7 +152,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   z-index: 1;
 }
 
-.rand-class-8358 .rand-class-2329 {
+.rand-class-1107 .oo_cc_wrapper .rand-class-1107 .iwrapper {
   background-color: white;
   margin: 0 auto;
   position: relative;
@@ -166,14 +166,14 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   -webkit-border-radius: 9px;
 }
 
-.rand-class-8522 iframe.rand-class-8485 {
+.rand-class-1107 .oo_cc_wrapper {
   position: relative;
   border: none;
   width: 100%;
   z-index: 4;
 }
 
-.rand-class-7392 .rand-class-9586 {
+.rand-class-1107 .oo_cc_wrapper .rand-class-1107 .oo_cc_close {
   position: absolute;
   display: block;
   background: white;
@@ -197,15 +197,15 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   text-decoration: none;
 }
 
-.rand-class-4919 .rand-class-1105 {
+.rand-class-1107 .oo_cc_wrapper .rand-class-1107 .oo_cc_close:hover {
   background: #eeeeee;
 }
 
-.rand-class-9937 {
+.rand-class-1107 .oo_bar {
   padding-bottom: 22px;
 }
 
-#oo_bar.rand-class-5233 {
+ {
   cursor: pointer;
   color: #252525;
   border-top: 1px solid #cccccc;
@@ -227,11 +227,11 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   -o-transition: background 0.5s;
 }
 
-#oo_bar:hover.rand-class-7075 {
+ {
   background: #eeeeee;
 }
 
-#oo_bar.rand-class-2545 .rand-class-6710 {
+.rand-class-1107 .screen_reader {
   color: transparent;
   display: block;
   position: relative;
@@ -241,7 +241,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   overflow: hidden;
 }
 
-#oo_bar.rand-class-8996 span.rand-class-4067 {
+ {
   background: url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_bar_icon.gif") left no-repeat;
   display: block;
   margin: 0 15px;
@@ -249,7 +249,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   padding-left: 17px;
 }
 
-#oo_tab.rand-class-9166 {
+ {
   background-color: #ffffff;
   border: 1px solid #cccccc;
   display: block;
@@ -264,7 +264,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   cursor: pointer;
 }
 
-#oo_tab.rand-class-4748 span.rand-class-8136 {
+ {
   bottom: 15px;
   _bottom: 5px;
   display: block;
@@ -274,7 +274,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   width: 9px;
 }
 
-#oo_tab.rand-class-1147 div.rand-class-3815 {
+ {
   background-image: url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_tab.png");
   _background-image: url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_tabie6.png");
   background-repeat: no-repeat;
@@ -286,7 +286,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   width: 100%;
 }
 
-#oo_tab.rand-class-6517 a.rand-class-9608 {
+#oo_tab.wcag {
   background: url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_tab_icon.gif") no-repeat;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -300,7 +300,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   width: 100%;
 }
 
-#oo_tab.rand-class-2137 img.rand-class-9135 {
+#oo_tab.wcag {
   border: none;
   outline: none;
   display: block;
@@ -309,7 +309,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   top: -10px;
 }
 
-#oo_tab.rand-class-7433 .rand-class-5189 {
+.rand-class-1107 .screen_reader {
   color: transparent;
   display: block;
   position: relative;
@@ -319,7 +319,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   overflow: hidden;
 }
 
-.rand-class-2441 {
+.rand-class-1107 .oo_tab_left {
   left: -13px;
   border-radius: 0px 9px 9px 0px;
   -moz-border-radius: 0px 9px 9px 0px;
@@ -336,19 +336,19 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   background-image: linear-gradient(left, #eeeeee, white);
 }
 
-.rand-class-9922 span.rand-class-1978 {
+.rand-class-1107 .oo_tab_left {
   right: 6px;
 }
 
-.rand-class-8874 div.rand-class-2956 {
+.rand-class-1107 .oo_tab_left {
   background-position: 6px -10px;
 }
 
-.rand-class-1610 {
+.rand-class-1107 .oo_tab_left:hover {
   left: -5px;
 }
 
-.rand-class-3370 {
+.rand-class-1107 .oo_tab_right {
   right: -13px;
   border-radius: 9px 0px 0px 9px;
   -moz-border-radius: 9px 0px 0px 9px;
@@ -365,46 +365,46 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   background-image: linear-gradient(left, white, #eeeeee);
 }
 
-.rand-class-8306 span.rand-class-4457 {
+.rand-class-1107 .oo_tab_right {
   left: 7px;
 }
 
-.rand-class-2179 div.rand-class-6603 {
+.rand-class-1107 .oo_tab_right {
   background-position: -6px -10px;
 }
 
-.rand-class-5906 {
+.rand-class-1107 .oo_tab_right:hover {
   right: -5px;
 }
 
-.rand-class-1426 {
+.rand-class-1107 .oo_tab_ie_right {
   border-right: none !important;
   right: 1px;
   width: 25px !important;
 }
 
-.rand-class-3231 {
+.rand-class-1107 .oo_tab_ie_right:hover {
   right: 6px;
   width: 30px !important;
 }
 
-#oo_tab.rand-class-5364 {
+#oo_tab.oo_tab_ie67_right #oo_tab.wcag {
   overflow: hidden !important;
   right: 0px !important;
   width: 26px !important;
 }
 
-#oo_tab.rand-class-5482 {
+#oo_tab.oo_tab_ie67_right #oo_tab.wcag:hover {
   right: 0px !important;
   width: 31px !important;
 }
 
-#oo_tab.rand-class-3284 a.rand-class-2450 {
+#oo_tab.oo_tab_ie67_right #oo_tab.wcag {
   background: none;
   z-index: 1;
 }
 
-#oo_tab.rand-class-6361 .rand-class-3958 {
+#oo_tab.oo_tab_ie67_right #oo_tab.wcag .rand-class-1107 .screen_reader {
   bottom: 15px;
   display: block;
   background: url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_tab_icon.gif") no-repeat;
@@ -416,7 +416,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   z-index: 9999;
 }
 
-#oo_container.rand-class-6843 {
+ {
   position: fixed;
   height: 100%;
   width: 100%;
@@ -425,7 +425,7 @@ The following code is Copyright 1998-2014 Opinionlab, Inc.  All rights reserved.
   z-index: 999999;
 }
 
-html.rand-class-5945 body.rand-class-3323 #oo_invitation_prompt.rand-class-3468 {
+ {
   background: white;
   box-shadow: rgba(0, 0, 0, 0.6) 0 0 15px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.6) 0 0 15px;
@@ -446,23 +446,23 @@ html.rand-class-5945 body.rand-class-3323 #oo_invitation_prompt.rand-class-3468 
   z-index: 999999;
 }
 
-html.rand-class-5246 body.rand-class-5067 #oo_invitation_prompt.rand-class-1828 h1.rand-class-9029 {
+ {
   font-size: 24px;
   font-weight: 100;
   margin-bottom: .6em;
 }
 
-html.rand-class-1962 body.rand-class-5098 #oo_invitation_prompt.rand-class-5676 p.rand-class-1176 {
+ {
   margin-bottom: 1.5em;
 }
 
-html.rand-class-2599 body.rand-class-6673 #oo_invitation_prompt.rand-class-7336 #prompt_buttons.rand-class-8572 {
+ {
   padding-bottom: 15px;
   position: relative;
   z-index: 5;
 }
 
-html.rand-class-3797 body.rand-class-9599 #oo_invitation_prompt.rand-class-7935 #oo_launch_prompt.rand-class-3732 {
+ {
   text-decoration: none;
   color: white;
   border: 1px solid #006633;
@@ -470,7 +470,7 @@ html.rand-class-3797 body.rand-class-9599 #oo_invitation_prompt.rand-class-7935 
   margin-right: 17px;
 }
 
-html.rand-class-7742 body.rand-class-5413 #oo_invitation_prompt.rand-class-7977 #oo_no_thanks.rand-class-1194 {
+ {
   text-decoration: none;
   color: #252525;
   border: 1px solid #cccccc;
@@ -478,17 +478,17 @@ html.rand-class-7742 body.rand-class-5413 #oo_invitation_prompt.rand-class-7977 
   margin-right: 18px;
 }
 
-html.rand-class-8214 body.rand-class-3348 #oo_ol_brand.rand-class-4297 {
+ {
   display: block;
   height: 22px;
 }
 
-#oo_ol_brand.rand-class-7771 {
+ {
   background: url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_inv_opinionlab.png") bottom right no-repeat;
   border-top: 1px solid #cccccc;
 }
 
-#oo_invitation_prompt.rand-class-3847 a.rand-class-1267 {
+ {
   background: white;
   border-radius: 5px;
   -moz-border-radius: 5px;
@@ -499,19 +499,19 @@ html.rand-class-8214 body.rand-class-3348 #oo_ol_brand.rand-class-4297 {
   -o-transition: background .5s;
 }
 
-#oo_invitation_prompt.rand-class-4011 a:hover.rand-class-9025 {
+ {
   background: #eeeeee;
 }
 
-a#oo_launch_prompt.rand-class-9304 {
+ {
   background: #006633;
 }
 
-a#oo_launch_prompt:hover.rand-class-9988 {
+ {
   background: #009966;
 }
 
-#oo_close_prompt.rand-class-4982 {
+ {
   position: absolute;
   display: block;
   background: white;
@@ -532,11 +532,11 @@ a#oo_launch_prompt:hover.rand-class-9988 {
   text-align: center;
 }
 
-#oo_close_prompt:hover.rand-class-4899 {
+ {
   background: #eeeeee;
 }
 
-#oo_close_prompt.rand-class-6257 .rand-class-3510 {
+.rand-class-1107 .screen_reader {
   color: transparent;
   display: block;
   position: relative;
@@ -551,7 +551,7 @@ a#oo_launch_prompt:hover.rand-class-9988 {
 @media only screen and (max-device-width: 480px) {
   /* Styles */
 
-  html.rand-class-5274 body.rand-class-2155 #oo_invitation_prompt.rand-class-5667 {
+   {
     -webkit-text-size-adjust: none;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -562,14 +562,14 @@ a#oo_launch_prompt:hover.rand-class-9988 {
 }
 
 @media all and (-webkit-min-device-pixel-ratio: 2) {
-  #oo_ol_brand.rand-class-8318 {
+   {
     background: url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_inv_opinionlab@2x.png") bottom right no-repeat;
     -webkit-background-size: 85px 13px;
   }
 }
 
-#oo_overlay.rand-class-2687,
-#oo_invitation_overlay.rand-class-3082 {
+,
+ {
   background: black url("//www.lenovo.com/ISS_Static/WW/tms/opinionlab/5.8.1/oo_loading.gif") 50% 80px no-repeat;
   display: block;
   height: 1000%;
@@ -582,42 +582,42 @@ a#oo_launch_prompt:hover.rand-class-9988 {
   filter: alpha(opacity=50);
 }
 
-#oo_overlay.rand-class-5555,
-#oo_invitation_overlay.rand-class-1882 {
+#oo_overlay.no_loading,
+#oo_invitation_overlay.no_loading {
   background: black;
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
 
 @media print {
-  #oo_bar.rand-class-9252,
-  .rand-class-4559,
-  #oo_tab.rand-class-1737 {
+  ,
+  .rand-class-1107 .oo_feedback_float,
+   {
     display: none;
   }
 }
 
 /* Lenovo RWD styles ------------- */
 
-#oo_invitation_prompt.rand-class-6354 a.rand-class-1366 {
+ {
   white-space: nowrap;
   display: inline-block;
   margin-top: 0.5em;
 }
 
 @media (max-width: 55em) {
-  html.rand-class-9140 body.rand-class-1883 #oo_invitation_prompt.rand-class-6689 {
+   {
     width: auto;
     margin: 4em;
   }
 
-  .rand-class-9232,
-  .rand-class-9040 {
+  .rand-class-1107 .trusteValidation-icon,
+  .rand-class-1107 .trusteValidation {
     margin-right: 1em;
     width: 104px;
   }
 
-  .rand-class-6107 >.rand-class-3559 #oo_float.rand-class-3204 {
+  .rand-class-1107 .rand-class-7326 {
     background: #ffffff;
     bottom: auto !important;
     display: table;
@@ -630,7 +630,7 @@ a#oo_launch_prompt:hover.rand-class-9988 {
     -webkit-border-radius: 0;
   }
 
-  .rand-class-6107 >.rand-class-3266 #oo_float.rand-class-5437 .rand-class-4456 {
+  .rand-class-1107 .rand-class-7326 .rand-class-1107 .olUp {
     background-position: 0.5em center;
     display: table-cell;
     padding: 0 1em 0 2.5em;
@@ -638,13 +638,13 @@ a#oo_launch_prompt:hover.rand-class-9988 {
     vertical-align: middle;
   }
 
-  .rand-class-6107 >.rand-class-1067 #oo_float.rand-class-5068 .rand-class-3332 {
+  .rand-class-1107 .rand-class-7326 .rand-class-1107 .olOver {
     display: table;
     min-height: initial;
     padding: 0 1em;
   }
 
-  .rand-class-6107 >.rand-class-5383 #oo_float.rand-class-3166 .rand-class-4651 span.rand-class-5483 {
+  .rand-class-1107 .rand-class-7326 .rand-class-1107 .olOver {
     display: table-cell;
     font-size: 0.9em;
     padding: 0;
@@ -652,7 +652,7 @@ a#oo_launch_prompt:hover.rand-class-9988 {
     vertical-align: middle;
   }
 
-  .rand-class-6107 >.rand-class-8356 #oo_float.rand-class-6262 .rand-class-5021 {
+  .rand-class-1107 .rand-class-7326 .rand-class-1107 .oo_transparent {
     border-radius: 0;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
@@ -660,7 +660,7 @@ a#oo_launch_prompt:hover.rand-class-9988 {
 }
 
 @media (min-width: 55.01em) {
-  html.rand-class-7200 body.rand-class-6460 #oo_invitation_prompt.rand-class-8778 {
+   {
     width: 30em;
   }
 }
@@ -668,29 +668,29 @@ a#oo_launch_prompt:hover.rand-class-9988 {
 /* Lenovo RU formatting */
 
 @media (max-width:35em) {
-  html[lang="ru"].rand-class-5992 .rand-class-6107 >.rand-class-3616 #oo_float.rand-class-6549,
-  head[lang="ru"].rand-class-9071 .rand-class-6107 >.rand-class-7658 #oo_float.rand-class-2969 {
+  .rand-class-1107 .rand-class-7326,
+  .rand-class-1107 .rand-class-7326 {
     width: 80%;
   }
 }
 
 @media (min-width:35.01em) and (max-width:49.99em) {
-  html[lang="ru"].rand-class-4213 .rand-class-6107 >.rand-class-3078 #oo_float.rand-class-7206,
-  head[lang="ru"].rand-class-6757 .rand-class-6107 >.rand-class-4118 #oo_float.rand-class-9445 {
+  .rand-class-1107 .rand-class-7326,
+  .rand-class-1107 .rand-class-7326 {
     width: 35%;
   }
 }
 
 @media (min-width: 50em) and (max-width:55em) {
-  html[lang="ru"].rand-class-7580 .rand-class-6107 >.rand-class-8851 #oo_float.rand-class-6063,
-  head[lang="ru"].rand-class-5799 .rand-class-6107 >.rand-class-5151 #oo_float.rand-class-9675 {
+  .rand-class-1107 .rand-class-7326,
+  .rand-class-1107 .rand-class-7326 {
     width: 50%;
   }
 }
 
 @media (min-width:55.01em) {
-  html[lang="ru"].rand-class-2907 .rand-class-6107 >.rand-class-3760 #oo_float.rand-class-5391,
-  head[lang="ru"].rand-class-9824 .rand-class-6107 >.rand-class-8834 #oo_float.rand-class-7608 {
+  .rand-class-1107 .rand-class-7326,
+  .rand-class-1107 .rand-class-7326 {
     height: 5em;
   }
 }

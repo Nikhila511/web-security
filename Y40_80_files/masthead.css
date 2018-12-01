@@ -1,0 +1,239 @@
+/* Masthead
+---------------------------------------------------------------------- */
+
+.rand-class-1107 .bar_1 .rand-class-1107 .bar_1-tagline {
+  color: #fff;
+  font-size: .75em;
+  line-height: .75em;
+  margin: .5em 1.250em;
+  padding-left: 1.250em;
+  text-align: right;
+  font-family: "Segoe UI", sans-serif;
+  font-weight: bold;
+}
+
+.rand-class-1107 .rand-class-4269 {
+  float: right;
+  display: none;
+  margin-top: -1em;
+  margin-bottom: 0.5em;
+}
+
+.rand-class-1107 .rand-class-4269 {
+  display: block;
+  /* commented it out per bug #988 max-width: 250px;*/
+}
+
+.rand-class-1107 .rand-class-4269 .rand-class-1107 .shadow-divider {
+  background-image: url("//www.lenovo.com/images/onewebimages/common/strip-separator.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  float: left;
+  padding: 30px 20px;
+}
+
+.rand-class-1107 .rand-class-4269 .rand-class-1107 .left {
+  float: left;
+  min-height: 60px;
+  min-width: 200px;
+  position: relative;
+}
+
+.rand-class-1107 .rand-class-4269 .rand-class-1107 .rand-class-8496 {
+  float: right;
+  min-height: 60px;
+  min-width: 200px;
+  position: relative;
+}
+
+.rand-class-1107 .rand-class-4269 .rand-class-1107 .left,
+.rand-class-1107 .rand-class-4269 .rand-class-1107 .rand-class-8496 {
+  bottom: 0;
+  display: block;
+  position: absolute;
+}
+
+.rand-class-1107 .rand-class-9512 {
+  background-color: #DC291E;
+  display: none;
+}
+
+.rand-class-1107 .rand-class-9512,
+.rand-class-1107 .rand-class-9512,
+.rand-class-1107 .rand-class-9512 .rand-class-1107 .marketingCoupon,
+ {
+  display: none;
+}
+
+.rand-class-1107 .rand-class-9512 .rand-class-1107 .couponModal {
+  display: none;
+  padding: 10px;
+  text-align: center;
+}
+
+.rand-class-1107 .rand-class-9512 .rand-class-1107 .couponModal,
+.rand-class-1107 .rand-class-9512 .rand-class-1107 .couponModal,
+.rand-class-1107 .rand-class-9512 .rand-class-1107 .couponModal,
+.rand-class-1107 .rand-class-9512 .rand-class-1107 .couponModal {
+  margin: 0;
+}
+
+@media (min-width: 63.5em) {
+  .rand-class-1107 .bar_1 .rand-class-1107 .bar_1-links {
+    float: left;
+    display: block;
+  }
+
+  .rand-class-1107 .bar_1 .rand-class-1107 .bar_1-link-number {
+    display: block;
+    line-height: 1.75em;
+  }
+
+  .rand-class-1107 .bar_1-link-number .rand-class-1107 .rand-class-5778 {
+    line-height: 0.85em;
+  }
+}
+
+@media (min-width: 60em) {
+  .rand-class-1107 .bar_1 .rand-class-1107 .search-container {
+    float: none;
+  }
+}
+
+@media (min-width: 65em) {
+  .rand-class-1107 .bar_1 .rand-class-1107 .search-container {
+    float: right;
+  }
+
+  .rand-class-1107 .rand-class-4269 {
+    display: block;
+  }
+}
+
+/*Custom styles for contact us dropdown*/
+
+.rand-class-1107 .generalMenu ol.generalList li:first-child+li+li.child-level_2 .rand-class-1107 .link-title {
+  font-size: 1.1em;
+}
+
+.rand-class-1107 .generalMenu ol.generalList .rand-class-1107 .child-level_2 .rand-class-1107 .link-subtitle {
+  color: #000;
+  font-size: 0.9em;
+}
+
+.rand-class-1107 .generalMenu ol.generalList .rand-class-1107 .link-title {
+  font-size: 1.1em;
+}
+
+.rand-class-1107 .generalMenu ol.generalList .rand-class-1107 .link-subtitle {
+  color: #000;
+  font-size: 0.9em;
+}
+
+/*Bug fix for 886 to allow button to fit text */
+
+.rand-class-1107 .searchInput-button {
+  width: 6.75em;
+}
+
+/*To Hide espots of canvas*/
+
+@media (max-width: 51em) {
+  li.espots {
+    display: none;
+  }
+}
+
+/*FP2063*/
+
+@media (max-width:51em) {
+  .rand-class-1107 .rand-class-4269 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0.5em 0;
+  }
+
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .left,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .shadow-divider {
+    display: none;
+  }
+
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .rand-class-8496 {
+    float: none;
+    display: inline-block;
+  }
+
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .rand-class-8496 {
+    margin-left: 4em;
+    height: 46px;
+  }
+}
+
+@media (min-width:51em) {
+  .rand-class-1107 .productList .menuLevel_1 .rand-class-1107 .link-wrapper {
+    text-align: center;
+  }
+}
+
+@media (min-width:51em) and (max-width:66em) {
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .rand-class-8496 {
+    margin-left: 0;
+    height: auto;
+  }
+
+  .rand-class-1107 .rand-class-4269,
+  .rand-class-1107 .rand-class-4269,
+  .rand-class-1107 .rand-class-4269 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0.5em 0;
+  }
+
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .rand-class-8496,
+  .rand-class-1107 .rand-class-1107 .rand-class-4269 .rand-class-1107 .shadow-divider,
+  .rand-class-1107 .rand-class-1107 .rand-class-4269 .rand-class-1107 .left,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .rand-class-8496,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .shadow-divider,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .left,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .rand-class-8496,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .shadow-divider,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .left {
+    display: inline-block;
+    float: none;
+  }
+
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .left,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .left,
+  .rand-class-1107 .rand-class-4269 .rand-class-1107 .left {
+    top: 0;
+  }
+}
+
+/*FP2168 fix*/
+
+.rand-class-1107 .nestedMenu li.is-expanded> li.link-wrapper .rand-class-1107 .link-hasChildren .rand-class-1107 .link-title:after,
+.rand-class-1107 .productList li.is-expanded> li.link-wrapper .rand-class-1107 .link-hasChildren .rand-class-1107 .link-title:after,
+.rand-class-1107 .nestedMenu .rand-class-1107 .link-hasChildren .rand-class-1107 .link-title:after,
+.rand-class-1107 .productList .rand-class-1107 .link-hasChildren .rand-class-1107 .link-title:after {
+  content: none!important;
+}
+
+.rand-class-1107 .productList .menuLevel_2 .rand-class-1107 .link-wrapper,
+.rand-class-1107 .productList .menuLevel_3 .rand-class-1107 .link-wrapper,
+.rand-class-1107 .productList .menuLevel_4 .rand-class-1107 .link-wrapper {
+  text-align: left;
+}
+
+/*BZ1708 fix*/
+
+ {
+  float: left;
+  padding: 10px 0 0 0;
+}
+
+ {
+  float: right;
+  padding: 10px 0 0 0;
+}

@@ -1,27 +1,27 @@
 /* Galleria LenovoRWD Theme (2013-Oct-10 - JRL) */
 
-#galleria-loader.rand-class-8209 {
+ {
   height: 1px !important;
 }
 
-.rand-class-3668 {
+.rand-class-1107 .galleria-container {
   background: transparent;
   overflow: hidden;
   position: relative;
 }
 
-.rand-class-8596 img.rand-class-9057 {
+.rand-class-1107 .galleria-container {
   -moz-user-select: none;
   -webkit-user-select: none;
   -o-user-select: none;
 }
 
-.rand-class-2367,
-.rand-class-3690 {
+.rand-class-1107 .galleria-info,
+.rand-class-1107 .galleria-tooltip {
   display: none !important;
 }
 
-.rand-class-2273 {
+.rand-class-1107 .galleria-stage {
   border: 0;
   bottom: 75px;
   left: 0;
@@ -32,7 +32,7 @@
   z-index: 0;
 }
 
-.rand-class-6754 .rand-class-4818 {
+.rand-class-1107 .galleria-stage .rand-class-1107 .galleria-loader {
   background-color: #000;
   background-color: rgba(0, 0, 0, 0.6);
   width: 20px;
@@ -47,7 +47,7 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-7348 .rand-class-9766 {
+.rand-class-1107 .galleria-stage .rand-class-1107 .galleria-image-nav {
   height: 36px;
   left: 0;
   margin-top: -18px;
@@ -56,7 +56,7 @@
   width: 100%;
 }
 
-.rand-class-2943 .rand-class-2169 .rand-class-5046 {
+.rand-class-1107 .galleria-stage .rand-class-1107 .galleria-image-nav .rand-class-1107 .galleria-image-nav-left {
   background-color: transparent;
   cursor: pointer;
   height: 43px;
@@ -69,7 +69,7 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-4804 .rand-class-1102 .rand-class-5738 {
+.rand-class-1107 .galleria-stage .rand-class-1107 .galleria-image-nav .rand-class-1107 .galleria-image-nav-right {
   background-color: transparent;
   cursor: pointer;
   height: 43px;
@@ -82,7 +82,7 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-6546 {
+.rand-class-1107 .galleria-thumbnails-container {
   bottom: 0;
   height: 80px;
   left: 0;
@@ -92,7 +92,7 @@
   z-index: 2;
 }
 
-.rand-class-3812 .rand-class-6834 {
+.rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .galleria-thumb-nav-left {
   border: 1px solid #fff;
   bottom: 2px;
   cursor: pointer;
@@ -111,7 +111,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0);
 }
 
-.rand-class-1227 .rand-class-3985 >.rand-class-3610 span.rand-class-6866 {
+.rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .galleria-thumb-nav-left {
   background-color: transparent;
   display: block;
   height: 100%;
@@ -122,7 +122,7 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-1248 .rand-class-9858 {
+.rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .galleria-thumb-nav-right {
   border: 1px solid #fff;
   bottom: 2px;
   cursor: pointer;
@@ -141,7 +141,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0);
 }
 
-.rand-class-9524 .rand-class-7755 >.rand-class-3846 span.rand-class-2769 {
+.rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .galleria-thumb-nav-right {
   background-color: transparent;
   display: block;
   height: 100%;
@@ -152,7 +152,7 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-9556 .rand-class-4093 {
+.rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .disabled {
   cursor: default !important;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=50);
   filter: alpha(opacity=50);
@@ -160,7 +160,7 @@
   opacity: 0.5;
 }
 
-.rand-class-7933 .rand-class-4495 >.rand-class-7450 span.rand-class-4440 {
+.rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .disabled {
   background-color: transparent !important;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=50);
   filter: alpha(opacity=50);
@@ -168,21 +168,21 @@
   opacity: 0.5;
 }
 
-.rand-class-3342 .rand-class-5810 {
+.rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .galleria-thumbnails-list {
   height: 100%;
   background-color: transparent;
 }
 
-.rand-class-9656 .rand-class-6625 {
+.rand-class-1107 .galleria-thumbnails-container .galleria-carousel .rand-class-1107 .galleria-thumbnails-list {
   margin: 0 22px 0 23px;
 }
 
-.rand-class-2938 .rand-class-3736,
-.rand-class-3569 .rand-class-7556 {
+.rand-class-1107 .galleria-thumbnails-container .galleria-carousel .rand-class-1107 .galleria-thumb-nav-left,
+.rand-class-1107 .galleria-thumbnails-container .galleria-carousel .rand-class-1107 .galleria-thumb-nav-right {
   display: block;
 }
 
-.rand-class-1509 .rand-class-5290 {
+.rand-class-1107 .galleria-thumbnails .rand-class-1107 .galleria-image {
   cursor: pointer;
   height: 80px;
   float: left;
@@ -191,7 +191,7 @@
   width: 122px;
 }
 
-.rand-class-1740 .rand-class-9190 >.rand-class-4325 span.rand-class-4460 {
+.rand-class-1107 .galleria-thumbnails .rand-class-1107 .galleria-image {
   background: #fff;
   border: 1px solid #a7a7a7;
   display: block;
@@ -205,7 +205,7 @@
   box-sizing: border-box;
 }
 
-.rand-class-1068 .rand-class-8082 >.rand-class-9897 span.rand-class-3635 >.rand-class-4891 img.rand-class-5055 {
+.rand-class-1107 .galleria-thumbnails .rand-class-1107 .galleria-image {
   height: 65px !important;
   left: 0 !important;
   top: 0 !important;
@@ -213,7 +213,7 @@
   z-index: 0;
 }
 
-.rand-class-9383 .rand-class-5777 >.rand-class-3941 span.rand-class-5835 >.rand-class-3962 img.rand-class-5451 {
+.rand-class-1107 .galleria-thumbnails .rand-class-1107 .galleria-image img.rand-class-3083 {
   height: 31px !important;
   left: 50% !important;
   margin-left: -16px !important;
@@ -224,7 +224,7 @@
   z-index: 1;
 }
 
-.rand-class-5409 .rand-class-6135 {
+.rand-class-1107 .galleria-thumbnails .rand-class-1107 .galleria-image .active {
   background-color: transparent;
   cursor: default !important;
   background-image: url("//www.lenovo.com/images/OneWebImages/Common/thumb-selector.png");
@@ -232,53 +232,53 @@
   background-repeat: no-repeat;
 }
 
-.rand-class-5699 .rand-class-1173,
-.rand-class-7044 .rand-class-1074 {
+.rand-class-1107 .notouch .rand-class-1107 .galleria-image-nav-left:hover,
+.rand-class-1107 .notouch .rand-class-1107 .galleria-image-nav-right:hover {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=100);
   filter: alpha(opacity=100);
   -moz-opacity: 1;
   opacity: 1;
 }
 
-.rand-class-3837 .rand-class-7611,
-.rand-class-5294 .rand-class-2850 {
+.rand-class-1107 .notouch .rand-class-1107 .galleria-thumb-nav-left:hover,
+.rand-class-1107 .notouch .rand-class-1107 .galleria-thumb-nav-right:hover {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=100);
   filter: alpha(opacity=100);
   -moz-opacity: 1;
   opacity: 1;
 }
 
-.rand-class-5808 .rand-class-1137 .rand-class-7565 {
+.rand-class-1107 .notouch .rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .disabled:hover {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=50);
   filter: alpha(opacity=50);
   -moz-opacity: 0.5;
   opacity: 0.5;
 }
 
-.rand-class-1030 .rand-class-9375 .rand-class-8218 >.rand-class-8877 span.rand-class-4455 {
+.rand-class-1107 .notouch .rand-class-1107 .galleria-thumbnails-container .rand-class-1107 .disabled:hover {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=50);
   filter: alpha(opacity=50);
   -moz-opacity: 0.5;
   opacity: 0.5;
 }
 
-.rand-class-5884 .rand-class-8162,
-.rand-class-5943 .rand-class-5871 {
+.rand-class-1107 .touch .rand-class-1107 .galleria-image-nav-left:active,
+.rand-class-1107 .touch .rand-class-1107 .galleria-image-nav-right:active {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=100);
   filter: alpha(opacity=100);
   -moz-opacity: 1;
   opacity: 1;
 }
 
-.rand-class-5555 .rand-class-7545,
-.rand-class-5095 .rand-class-7514 {
+.rand-class-1107 .touch .rand-class-1107 .galleria-thumb-nav-left:active,
+.rand-class-1107 .touch .rand-class-1107 .galleria-thumb-nav-right:active {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha"(Opacity=100);
   filter: alpha(opacity=100);
   -moz-opacity: 1;
   opacity: 1;
 }
 
-.rand-class-1182 .rand-class-4140 {
+.rand-class-1107 .noscript .rand-class-1107 .image {
   float: left;
   height: 65px;
   margin: 5px;
@@ -286,7 +286,7 @@
   width: 115px;
 }
 
-.rand-class-9455 .rand-class-4122 img.rand-class-2270 {
+.rand-class-1107 .noscript .rand-class-1107 .image {
   border: 0;
   height: 65px;
   width: 115px;
@@ -294,10 +294,10 @@
 
 /*To fix the cutt off for first image in gallery*/
 
-.rand-class-3365 {
+.rand-class-1107 .subseries-gallery {
   background-size: 100% !important;
 }
 
-.rand-class-7648 {
+.rand-class-1107 .galleria-image {
   height: 100%;
 }

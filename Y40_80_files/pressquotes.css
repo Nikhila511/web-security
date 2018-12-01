@@ -5,14 +5,14 @@
 /** RESET AND LAYOUT
 ===================================*/
 
-.rand-class-5641 {
+.rand-class-1107 .bx-wrapper {
   position: relative;
   margin: 0 auto;
   padding: 0;
   *zoom: 1;
 }
 
-.rand-class-5425 img.rand-class-3822 {
+.rand-class-1107 .bx-wrapper {
   max-width: 90%;
   display: block;
 }
@@ -20,14 +20,14 @@
 /** THEME
 ===================================*/
 
-.rand-class-2208 .rand-class-2137 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-viewport {
   left: -5px;
   background: #fff;
   min-height: 150px !important;
 }
 
-.rand-class-8565 .rand-class-3528,
-.rand-class-4052 .rand-class-6805 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-pager,
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto {
   position: absolute;
   bottom: -30px;
   width: 100%;
@@ -35,7 +35,7 @@
 
 /* LOADER */
 
-.rand-class-7078 .rand-class-6014 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-loading {
   min-height: 50px;
   /*background: url(images/bx_loader.gif) center center no-repeat #fff;*/
   height: 100%;
@@ -48,7 +48,7 @@
 
 /* PAGER */
 
-.rand-class-2843 .rand-class-8102 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-pager {
   text-align: center;
   font-size: .85em;
   font-family: Arial;
@@ -57,14 +57,14 @@
   padding-top: 20px;
 }
 
-.rand-class-2553 .rand-class-5780 .rand-class-6013,
-.rand-class-8913 .rand-class-4253 .rand-class-9728 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-pager .rand-class-1107 .bx-pager-item,
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto .rand-class-1107 .bx-controls-auto-item {
   display: inline-block;
   *zoom: 1;
   *display: inline;
 }
 
-.rand-class-5568 .rand-class-8842 a.rand-class-8699 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-pager .bx-default-pager {
   background: #666;
   text-indent: -9999px;
   display: block;
@@ -77,32 +77,32 @@
   border-radius: 5px;
 }
 
-.rand-class-3176 .rand-class-3311 a:hover.rand-class-9016,
-.rand-class-9966 .rand-class-8319 a.rand-class-3574 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-pager .bx-default-pager,
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-pager .bx-default-pager a.active {
   background: #000;
 }
 
 /* DIRECTION CONTROLS (NEXT / PREV) */
 
-.rand-class-9120 .rand-class-7284 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-prev {
   left: 10px;
   background: url(images/controls.png) no-repeat 0 -32px;
 }
 
-.rand-class-3296 .rand-class-7088 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-next {
   right: 10px;
   background: url(images/controls.png) no-repeat -43px -32px;
 }
 
-.rand-class-1347 .rand-class-9672 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-prev:hover {
   background-position: 0 0;
 }
 
-.rand-class-6455 .rand-class-7075 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-next:hover {
   background-position: -43px 0;
 }
 
-.rand-class-5018 .rand-class-9087 a.rand-class-1892 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-direction {
   position: absolute;
   top: 50%;
   margin-top: -16px;
@@ -113,17 +113,17 @@
   z-index: 9999;
 }
 
-.rand-class-6493 .rand-class-8034 a.rand-class-9869 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-direction a.disabled {
   display: none;
 }
 
 /* AUTO CONTROLS (START / STOP) */
 
-.rand-class-8558 .rand-class-8243 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto {
   text-align: center;
 }
 
-.rand-class-9551 .rand-class-2037 .rand-class-1045 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto .rand-class-1107 .bx-start {
   display: block;
   text-indent: -9999px;
   width: 10px;
@@ -133,12 +133,12 @@
   margin: 0 3px;
 }
 
-.rand-class-6508 .rand-class-9142 .rand-class-9967,
-.rand-class-9135 .rand-class-4674 .rand-class-4901 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto .rand-class-1107 .bx-start:hover,
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto .rand-class-1107 .bx-start .active {
   background-position: -86px 0;
 }
 
-.rand-class-7869 .rand-class-7348 .rand-class-1103 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto .rand-class-1107 .bx-stop {
   display: block;
   text-indent: -9999px;
   width: 9px;
@@ -148,33 +148,33 @@
   margin: 0 3px;
 }
 
-.rand-class-5211 .rand-class-2074 .rand-class-2888,
-.rand-class-8964 .rand-class-4829 .rand-class-6121 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto .rand-class-1107 .bx-stop:hover,
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls-auto .rand-class-1107 .bx-stop .active {
   background-position: -86px -33px;
 }
 
 /* PAGER WITH AUTO-CONTROLS HYBRID LAYOUT */
 
-.rand-class-9381 .rand-class-4216 .rand-class-9156 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls .bx-has-controls-auto .bx-has-pager .rand-class-1107 .bx-pager {
   text-align: left;
   width: 80%;
 }
 
-.rand-class-9730 .rand-class-4334 .rand-class-1741 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-controls .bx-has-controls-auto .bx-has-pager .rand-class-1107 .bx-controls-auto {
   right: 0;
   width: 35px;
 }
 
 /* IMAGE CAPTIONS */
 
-.rand-class-2415 .rand-class-1169 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-caption {
   position: absolute;
   top: 10px;
   left: 200px;
   width: 40%;
 }
 
-.rand-class-1873 .rand-class-7871 span.rand-class-2452 {
+.rand-class-1107 .bx-wrapper .rand-class-1107 .bx-caption {
   color: #666;
   font-family: Arial;
   display: table-cell;
@@ -187,31 +187,31 @@
 /*Styles for small screens*/
 
 @media (max-width: 38em) {
-  .rand-class-6386 {
+  .rand-class-1107 .slider {
     display: none;
   }
 }
 
 @media (max-width: 40em) {
-  .rand-class-3645 .rand-class-3269 {
+  .rand-class-1107 .bx-wrapper .rand-class-1107 .bx-caption {
     width: 55%;
   }
 }
 
 @media (max-width: 50em) {
-  .rand-class-8224 .rand-class-6666 {
+  .rand-class-1107 .bx-wrapper .rand-class-1107 .bx-caption {
     width: 55%;
   }
 }
 
 @media (max-width: 60em) {
-  .rand-class-5452 .rand-class-9268 {
+  .rand-class-1107 .bx-wrapper .rand-class-1107 .bx-caption {
     width: 60%;
   }
 }
 
 @media (max-width: 70em) {
-  .rand-class-1517 .rand-class-5895 {
+  .rand-class-1107 .bx-wrapper .rand-class-1107 .bx-caption {
     width: 60%;
   }
 }

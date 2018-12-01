@@ -1,15 +1,15 @@
-.rand-class-8141 {
+.rand-class-1107 .wrap {
   position: relative;
   width: 1180px;
   margin: 0 auto;
 }
 
-.rand-class-8329 {
+.rand-class-1107 .side_menu {
   float: left;
   width: 190px;
 }
 
-.rand-class-2670 h3.rand-class-8395 {
+.rand-class-1107 .side_menu {
   height: 40px;
   background: #9c3022;
   color: #fff;
@@ -18,11 +18,11 @@
   text-indent: 17px;
 }
 
-.rand-class-9822 ul.rand-class-5209 {
+.rand-class-1107 .side_menu {
   border-bottom: 2px solid #9c3022;
 }
 
-.rand-class-9545 li.rand-class-5863 {
+.rand-class-1107 .side_menu {
   position: relative;
   height: auto;
   min-height: 40px;
@@ -32,8 +32,8 @@
   border-right: 2px solid #9c3022;
 }
 
-.rand-class-8419 li.rand-class-1285 a:link.rand-class-1666,
-.rand-class-7447 li.rand-class-2615 a:visited.rand-class-7500 {
+.rand-class-1107 .side_menu,
+.rand-class-1107 .side_menu {
   display: block;
   padding-left: 48px;
   color: #6d6d6d;
@@ -41,74 +41,74 @@
   text-decoration: none;
 }
 
-.rand-class-7161 li.rand-class-6854 a:hover.rand-class-5834 {
+.rand-class-1107 .side_menu {
   text-decoration: underline;
 }
 
-.rand-class-6322 li.rand-class-1927 a.rand-class-5995 {
+.rand-class-1107 .side_menu li.laptop {
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_laptop_off.png) no-repeat 6px 10px;
 }
 
-.rand-class-3681 li.rand-class-8598 a.rand-class-3951 {
+.rand-class-1107 .side_menu li.tablet {
   background: #e7e7e7 url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_tablet_off.png) no-repeat 6px 10px;
 }
 
-.rand-class-4929 li.rand-class-6664 a.rand-class-8544 {
+.rand-class-1107 .side_menu li.desktop {
   background: #e7e7e7 url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_desktop_off.png) no-repeat 6px 10px;
 }
 
-.rand-class-9133 li.rand-class-8345 a.rand-class-5892 {
+.rand-class-1107 .side_menu li.workstation {
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_workstation_off.png) no-repeat 6px 10px;
 }
 
-.rand-class-4747 li.rand-class-6443 a.rand-class-9262 {
+.rand-class-1107 .side_menu li.server {
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_server_off.png) no-repeat 6px 10px;
 }
 
-.rand-class-5606 li.rand-class-7344 a.rand-class-2361 {
+.rand-class-1107 .side_menu li.clearance {
   background: #e7e7e7 url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_clearance_off.png) no-repeat 6px 10px;
 }
 
-.rand-class-7751 li.rand-class-4997 a.rand-class-4306 {
+.rand-class-1107 .side_menu li.student {
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_student_off.png) no-repeat 6px 10px;
 }
 
-.rand-class-7890 li.rand-class-9130 a.rand-class-6194 {
+.rand-class-1107 .side_menu li.laptop_on {
   background: #dc291e url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_laptop_on.png) no-repeat 6px 10px;
   color: #fff;
 }
 
-.rand-class-6200 li.rand-class-5779 a.rand-class-8072 {
+.rand-class-1107 .side_menu li.tablet_on {
   background: #dc291e url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_tablet_on.png) no-repeat 6px 10px;
   color: #fff;
 }
 
-.rand-class-4079 li.rand-class-6616 a.rand-class-4758 {
+.rand-class-1107 .side_menu li.desktop_on {
   background: #dc291e url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_desktop_on.png) no-repeat 6px 10px;
   color: #fff;
 }
 
-.rand-class-9395 li.rand-class-6387 a.rand-class-7012 {
+.rand-class-1107 .side_menu li.workstation_on {
   background: #dc291e url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_workstation_on.png) no-repeat 6px 10px;
   color: #fff;
 }
 
-.rand-class-2645 li.rand-class-4602 a.rand-class-2603 {
+.rand-class-1107 .side_menu li.server_on {
   background: #dc291e url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_server_on.png) no-repeat 6px 10px;
   color: #fff;
 }
 
-.rand-class-5957 li.rand-class-1963 a.rand-class-3377 {
+.rand-class-1107 .side_menu li.clearance_on {
   background: #dc291e url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_clearance_on.png) no-repeat 6px 10px;
   color: #fff;
 }
 
-.rand-class-6032 li.rand-class-8630 a.rand-class-5837 {
+.rand-class-1107 .side_menu li.student_on {
   background: #dc291e url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_student_on.png) no-repeat 6px 10px;
   color: #fff;
 }
 
-.rand-class-4495 li.rand-class-1246 .rand-class-7153 {
+.rand-class-1107 .side_menu .rand-class-1107 .ico_leftbar {
   display: none;
   width: 12px;
   height: 46px;
@@ -118,32 +118,32 @@
   *left: -12px;
 }
 
-.rand-class-5820 li.rand-class-9724 .rand-class-9604,
-.rand-class-6615 li.rand-class-1962 .rand-class-7436,
-.rand-class-6833 li.rand-class-6379 .rand-class-7630,
-.rand-class-1199 li.rand-class-8969 .rand-class-2795,
-.rand-class-1147 li.rand-class-6900 .rand-class-1975,
-.rand-class-5857 li.rand-class-4286 .rand-class-3602,
-.rand-class-5824 li.rand-class-2249 .rand-class-5957 {
+.rand-class-1107 .side_menu li.laptop_on .rand-class-1107 .ico_leftbar,
+.rand-class-1107 .side_menu li.tablet_on .rand-class-1107 .ico_leftbar,
+.rand-class-1107 .side_menu li.desktop_on .rand-class-1107 .ico_leftbar,
+.rand-class-1107 .side_menu li.workstation_on .rand-class-1107 .ico_leftbar,
+.rand-class-1107 .side_menu li.server_on .rand-class-1107 .ico_leftbar,
+.rand-class-1107 .side_menu li.clearance_on .rand-class-1107 .ico_leftbar,
+.rand-class-1107 .side_menu li.student_on .rand-class-1107 .ico_leftbar {
   display: block;
   top: 0;
 }
 
-.rand-class-3261 li.rand-class-1342 a.rand-class-9706,
-.rand-class-2145 li.rand-class-2623 a.rand-class-7384,
-.rand-class-1270 li.rand-class-3758 a.rand-class-9814,
-.rand-class-5929 li.rand-class-1992 a.rand-class-3097 {
+.rand-class-1107 .side_menu li.tablet,
+.rand-class-1107 .side_menu li.tablet_on,
+.rand-class-1107 .side_menu li.desktop,
+.rand-class-1107 .side_menu li.desktop_on {
   height: 40px;
   line-height: 19px;
   font-weight: bold;
 }
 
-.rand-class-9410 li.rand-class-2514 ul.rand-class-6788 {
+.rand-class-1107 .side_menu li.laptop {
   display: none;
   height: 0;
 }
 
-.rand-class-4322 li.rand-class-3923 ul.rand-class-7733 {
+.rand-class-1107 .side_menu li.laptop_on {
   display: block;
   height: auto;
   min-height: 54px;
@@ -151,7 +151,7 @@
   border-bottom: 0;
 }
 
-.rand-class-4259 li.rand-class-7948 ul.rand-class-6483 li.rand-class-6580 {
+.rand-class-1107 .side_menu li.laptop_on {
   height: auto;
   min-height: 27px;
   _height: 27px;
@@ -159,7 +159,7 @@
   border: 0;
 }
 
-.rand-class-8412 li.rand-class-7674 ul.rand-class-4197 li.rand-class-6784 a.rand-class-7044 {
+.rand-class-1107 .side_menu li.laptop_on {
   height: auto;
   min-height: 26px;
   _height: 26px;
@@ -172,12 +172,12 @@
   font-weight: normal;
 }
 
-.rand-class-2379 li.rand-class-4446 ul.rand-class-7054 {
+.rand-class-1107 .side_menu li.clearance {
   display: none;
   height: 0;
 }
 
-.rand-class-8582 li.rand-class-1072 ul.rand-class-6958 {
+.rand-class-1107 .side_menu li.clearance_on {
   display: block;
   height: auto;
   min-height: 34px;
@@ -185,7 +185,7 @@
   border-bottom: 0;
 }
 
-.rand-class-2073 li.rand-class-3090 ul.rand-class-3369 li.rand-class-6775 {
+.rand-class-1107 .side_menu li.clearance_on {
   height: auto;
   min-height: 31px;
   _height: 31px;
@@ -193,7 +193,7 @@
   border: 0;
 }
 
-.rand-class-5664 li.rand-class-8110 ul.rand-class-9414 li.rand-class-1604 a.rand-class-3839 {
+.rand-class-1107 .side_menu li.clearance_on {
   height: auto;
   min-height: 30px;
   _height: 30px;
@@ -206,12 +206,12 @@
   font-weight: normal;
 }
 
-.rand-class-7499 li.rand-class-5603 ul.rand-class-2278 {
+.rand-class-1107 .side_menu li.desktop {
   display: none;
   height: 0;
 }
 
-.rand-class-9850 li.rand-class-3491 ul.rand-class-4999 {
+.rand-class-1107 .side_menu li.desktop_on {
   display: block;
   height: auto;
   min-height: 54px;
@@ -219,7 +219,7 @@
   border-bottom: 0;
 }
 
-.rand-class-8057 li.rand-class-1226 ul.rand-class-1883 li.rand-class-6291 {
+.rand-class-1107 .side_menu li.desktop_on {
   height: auto;
   min-height: 27px;
   _height: 27px;
@@ -227,7 +227,7 @@
   border: 0;
 }
 
-.rand-class-2192 li.rand-class-2252 ul.rand-class-1989 li.rand-class-7249 a.rand-class-7031 {
+.rand-class-1107 .side_menu li.desktop_on {
   height: auto;
   min-height: 26px;
   _height: 26px;
@@ -240,7 +240,7 @@
   font-weight: normal;
 }
 
-.rand-class-5605 {
+.rand-class-1107 .main_container {
   float: left;
   width: 980px;
   margin-bottom: 30px;
@@ -248,12 +248,12 @@
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/bg_mainContainer.gif) repeat-y 0 0;
 }
 
-.rand-class-1172 {
+.rand-class-1107 .deals_ad {
   width: 760px;
   margin-bottom: 5px;
 }
 
-.rand-class-3237 {
+.rand-class-1107 .ecoupon_help {
   width: 734px;
   height: 28px;
   margin-bottom: 5px;
@@ -264,24 +264,24 @@
   line-height: 28px;
 }
 
-.rand-class-1989 em.rand-class-5617 {
+.rand-class-1107 .ecoupon_help {
   color: #ff8500;
   font-style: normal;
   font-weight: bold;
 }
 
-.rand-class-5664 a:link.rand-class-2214 {
+.rand-class-1107 .ecoupon_help {
   float: right;
   padding-left: 18px;
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_help.gif) no-repeat 0 8px;
   color: #009dd9;
 }
 
-.rand-class-7086 {
+.rand-class-1107 .deals_content {
   width: 980px;
 }
 
-.rand-class-1968 h2.rand-class-2566 {
+.rand-class-1107 .deals_content {
   clear: both;
   height: 36px;
   padding-left: 25px;
@@ -291,7 +291,7 @@
   font-size: 16px;
 }
 
-.rand-class-3983 {
+.rand-class-1107 .buy_from_lenovo {
   clear: both;
   position: relative;
   height: 52px;
@@ -300,18 +300,18 @@
   border: 1px solid #dcd9d9;
 }
 
-.rand-class-5639 li.rand-class-7889 {
+.rand-class-1107 .buy_from_lenovo {
   float: left;
   width: 106px;
   height: 52px;
   margin-left: 50px;
 }
 
-.rand-class-1032 li.rand-class-5887 img.rand-class-4035 {
+.rand-class-1107 .buy_from_lenovo {
   margin-top: 12px;
 }
 
-.rand-class-4622 li.rand-class-8556 {
+.rand-class-1107 .buy_from_lenovo li.title {
   position: absolute;
   top: -1px;
   left: -10px;
@@ -322,7 +322,7 @@
   text-indent: -99999px;
 }
 
-.rand-class-3480 li.rand-class-9270 {
+.rand-class-1107 .buy_from_lenovo li.more {
   position: absolute;
   bottom: 1px;
   right: -10px;
@@ -331,14 +331,14 @@
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/bg_learnMore.gif) no-repeat 0 0;
 }
 
-.rand-class-6548 li.rand-class-2016 a.rand-class-2927 {
+.rand-class-1107 .buy_from_lenovo li.more {
   display: block;
   width: 144px;
   height: 26px;
   text-indent: -9999px;
 }
 
-.rand-class-2324 {
+.rand-class-1107 .add_Xmas {
   height: 84px!important;
   margin-left: 10px;
   padding: 5px 0;
@@ -346,7 +346,7 @@
   line-height: 15px;
 }
 
-.rand-class-7295 a.rand-class-5901 {
+.rand-class-1107 .add_Xmas {
   float: left;
   height: 29px;
   padding-left: 37px;
@@ -354,14 +354,14 @@
   color: #009dd9;
 }
 
-.rand-class-3655 {
+.rand-class-1107 .item_specs {
   height: auto;
   min-height: 18px;
   _height: 18px;
   padding-left: 35px;
 }
 
-.rand-class-8704 li.rand-class-3891 {
+.rand-class-1107 .item_specs {
   float: left;
   width: 18px;
   height: 18px;
@@ -370,107 +370,107 @@
   cursor: pointer;
 }
 
-.rand-class-2552 .rand-class-4537 {
+.rand-class-1107 .item_specs .rand-class-1107 .cpu {
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_cpu.gif) no-repeat 0 0;
 }
 
-.rand-class-7505 .rand-class-9379 {
+.rand-class-1107 .item_specs .rand-class-1107 .os {
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_os.gif) no-repeat 0 0;
 }
 
-.rand-class-4391 .rand-class-4749 {
+.rand-class-1107 .item_specs .rand-class-1107 .screen {
   background: url(/ISS_Static/WW/ap/au/en/images/merchandising/specialoffers/common/ico_screen.gif) no-repeat 0 0;
 }
 
-.rand-class-4827 li.rand-class-9247 .rand-class-8199,
-.rand-class-9462 li.rand-class-7604 .rand-class-9263,
-.rand-class-3640 li.rand-class-9714 .rand-class-4153 {
+.rand-class-1107 .item_specs .rand-class-1107 .cpu_specs,
+.rand-class-1107 .item_specs .rand-class-1107 .os_specs,
+.rand-class-1107 .item_specs .rand-class-1107 .screen_specs {
   display: none;
 }
 
 /* old buy from lenovo content */
 
-.rand-class-4045 {
+.rand-class-1107 .blfl {
   width: 650px;
   background: #fff;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.rand-class-5752 .rand-class-3296 {
+.rand-class-1107 .blfl .rand-class-1107 .bd {
   padding: 0px 20px 10px;
   color: #444;
   text-align: left;
 }
 
-.rand-class-8276 dl.rand-class-8790 {
+.rand-class-1107 .blfl {
   margin: 15px 0;
   padding: 0;
 }
 
-.rand-class-2836 dt.rand-class-8921 {
+.rand-class-1107 .blfl {
   font-size: 16px;
   font-weight: bold;
   color: #dc291e;
 }
 
-.rand-class-1610 dt.rand-class-2175 img.rand-class-6795 {
+.rand-class-1107 .blfl {
   float: left;
   position: relative;
   top: -3px;
   left: -5px;
 }
 
-.rand-class-2759 dd.rand-class-6093 {
+.rand-class-1107 .blfl {
   font-size: 12px;
   margin: 0;
   padding: 0;
   padding-left: 24px;
 }
 
-.rand-class-6244 dd.rand-class-9929 ul.rand-class-3155 {
+.rand-class-1107 .blfl {
   margin: 8px 30px;
   padding: 0;
 }
 
-.rand-class-9905 dd.rand-class-7829 span.rand-class-7528 {
+.rand-class-1107 .blfl {
   display: block;
   padding-top: 8px;
 }
 
-#fancybox-title-outside.rand-class-4664 {
+ {
   display: none;
 }
 
 /* add Xmas accessory popup */
 
-.rand-class-2048 {
+.rand-class-1107 .optionOffersPopup {
   width: 600px;
   border: 1px solid #777578;
   background: #fff;
 }
 
-.rand-class-9760 {
+.rand-class-1107 .op-img {
   float: left;
 }
 
-.rand-class-2122 li.rand-class-9559 input.rand-class-3245 {
+.rand-class-1107 .op-ul {
   float: left;
 }
 
-.rand-class-2300 {
+.rand-class-1107 .accLabel {
   float: left;
 }
 
-.rand-class-9594 {
+.rand-class-1107 .moreSpecList {
   display: none;
 }
 
-.rand-class-4711 {
+.rand-class-1107 .optionOffersPopup {
   padding-bottom: 0px;
   background: #efefef;
 }
 
-.rand-class-2095 .rand-class-4851 {
+.rand-class-1107 .optionOffersPopup .rand-class-1107 .op-box-ul {
   border-bottom: 1px solid #C7C7C7;
   margin: 7px 15px 0;
   overflow: hidden;
@@ -478,66 +478,66 @@
   zoom: 1;
 }
 
-.rand-class-3650 .rand-class-5579 {
+.rand-class-1107 .optionOffersPopup .rand-class-1107 .first {
   padding: 5px;
   color: #000;
 }
 
-.rand-class-3968 .rand-class-4735 {
+.rand-class-1107 .optionOffersPopup .rand-class-1107 .op-ul {
   float: left;
   padding-left: 5px;
   width: 490px;
 }
 
-.rand-class-6093 .rand-class-1599 li.rand-class-1170 {
+.rand-class-1107 .optionOffersPopup .rand-class-1107 .op-ul {
   overflow: hidden;
   zoom: 1;
   margin-bottom: 5px;
 }
 
-.rand-class-1700 .rand-class-7635 .rand-class-2051 {
+.rand-class-1107 .optionOffersPopup .rand-class-1107 .op-ul .rand-class-1107 .accLabel {
   float: left;
   width: 460px;
   margin: -2px 0 0 4px;
   line-height: 14px;
 }
 
-.rand-class-7160 a.rand-class-5618 {
+.rand-class-1107 .optionOffersPopup a.button {
   margin-left: 80px;
   margin-top: 10px;
 }
 
-.rand-class-5600 .rand-class-1356 {
+.rand-class-1107 .optionOffersPopup .rand-class-1107 .titInfo {
   background: #fff;
   border-bottom: 1px solid #848484;
   vertical-align: middel;
 }
 
-.rand-class-2992 .rand-class-4494 {
+.rand-class-1107 .optionOffersPopup .rand-class-1107 .tableTitle {
   width: auto;
   padding-top: 10px;
 }
 
-*+html.rand-class-6961 .rand-class-4950 .rand-class-9248 input.rand-class-4281 {
+.rand-class-1107 .optionOffersPopup .rand-class-1107 .op-ul {
   margin-left: -3px;
 }
 
-.rand-class-7891 .rand-class-3246 {
+.rand-class-1107 .darkTitle .rand-class-1107 .itemName {
   display: none;
 }
 
 /* Anjean add 2012-12-19 */
 
-.rand-class-6056 {
+.rand-class-1107 .side_menu_placeholder {
   clear: both;
   height: 0;
 }
 
-.rand-class-8510 img.rand-class-2057 {
+.rand-class-1107 .sign_up_offer {
   margin: 5px 1px;
 }
 
-.rand-class-8066 {
+.rand-class-1107 .logo_intel {
   position: absolute;
   top: -50px;
   left: 400px;
@@ -545,18 +545,18 @@
 
 /* Anjean add 2013-05-30 */
 
-.rand-class-5468 .rand-class-4288,
-.rand-class-9003 .rand-class-2971,
-.rand-class-4090 .rand-class-7933 {
+.rand-class-1107 .deals_content .rand-class-1107 .viewModelSpecs1,
+.rand-class-1107 .deals_content .rand-class-1107 .viewModelSpecs2,
+.rand-class-1107 .deals_content .rand-class-1107 .viewModelSpecs3 {
   cursor: pointer;
 }
 
-.rand-class-9353 span.rand-class-1339,
-.rand-class-4371 .rand-class-6715 {
+.rand-class-1107 .afterecoupon-label,
+.rand-class-1107 .pricing .rand-class-1107 .gst {
   font-size: 12px;
 }
 
-a.rand-class-5178 {
+a.button a.shop {
   border: 1px solid #206485;
   color: #fff;
   background: #4fb4e3;

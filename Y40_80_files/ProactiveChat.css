@@ -1,12 +1,12 @@
 /* Apply the border to the right side */
 
-#oracleChat.rand-class-6354 {
+ {
   position: absolute;
   z-index: 10000;
   top: 50px;
 }
 
-.rand-class-5861 img.rand-class-1110 {
+.rand-class-1107 .rn_SyndicatedChatLogoImageDiv {
   vertical-align: top;
   /* height: 59px; */
   /* width: 134px; */
@@ -15,13 +15,13 @@
   left: 0px;
 }
 
-.rand-class-4418 {
+.rand-class-1107 .rn_SyndicatedChatHeaderLabelDiv {
   display: none !important;
   height: 40px;
   border-bottom: #036 0px solid;
 }
 
-.rand-class-7768 {
+.rand-class-1107 .rn_SyndicatedChatHeaderLabel {
   display: none !important;
   color: #036;
   font-size: .875em;
@@ -29,7 +29,7 @@
   font-family: Verdana, Geneva, sans-serif;
 }
 
-.rand-class-5521 {
+.rand-class-1107 .rn_SyndicatedChatQuestionDiv {
   float: right;
   height: 145px;
   left: 20px !important;
@@ -40,7 +40,7 @@
   width: 290px;
 }
 
-.rand-class-3870 {
+.rand-class-1107 .rn_SyndicatedChatQuestionLabel {
   color: #555555 !important;
   font-family: Helvetica !important;
   font-size: 15px !important;
@@ -51,7 +51,7 @@
   z-index: 1000!important;
 }
 
-.rand-class-8778 {
+.rand-class-1107 .rn_SyndicatedChatAvatarDiv {
   /*  float: right;margin: 20px; */
   left: 40px !important;
   padding: 0;
@@ -62,24 +62,24 @@
   z-index: 5;
 }
 
-.rand-class-2990 {
+.rand-class-1107 .rn_SyndicatedCheckbox {
   margin: 5px 0px 5px 2px;
   vertical-align: middle;
 }
 
-.rand-class-1030 {
+.rand-class-1107 .rn_SyndicatedLabel {
   margin: 0px 0px 0px 7px;
   vertical-align: middle;
 }
 
-.rand-class-1836 {
+.rand-class-1107 .yui-panel {
   top: 0pt;
   position: relative;
   border: 0px solid #888;
   overflow: hidden;
 }
 
-.rand-class-5644 .rand-class-9323 .rand-class-2410 .rand-class-2531 button.rand-class-4404 {
+.rand-class-1107 .rn_Dialog .rand-class-1107 .rand-class-1107 .ft .rand-class-1107 .yui-button {
   color: #fff;
   /* text-shadow: 1px 1px #000; */
   min-width: 134px;
@@ -109,16 +109,16 @@
   font-size: 13px;
 }
 
-#rn_DialogButton_rn_Dialog_0_0.rand-class-1964 .rand-class-2356 button.rand-class-6475 {
+.rand-class-1107 .first-child {
   left: 40px;
 }
 
-#rn_DialogButton_rn_Dialog_0_1.rand-class-6071 .rand-class-6292 button.rand-class-5292 {
+.rand-class-1107 .first-child {
   left: 186px;
 }
 
-.rand-class-7258 .rand-class-9125,
-.rand-class-2769 {
+.rand-class-1107 .yui-dialog .rand-class-1107 .yui-panel,
+.rand-class-1107 .rn_Dialog {
   /* background-image:url('/euf/assets/images/lenovo/bg-grey-swirls.gif'); */
   /*https://lenovo.widget.custhelp.com*/
   background-repeat: no-repeat;
@@ -132,28 +132,28 @@
   font-family: Helvetica Neue;
 }
 
-.rand-class-5561 .rand-class-5488 .rand-class-9945,
-.rand-class-6717 .rand-class-6168 .rand-class-7825 {
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .bd,
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel .rand-class-1107 .ft {
   background: none !important;
 }
 
-.rand-class-1016 .rand-class-2629 .rand-class-4636 {
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-dialog .rand-class-1107 .ft {
   padding: 5px 5px 5px 5px;
   font-size: .75em;
   font-family: Verdana, Geneva, sans-serif;
 }
 
-.rand-class-2138,
-.rand-class-5909 {
+.rand-class-1107 .yui-overlay,
+.rand-class-1107 .yui-panel-container {
   position: relative;
 }
 
-.rand-class-7486 {
+.rand-class-1107 .yui-panel-container .yui-dialog .yui-simple-dialog {
   /*position:absolute;*/
   /*needed if dialog is modal*/
 }
 
-.rand-class-5207 {
+.rand-class-1107 .hd {
   font-family: Helvetica;
   background: none !important;
   border: none !important;
@@ -169,27 +169,27 @@
   font-weight: normal !important;
 }
 
-.rand-class-5921 {
+.rand-class-1107 .ft {
   border: none !important;
 }
 
-.rand-class-5395 .rand-class-8598 .rand-class-4338 {
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .yui-panel-container .shadow .rand-class-1107 .underlay {
   width: 305px;
   z-index: -9998;
   filter: alpha(opacity=20);
 }
 
-.rand-class-1319 {
+.rand-class-1107 .underlay {
   display: none;
 }
 
-.rand-class-9887 .rand-class-3788 {
+.rand-class-1107 .yui-skin-sam .rand-class-1107 .mask {
   background-color: #000000;
   opacity: 0.25;
   filter: alpha(opacity=20);
 }
 
-.rand-class-9075 a.rand-class-2377 {
+.rand-class-1107 .rn_Dialog a.container-close {
   background: url("/euf/assets/images/lenovo/close-X.gif");
   /* no-repeat fixed 0 0 !important; https://lenovo.custhelp.com//euf/assets/images/lenovo/close-X.gif*/
   background-repeat: no-repeat;
@@ -203,7 +203,7 @@
   color: #cfcfcf;
 }
 
-.rand-class-3275 .rand-class-3141 {
+.rand-class-1107 .ft .rand-class-1107 .rn_RefuseDiv {
   position: absolute;
   left: 0px !important;
   bottom: 0px !important;

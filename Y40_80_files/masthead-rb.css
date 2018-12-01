@@ -1,0 +1,1516 @@
+.rand-class-1107 .contentContainer:before,
+.rand-class-1107 .contentContainer:after,
+,
+ {
+  background: none !important;
+}
+
+.rand-class-1107 .masthead .rand-class-1107 .rand-class-8488 {
+  z-index: 998;
+}
+
+@media (min-width: 76.75em) {
+  .rand-class-1107 .masthead .rand-class-1107 .rand-class-8488 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    left: 50%;
+    margin-left: -36.875em;
+  }
+}
+
+/* Bar 2 */
+
+.rand-class-1107 .rand-class-4170 {
+  background: none;
+  box-shadow: none;
+  min-height: initial;
+}
+
+.rand-class-1107 .menuWrapper {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Bar 3 */
+
+.rand-class-1107 .rand-class-7804 {
+  box-shadow: none;
+  background-color: #e3e3e3;
+}
+
+.rand-class-1107 .rand-class-7804 .rand-class-1107 .shadow-divider {
+  display: none;
+}
+
+.rand-class-1107 .rand-class-4269 .rand-class-1107 .left {
+  margin-right: 20px;
+}
+
+@media (min-width: 60em) {
+  .rand-class-1107 .rand-class-7804 {
+    min-height: 125px;
+  }
+
+  .rand-class-1107 .rand-class-1857 {
+    padding-left: 90px;
+    padding-top: 10px;
+  }
+}
+
+@media (min-width: 76.75em) {
+  .rand-class-1107 .rand-class-4170 {
+    min-height: 200px;
+    padding-top: 75px;
+    margin-top: -200px;
+  }
+
+  .rand-class-1107 .rand-class-4170 {
+    margin: 0;
+  }
+
+  .rand-class-1107 .scrolled .logoWrapper {
+    height: 50px;
+  }
+}
+
+/* Logo */
+
+.rand-class-1107 .logoWrapper {
+  float: left;
+  height: 50px;
+  width: 65px;
+  position: absolute;
+  z-index: 11;
+  overflow: hidden;
+}
+
+.rand-class-1107 .logoWrapper .rand-class-1107 .logo {
+  background: #e22319;
+  height: 100%;
+  line-height: 0;
+  text-align: center;
+}
+
+.rand-class-1107 .logoWrapper .rand-class-1107 .logo {
+  display: block;
+  height: 100%;
+  text-indent: -9999px;
+  overflow: hidden;
+  background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-sm.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.rand-class-1107 .scrolled .logoWrapper .rand-class-1107 .logo {
+  background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-sm.png);
+}
+
+/* General */
+
+.rand-class-1107 .animate {
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.rand-class-1107 .navWrapper {
+  margin-left: 65px;
+}
+
+.rand-class-1107 .nav {
+  height: 50px;
+  background: #fff;
+  position: relative;
+}
+
+.rand-class-1107 .nav {
+  text-decoration: none;
+  color: #454545;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .menu,
+.rand-class-1107 .nav .rand-class-1107 .menu_2,
+.rand-class-1107 .nav .rand-class-1107 .menu_3 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .menu_3 {
+  display: block !important;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .menu>li {
+  float: left;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .main_Menu,
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu {
+  float: left;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu {
+  float: right;
+  clear: right;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .menu_2_wrapper {
+  max-height: 0;
+  overflow: hidden;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .menu .rand-class-1107 .opened .rand-class-1107 .menu_2_wrapper {
+  max-height: 5000px;
+  transition: 3s;
+}
+
+/* Slide speed */
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .opened> .opened .rand-class-1107 .menu_2_wrapper,
+.rand-class-1107 .nav .rand-class-1107 .general_Menu> .opened .rand-class-1107 .menu_2_wrapper {
+  display: block;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu {
+  display: none;
+}
+
+/* Main Menu */
+
+.rand-class-1107 .nav .rand-class-1107 .main_Menu {
+  display: block;
+  line-height: 15px;
+  padding: 13px 0 12px 0;
+  margin-left: 15px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .main_Menu:before {
+  content: " ";
+  background: url('//www.lenovo.com/images/masthead/rebrand/rb_menu.png') no-repeat top 0px left 0px;
+  width: 35px;
+  height: 25px;
+  float: left;
+  display: block;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .main_Menu {
+  display: none;
+}
+
+/* Common */
+
+.rand-class-1107 .nav .rand-class-1107 .common_Menu .rand-class-1107 .no_menu {
+  display: none;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .common_Menu {
+  float: right;
+  font-size: 12px;
+  margin: 13px 40px 12px 0;
+  line-height: 10px;
+  color: #a7a7a7;
+  display: none;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .common_Menu {
+  padding: 0 8px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .common_Menu {
+  color: #a7a7a7;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .common_Menu .rand-class-1107 .tagline {
+  font-size: 10px;
+  color: #000;
+}
+
+/* product_menu */
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 900;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .opened {
+  display: block;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu>li {
+  float: none;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu>li:nth-child(odd) {
+  background: #f2f2f2;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu>li:nth-child(even) {
+  background: #e7e7e7;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu>li>a {
+  padding: 18px 10px 17px 10px;
+  line-height: 15px;
+  display: block;
+  text-transform: uppercase;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  display: block;
+  padding: 5px 15px;
+  border-top: 1px solid #bcbcbc;
+  background: #ddd;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu {
+  background-color: #e5e5e5 !important;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu {
+  background-color: #eaeaea !important;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu:hover {
+  background-color: #fff !important;
+  transition-duration: 0.5s;
+}
+
+/* deals_menu */
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot {
+  display: none;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 li.promo_spot:hover {
+  background: #fff !important;
+  transition-duration: 0.5s;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .linkLevel_2 .link-hasChildren {
+  padding-bottom: 5px;
+  display: block;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .menu_3 {
+  margin: 0 -15px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .menu_3 {
+  padding: 5px 15px;
+  border-top: 1px solid #bcbcbc;
+}
+
+/* support menu */
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .link_text {
+  margin: 5px 0 15px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .link_text {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .link_subtitle {
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .menu_3 .rand-class-1107 .link_text {
+  color: #009dd9;
+  font-size: 12px;
+  line-height: 15px;
+  margin-bottom: 3px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .menu_level_2 .rand-class-1107 .link_wrapper {
+  margin-bottom: 15px;
+}
+
+/* General Menu */
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a {
+  line-height: 15px;
+  display: block;
+  height: 25px;
+  padding: 15px 7px 10px 7px;
+  webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a>span {
+  display: none;
+  line-height: 13px;
+  font-size: 12px;
+  padding: 4px 0 3px 25px;
+  color: #a7a7a7;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a:before {
+  width: 20px;
+  height: 20px;
+  float: left;
+  display: block;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu {
+  background-image: url('//www.lenovo.com/images/masthead/rebrand/rb_icons.png');
+  background-repeat: no-repeat;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .solutions_menu>a:before {
+  content: " ";
+  background-position: 0px 0px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu>a:before {
+  content: " ";
+  background-position: 0px -20px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .myaccount_menu>a:before {
+  content: " ";
+  background-position: 0px -60px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .myaccount_menu .logged_in>a:before {
+  content: " ";
+  background-position: 0px -80px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu>a:before {
+  content: " ";
+  background-position: 0px -100px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .phone_menu>a:before {
+  content: " ";
+  background-position: 0px -120px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .email_menu>a:before {
+  content: " ";
+  background-position: 0px -140px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .menu_2_wrapper {
+  position: absolute;
+  left: 0;
+  right: 0;
+  background: #f2f2f2;
+  z-index: 900;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  display: block;
+  padding: 5px 15px;
+  border-top: 1px solid #bcbcbc;
+  background: #ddd;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .rand-class-1107 .searchInput-text {
+  background: #f6f6f6;
+  outline: none;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .rand-class-1107 .searchInput-button {
+  outline: none;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  padding: 0px;
+  display: block;
+  width: 100px;
+  height: 35px;
+  box-shadow: none;
+  border: none;
+  font-size: 0.8rem;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  padding: 0;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  padding: 0;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu a>span.counter {
+  display: none;
+  background: #ff6b00;
+  border-radius: 15px;
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  position: absolute;
+  margin-top: 11px;
+  right: 0px;
+  color: #fff;
+  font-size: 10px;
+  padding: 0;
+  line-height: 15px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu .rand-class-1107 .cartrollover {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu {
+  background: #f2f2f2;
+  padding-top: 10px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu .rand-class-1107 .rollovercartItemImg {
+  top: -7px;
+}
+
+.rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu {
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Media Queries */
+
+@media (min-width: 33.875em) {
+  /* Fluid Width */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    padding: 15px;
+    overflow: auto;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: table-cell;
+    padding: 0;
+    border: none;
+    background: none;
+    vertical-align: top;
+  }
+
+  /* Marker */
+
+  .rand-class-1107 .nav .rand-class-1107 .menu>li .opened>a .rand-class-1107 .marker {
+    border-bottom: 8px solid #ff6b00;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 901;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .menu>li .opened>a .rand-class-1107 .marker:after {
+    content: "";
+    display: block;
+    border: 8px solid transparent;
+    border-top-color: #ff6b00;
+    position: absolute;
+    bottom: -24px;
+    left: 50%;
+    margin-left: -8px;
+    z-index: 1000;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu>li .search_menu .opened>a .rand-class-1107 .marker,
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu>li .account_menu .opened>a .rand-class-1107 .marker {
+    display: none;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .main_Menu {
+    display: none;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu {
+    display: block !important;
+    margin-left: 10px;
+    position: static;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li {
+    background: none !important;
+    float: left;
+    margin: 0 5px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li>a {
+    padding: 18px 10px 17px 10px;
+    position: relative;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li .deals_menu .opened>a .rand-class-1107 .marker {
+    border-bottom: 8px solid #6bc04b;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li .deals_menu .opened>a .rand-class-1107 .marker:after {
+    border-top-color: #6bc04b;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li .support_menu .opened>a .rand-class-1107 .marker {
+    border-bottom: 8px solid #ea6bb0;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li .support_menu .opened>a .rand-class-1107 .marker:after {
+    border-top-color: #ea6bb0;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu> .opened .rand-class-1107 .menu_2_wrapper {
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .menu_2_wrapper {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #f2f2f2;
+    z-index: 900;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 13px;
+    display: block;
+    height: 250px;
+    padding: 10px 0;
+    border-left: 1px solid #f2f2f2;
+    position: relative;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu:after {
+    content: " ";
+    border-left: 1px solid #cfcfcf;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu:after {
+    border: none;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu .rand-class-1107 .link_text {
+    color: #009dd9;
+    line-height: 15px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: block;
+    float: left;
+  }
+
+  /* five item */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 20%;
+  }
+
+  /* six item */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 33.3333%;
+  }
+
+  /* seven items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 25%;
+  }
+
+  /* eight items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 25%;
+  }
+
+  /* nine items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 33.3333%;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: block;
+    float: left;
+    width: 100%;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_level_2 {
+    padding: 10px 15px;
+    border-top: none;
+    background: #ffffff;
+    background: -moz-linear-gradient(top,  #ffffff 4%, #dfe0df 31%, #f6f6f6 66%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(4%,#ffffff), color-stop(31%,#dfe0df), color-stop(66%,#f6f6f6));
+    background: -webkit-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+    background: -o-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+    background: -ms-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+    background: linear-gradient(to bottom,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 );
+  }
+
+  .rand-class-1107 .lt-ie10 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_level_2 {
+    filter: none;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .link_text {
+    color: #009dd9;
+    font-size: 13px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2>li .menu_level_2:first-child> .link_wrapper>a> .link_text {
+    font-size: 15px;
+    text-transform: uppercase;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_3 .rand-class-1107 .link_text {
+    font-size: 12px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .linkLevel_2 .link-hasChildren {
+    padding-bottom: 0px;
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .rand-class-1107 .menu_3 {
+    margin: 0;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .rand-class-1107 .menu_3 {
+    padding: 0;
+    border-top: none;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot {
+    border-left: 2px solid #f2f2f2;
+    overflow: hidden;
+    position: relative;
+    display: table-cell;
+    max-height: 240px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot {
+    float: left;
+    max-width: 230px;
+    padding-right: 15px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+    padding-top: 50px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+    font-size: 13px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+    font-size: 12px;
+    color: #fe8600;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+    margin: 0;
+    font-size: 12px;
+    color: #000;
+    line-height: 16px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: block;
+    float: left;
+    width: 100%;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    padding: 10px 15px;
+    border-left: 2px solid #f2f2f2;
+    background: #ffffff;
+    background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f6f6f6));
+    background: -webkit-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+    background: -o-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+    background: -ms-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+    background: linear-gradient(to bottom, #ffffff 0%,#f6f6f6 100%);
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a {
+    position: relative;
+    padding: 15px 7px 10px 7px;
+  }
+}
+
+@media (min-width: 51em) {
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li {
+    margin: 0 7px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: table;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: table-cell;
+    float: none;
+  }
+
+  /* five item */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: auto;
+  }
+
+  /* six item */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: auto;
+  }
+
+  /* seven items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: auto;
+  }
+
+  /* eight items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: auto;
+  }
+
+  /* nine items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: auto;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    float: left;
+    min-height: 250px;
+  }
+
+  /* one item */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 100%;
+  }
+
+  /* two items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 50%;
+  }
+
+  /* three items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 33.3333%;
+  }
+
+  /* four items */
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2,
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    width: 25%;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot {
+    max-height: none;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot {
+    padding: 0;
+    float: none;
+    max-width: 240px;
+    width: 100%;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+    padding-top: 0;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: table;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    display: table-cell;
+    float: none;
+    width: auto;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu {
+    padding-right: 40px;
+    position: relative;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a {
+    padding: 15px 7px 10px 7px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a>span {
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    margin-top: 10px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    border: none;
+    background: #f2f2f2;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .solutions_menu .rand-class-1107 .menu_2_wrapper {
+    color: #009dd9;
+    font-size: 12px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu a>span.counter {
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    margin-top: 0px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+    margin-top: 0px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened {
+    padding: 15px 7px 10px 7px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened>a {
+    margin-right: 5px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened>a,
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper {
+    display: block;
+    float: left;
+    padding: 0;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened>a>span {
+    display: none;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper {
+    position: static;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper .rand-class-1107 .searchInput-text {
+    width: 100px;
+    height: 20px;
+    padding: 0;
+    font-size: 12px;
+    background: none;
+    outline: none;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper .rand-class-1107 .searchInput {
+    padding: 0;
+    line-height: 1;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper .rand-class-1107 .rand-class-8683 {
+    display: none;
+  }
+}
+
+@media (min-width: 60em) {
+  .rand-class-1107 .nav {
+    height: 75px;
+  }
+
+  /* logo */
+
+  .rand-class-1107 .logoWrapper {
+    height: 200px;
+    width: 65px;
+  }
+
+  .rand-class-1107 .navWrapper {
+    margin-left: 65px;
+  }
+
+  .rand-class-1107 .logoWrapper .rand-class-1107 .logo {
+    background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-clear.png);
+    /* background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-clear.svg);*/
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .common_Menu {
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .common_Menu .rand-class-1107 .phone_menu .rand-class-1107 .rand-class-5778 {
+    padding-right: 5px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li>a {
+    padding: 30px 10px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a {
+    padding: 0px 6px 15px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened {
+    padding: 0px 6px 15px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .phone_menu,
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .email_menu {
+    display: none;
+  }
+
+  /* Debug */
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu {
+    position: absolute;
+    display: block;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu:first-child {
+    left: -240px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu:nth-child(2) {
+    left: -110px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu>li .debug_menu>a>span {
+    padding: 4px 0 3px 0;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu .rand-class-1107 .menu_2_wrapper {
+    width: 200px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu .rand-class-1107 .menu_2 {
+    width: 200px;
+    margin: 0;
+    padding: 10px 0 0 0;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu .rand-class-1107 .menu_2 {
+    font-size: 12px;
+    padding: 5px 7px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu .rand-class-1107 .menu_2 {
+    color: #009dd9;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .no_menu {
+    display: none;
+  }
+}
+
+@media (min-width: 60em) and (max-width: 76.75em) {
+  .rand-class-1107 .logoWrapper .rand-class-1107 .logo,
+  .rand-class-1107 .scrolled .logoWrapper .rand-class-1107 .logo {
+    background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-clear.png);
+    /* background-image: url(//www.lenovo.com/images/masthead/rebrand/logo-clear.svg);*/
+  }
+}
+
+@media (min-width: 76.75em) {
+  /* Scrolled */
+
+  .rand-class-1107 .nav .scrolled {
+    height: 50px;
+  }
+
+  .rand-class-1107 .nav .scrolled .rand-class-1107 .main_Menu {
+    padding: 13px 0 12px 0;
+  }
+
+  .rand-class-1107 .nav .scrolled .rand-class-1107 .prd_Menu>li>a {
+    padding: 18px 10px 17px 10px;
+  }
+
+  .rand-class-1107 .nav .scrolled .rand-class-1107 .general_Menu>li>a {
+    padding: 15px 7px 10px 7px;
+  }
+
+  .rand-class-1107 .nav .scrolled .rand-class-1107 .general_Menu> .search_menu .opened {
+    padding: 15px 7px 10px 7px;
+  }
+
+  .rand-class-1107 .nav .scrolled .rand-class-1107 .common_Menu {
+    display: none;
+  }
+
+  .rand-class-1107 .nav .scrolled .rand-class-1107 .general_Menu {
+    margin-top: 0px;
+  }
+
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a,
+  .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened {
+    padding: 0 7px 15px;
+  }
+}
+
+.rand-class-1107 .searchInput .rand-class-1107 .searchInput-text {
+  padding: 0 2px;
+}
+
+.rand-class-1107 .searchInput .rand-class-1107 .preSearchWrapper {
+  font-size: 12px;
+  display: block;
+  padding: 2px 2px;
+}
+
+/* IE8 */
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav {
+  height: 75px;
+}
+
+/* logo */
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .logoWrapper {
+  height: 200px;
+  width: 65px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .navWrapper {
+  margin-left: 65px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .logoWrapper .rand-class-1107 .logo {
+  background: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='//www.lenovo.com/images/masthead/rebrand/logo-clear.png', sizingMethod='scale');
+}
+
+/* Debug */
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu {
+  position: absolute;
+  display: block;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu:first-child {
+  left: -240px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu:nth-child(2) {
+  left: -110px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu>li .debug_menu>a>span {
+  padding: 4px 0 3px 0;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu .rand-class-1107 .menu_2_wrapper {
+  width: 200px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu .rand-class-1107 .menu_2 {
+  width: 200px;
+  margin: 0;
+  padding: 10px 0 0 0;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu .rand-class-1107 .menu_2 {
+  font-size: 12px;
+  padding: 5px 7px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .debug_menu .rand-class-1107 .menu_2 {
+  color: #009dd9;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .no_menu {
+  display: none;
+}
+
+/* Fluid Width */
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  padding: 15px;
+  overflow: auto;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  display: table-cell;
+  padding: 0;
+  border: none;
+  background: none;
+  vertical-align: top;
+}
+
+/* Marker */
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .menu>li .opened>a .rand-class-1107 .marker {
+  border-bottom: 8px solid #ff6b00;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 901;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .menu>li .opened>a .rand-class-1107 .marker:after {
+  content: "";
+  display: block;
+  border: 8px solid transparent;
+  border-top-color: #ff6b00;
+  position: absolute;
+  bottom: -24px;
+  left: 50%;
+  margin-left: -8px;
+  z-index: 1000;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu>li .search_menu .opened>a .rand-class-1107 .marker,
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu>li .account_menu .opened>a .rand-class-1107 .marker {
+  display: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .main_Menu {
+  display: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu {
+  background-color: #e5e5e5 !important;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu {
+  display: block !important;
+  margin-left: 10px;
+  position: static;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li {
+  background: none !important;
+  float: left;
+  margin: 0 5px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li>a {
+  padding: 18px 10px 17px 10px;
+  position: relative;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li .deals_menu .opened>a .rand-class-1107 .marker {
+  border-bottom: 8px solid #6bc04b;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li .deals_menu .opened>a .rand-class-1107 .marker:after {
+  border-top-color: #6bc04b;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li .support_menu .opened>a .rand-class-1107 .marker {
+  border-bottom: 8px solid #ea6bb0;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li .support_menu .opened>a .rand-class-1107 .marker:after {
+  border-top-color: #ea6bb0;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu> .opened .rand-class-1107 .menu_2_wrapper {
+  display: block;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .menu_2_wrapper {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #f2f2f2;
+  z-index: 900;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 13px;
+  display: block;
+  height: 250px;
+  padding: 10px 0;
+  border-left: 1px solid #f2f2f2;
+  position: relative;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu:after {
+  content: " ";
+  border-left: 1px solid #cfcfcf;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu:after {
+  border: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .product_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .products_submenu .rand-class-1107 .link_text {
+  color: #009dd9;
+  line-height: 15px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_level_2 {
+  padding: 10px 15px;
+  border-top: none;
+  background: #ffffff;
+  background: -moz-linear-gradient(top,  #ffffff 4%, #dfe0df 31%, #f6f6f6 66%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(4%,#ffffff), color-stop(31%,#dfe0df), color-stop(66%,#f6f6f6));
+  background: -webkit-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+  background: -o-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+  background: -ms-linear-gradient(top,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+  background: linear-gradient(to bottom,  #ffffff 4%,#dfe0df 31%,#f6f6f6 66%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 );
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .link_text {
+  color: #009dd9;
+  font-size: 13px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2>li .menu_level_2:first-child> .link_wrapper>a> .link_text {
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_3 .rand-class-1107 .link_text {
+  font-size: 12px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .linkLevel_2 .link-hasChildren {
+  padding-bottom: 0px;
+  display: block;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .rand-class-1107 .menu_3 {
+  margin: 0;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 .rand-class-1107 .rand-class-1107 .menu_3 {
+  padding: 0;
+  border-top: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot {
+  border-left: 2px solid #f2f2f2;
+  overflow: hidden;
+  position: relative;
+  display: table-cell;
+  max-height: 240px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot {
+  float: left;
+  max-width: 230px;
+  padding-right: 15px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+  padding-top: 50px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+  font-size: 13px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+  font-size: 12px;
+  color: #fe8600;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .deals_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 li.promo_spot .rand-class-1107 .link_text {
+  margin: 0;
+  font-size: 12px;
+  color: #000;
+  line-height: 16px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  display: table;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  display: table-cell;
+  float: none;
+  width: auto;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .rand-class-1107 .rand-class-1107 .nav .rand-class-1107 .prd_Menu .rand-class-1107 .support_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  padding: 10px 15px;
+  border-left: 2px solid #f2f2f2;
+  background: #ffffff;
+  background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f6f6f6));
+  background: -webkit-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+  background: -o-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+  background: -ms-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);
+  background: linear-gradient(to bottom, #ffffff 0%,#f6f6f6 100%);
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu>li .search_menu .opened>a .rand-class-1107 .marker,
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu>li .account_menu .opened>a .rand-class-1107 .marker {
+  display: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu {
+  padding-right: 40px;
+  position: relative;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a {
+  padding: 15px 7px 10px 7px;
+  position: relative;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a>span {
+  display: block;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  margin-top: 10px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  border: none;
+  background: #f2f2f2;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .solutions_menu .rand-class-1107 .menu_2_wrapper {
+  color: #009dd9;
+  font-size: 12px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu a>span.counter {
+  display: block;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .cart_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  margin-top: 0px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .rand-class-1107 .menu_2_wrapper .rand-class-1107 .menu_2 {
+  margin-top: 0px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened {
+  padding: 15px 7px 10px 7px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened>a {
+  margin-right: 5px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened>a,
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper {
+  display: block;
+  float: left;
+  padding: 0;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened>a>span {
+  display: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper {
+  position: static;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper .rand-class-1107 .searchInput-text {
+  width: 100px;
+  height: 20px;
+  padding: 0;
+  font-size: 12px;
+  background: none;
+  outline: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper .rand-class-1107 .searchInput {
+  padding: 0;
+  line-height: 1;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .search_menu .opened .rand-class-1107 .menu_2_wrapper .rand-class-1107 .rand-class-8683 {
+  display: none;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .common_Menu {
+  display: block;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .prd_Menu>li>a {
+  padding: 30px 10px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu>li>a {
+  padding: 0px 6px 15px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu> .search_menu .opened {
+  padding: 0px 6px 15px;
+}
+
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .phone_menu,
+.rand-class-1107 .lt-ie9 .rand-class-1107 .nav .rand-class-1107 .general_Menu .rand-class-1107 .email_menu {
+  display: none;
+}
+
+/* Bug Fix - 1912 */
+
+ {
+  padding-top: 18px;
+  line-height: 16px;
+}

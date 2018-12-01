@@ -1,0 +1,33 @@
+/* Overrides for JDA-injected footer */
+
+ {
+  background: none;
+  min-height: auto;
+  position: relative;
+  text-align: left;
+  width: 100%;
+  z-index: 1;
+}
+
+ {
+  display: block;
+  margin: 0;
+}
+
+ {
+  display: list-item;
+}
+
+.rand-class-1107 .rand-class-8752 {
+  display: inline-block;
+}
+
+.rand-class-1107 .jdaFooterDiv,
+.rand-class-1107 .footerLinks,
+.rand-class-1107 .footerLinks,
+.rand-class-1107 .footerLinksLeft,
+.rand-class-1107 .footerLinksLeft,
+.rand-class-1107 .footerLinksRight,
+.rand-class-1107 .footerLinksRight {
+  font: 1em/1.75 helvetica,sans-serif;
+}
